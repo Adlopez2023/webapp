@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form method="post">
+    {% csrf_token %}
+   <h3> Desea eliminar el modelo - {{ object.nombre_modelo }} ? </h3>
+
+    <button class="btn btn-danger" type="submit">Sí, Eliminar</button>
+    <a class="btn btn-primary pasive" href="{% url 'listar_modelos'  %} " >Cancelar</a>
+</form>
+
+
+{% endblock %}

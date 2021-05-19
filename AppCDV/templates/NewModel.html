@@ -1,0 +1,96 @@
+{% extends 'base.html' %} {% block enunciadoRF %} {% load static%}
+<link rel="stylesheet" href="{% static 'css/createModel.css' %}" />
+
+<div>
+	<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="{% url 'listar_modelos' %}">Modelos</a></li>
+		<li class="breadcrumb-item active" aria-current="page">Creación modelo</li>
+	</ol>
+	</nav>
+	</div>
+
+<section >
+
+  <div class="container">
+		<div class="row">
+			<div class="col-2"></div>
+			<div class="col-10">
+						<div class="row">
+					<div class="mt-4 mb-4 col-12"><h2>Crear un nuevo modelo </h2> </div>
+				</div>
+				<div class="row">
+					<div class="col-10">
+					Seleccionar un archivo: 
+
+					<a class ="ml-3 btn btn-primary active" href="{% url 'carga_archivo' %}">Cargar archivo</a>
+					<h5>{{NomArchivo}}</h5>
+					<h5>{{listaVar}}</h5>
+					</div>
+				</div>
+				<form method="post">
+				{% csrf_token %}
+				<div class="row">
+					<div class="col-10">
+						<label class="mt-3" for="id_nombre_archivo">{{ form.visible_fields.4.label_tag }}</label>
+						{{ form.nombre_archivo.errors }}
+						{{ form.nombre_archivo }}
+						{{ form.nombre_archivo.help_text }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-10">
+						<label class="mt-3" for="id_caracteristicas">{{ form.visible_fields.5.label_tag }}</label>
+						{{ form.caracteristicas.errors }}
+						{{ form.caracteristicas }}
+						{{ form.caracteristicas.help_text }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-10">
+						<label  class="mt-3" for="id_nombre_modelo">{{ form.visible_fields.0.label_tag }}</label>
+						{{ form.nombre_modelo.errors }}
+						{{ form.nombre_modelo }}
+						{{ form.nombre_modelo.help_text }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-10">
+						<label  class="mt-3" for="id_fecha_creacion">{{ form.visible_fields.1.label_tag }}</label>
+						{{ form.fecha_creacion.errors }}
+						{{ form.fecha_creacion }}
+						{{ form.fecha_creacion.help_text }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-10 ">
+						<label  class="mt-3" for="id_algoritmo">{{ form.visible_fields.2.label_tag }}</label>
+						{{ form.algoritmo.errors }}
+						{{ form.algoritmo }}
+						{{ form.algoritmo.help_text }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-10">
+						<label  class="mt-3" for="id_autor">{{ form.visible_fields.3.label_tag }}</label>
+						{{ form.autor.errors }}
+						{{ form.autor }}
+						{{ form.autor.help_text }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="mt-3 mb-4 col-10">
+						<button type="submit" class="btn btn-success mr-4">Entrenar</button>
+						<a  href="{% url 'listar_modelos' %}" class="btn btn-secondary">Cancelar</a>
+					</div>
+				</div>
+
+				</form>
+
+			</div>	
+		</div>
+  </div>
+</section>
+
+
+{% endblock %} {% block content%} {% endblock%}

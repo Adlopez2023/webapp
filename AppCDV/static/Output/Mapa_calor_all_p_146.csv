@@ -1,0 +1,68 @@
+Tipo|columna|variable|C_0|C_1
+146|pais_hecho|Colombia|9.33|90.67
+146|departamento_hecho|Amazonas|0.0|100.0
+146|departamento_hecho|Antioquia|5.45|94.55
+146|departamento_hecho|Arauca|14.29|85.71
+146|departamento_hecho|ArchipiÃ©lago De San AndrÃ©s, Providencia Y Santa Catalina|0.0|100.0
+146|departamento_hecho|AtlÃ¡ntico|16.67|83.33
+146|departamento_hecho|BogotÃ¡|0.0|100.0
+146|departamento_hecho|BolÃ­var|10.0|90.0
+146|departamento_hecho|BoyacÃ¡|11.11|88.89
+146|departamento_hecho|Caldas|8.7|91.3
+146|departamento_hecho|CaquetÃ¡|11.76|88.24
+146|departamento_hecho|Casanare|10.0|90.0
+146|departamento_hecho|Cauca|9.3|90.7
+146|departamento_hecho|Cesar|11.54|88.46
+146|departamento_hecho|ChocÃ³|7.41|92.59
+146|departamento_hecho|Cundinamarca|11.11|88.89
+146|departamento_hecho|CÃ³rdoba|10.53|89.47
+146|departamento_hecho|GuainÃ­a|0.0|100.0
+146|departamento_hecho|Guaviare|20.0|80.0
+146|departamento_hecho|Huila|8.57|91.43
+146|departamento_hecho|La Guajira|13.33|86.67
+146|departamento_hecho|Magdalena|9.09|90.91
+146|departamento_hecho|Meta|10.71|89.29
+146|departamento_hecho|NariÃ±o|8.7|91.3
+146|departamento_hecho|Norte De Santander|10.34|89.66
+146|departamento_hecho|Putumayo|14.29|85.71
+146|departamento_hecho|Quindio|0.0|100.0
+146|departamento_hecho|Risaralda|15.38|84.62
+146|departamento_hecho|Santander|9.62|90.38
+146|departamento_hecho|Sin Especificar|9.3|90.7
+146|departamento_hecho|Sucre|9.52|90.48
+146|departamento_hecho|Sumapaz|0.0|100.0
+146|departamento_hecho|Tolima|10.0|90.0
+146|departamento_hecho|Valle Del Cauca|10.81|89.19
+146|departamento_hecho|VaupÃ©s|20.0|80.0
+146|departamento_hecho|Vichada|0.0|100.0
+146|victimas_identificadas|0_a_1|9.47|90.53
+146|victimas_identificadas|1_a_2|7.69|92.31
+146|victimas_identificadas|5_a_6|0.0|100.0
+146|victimas_identificadas|3_a_4|0.0|100.0
+146|victimas_identificadas|2_a_3|9.41|90.59
+146|victimas_identificadas|4_a_5|0.0|100.0
+146|victimas_identificadas|-9999_a_0|0.0|100.0
+146|victimas_total|4_a_5|0.0|100.0
+146|victimas_total|0_a_1|9.41|90.59
+146|victimas_total|6_a_7|0.0|100.0
+146|victimas_total|3_a_4|0.0|100.0
+146|victimas_total|1_a_2|10.75|89.25
+146|victimas_total|10_a_11|0.0|100.0
+146|victimas_total|8_a_9|0.0|100.0
+146|victimas_total|2_a_3|0.0|100.0
+146|responsables_identificados|-9999_a_0|9.35|90.65
+146|responsables_identificados|0_a_1|9.39|90.61
+146|responsables_identificados|1_a_2|0.0|100.0
+146|responsables_identificados|2_a_3|0.0|100.0
+146|tc_tc_politico|0|9.33|90.67
+146|v_vs_violacion_sexual_embarazo|Sin Especificar|0.0|100.0
+146|v_vs_violacion_sexual_embarazo|SÃÂ­|100.0|0.0
+146|v_vs_violacion_sexual_embarazo|No|100.0|0.0
+146|v_vs_violacion_sexual_embarazo_nacimiento|Sin Especificar|0.0|100.0
+146|v_vs_violacion_sexual_embarazo_nacimiento|No|100.0|0.0
+146|v_vs_violacion_sexual_ind_col|Sin Especificar|0.0|100.0
+146|v_vs_violacion_sexual_ind_col|Individual|100.0|0.0
+146|v_vs_violacion_sexual_multiple_responsable|Sin Especificar|0.0|100.0
+146|v_vs_violacion_sexual_multiple_responsable|SÃÂ­|100.0|0.0
+146|cluster|1|0.0|100.0
+146|cluster|0|100.0|0.0

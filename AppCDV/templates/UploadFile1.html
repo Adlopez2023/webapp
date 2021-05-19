@@ -1,0 +1,290 @@
+{% extends 'base.html' %} {% block head %}
+{% load static%}
+<link rel="stylesheet" href="{% static 'css/createModel.css' %}" />
+
+<script>
+  function getValues1() {
+    var selected = new Array();
+    var chkbox = document.getElementById("myTable1");
+    var selchk = chkbox.getElementsByTagName("input");
+    for (var i = 0; i < selchk.length; i++) {
+      if (selchk[i].checked) {
+        selected.push(selchk[i].value);
+      }
+    }
+    if (selected.length > 1) {
+      localStorage.setItem("selected", selected);
+      document.getElementById("verLista").innerHTML = `<div> <p>Variables seleccionadas: </p> </div>`  + selected;
+      document.getElementById("show-btn-selected").style.display = "block";
+      document.getElementById("nArchivo").innerHTML = localStorage.getItem(
+        "file"
+      );
+
+      $.ajax({
+        url: "",
+        type: "POST",
+        data: {
+          ListSelec: selected.toString(),
+          csrfmiddlewaretoken: "{{ csrf_token }}",
+        },
+        dataType: "json",
+        success: function (data) {
+          console.log("Enviado");
+        },
+      });
+    }
+    else{
+      alert("Debe seleccionar al menos 2 variables");
+    }
+  }
+
+  function checkAll() {
+    var selected = new Array();
+    var chkbox = document.getElementById("myTable1");
+    var selchk = chkbox.getElementsByTagName("input");
+    for (var i = 0; i < selchk.length; i++) {
+      selchk[i].checked=true;
+    } 
+  }
+
+  function cleanAll() {
+    var selected = new Array();
+    var chkbox = document.getElementById("myTable1");
+    var selchk = chkbox.getElementsByTagName("input");
+    for (var i = 0; i < selchk.length; i++) {
+      selchk[i].checked=false;
+    } 
+  }
+
+  function getValues2() {
+    /* 
+    $.ajax({
+            url: '/newmodel/',
+            type: 'GET',
+            data: {
+            NomArchivo : localStorage.getItem('file').toString()
+            },
+            dataType: 'json',
+            success: function (data) {
+            console.log('Enviado');
+            }
+        });*/
+  }
+</script>
+{% endblock%} {% block enunciadoRF %}
+<section>
+  <div>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{% url 'listar_modelos' %}">Modelos</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{% url 'nuevo_modelo' %}">Creación de modelo</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">
+          Carga de archivo
+        </li>
+      </ol>
+    </nav>
+  </div>
+
+  <div class="container">
+    <form id="caracteristicas" method="post" enctype="multipart/form-data">
+      {% csrf_token %}
+      <div class="row">
+        <div class="mt-4 mb-4 col-12">
+          <h2>Carga de archivo</h2>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-6">
+          <div class="row">
+            <div class="col-12"><p>Seleccionar archivo:</p></div>
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <input id="archivo" type="file" name="myFile" accept=".csv"/>
+              <script>
+                $(document).ready(function () {
+                  $('input[type="file"]').change(function (e) {
+                    var nomArchivo = e.target.files[0].name;
+                    localStorage.setItem("file", nomArchivo);
+                    if (nomArchivo != "") {
+                      document.getElementById(
+                        "nArchivo"
+                      ).innerHTML = localStorage.getItem("file");
+                    }
+                  });
+                });
+              </script>
+            </div>
+          </div>
+          <div class="row">
+            <div class="mt-4 mb-4 col-12">
+              <input
+                id="seleccionar"
+                class="btn btn-primary active"
+                type="submit"
+                value="Cargar variables"
+              />
+            </div>
+          </div>         
+          <div>
+            <br>
+            <p><b>{{ nombreArchivo }}</b></p>
+          </div>
+        </div>
+      </div>
+    </form>
+        <div class="col-6">
+          {% if something %}
+          <table id="myTable1" class="myTable">
+            <div>
+              <p>Seleccionar variables:</p>
+              <button class="mt-4 mb-4 btn btn-primary active" onclick="checkAll()">Marcar todas</button>
+              <button class="mt-4 mb-4 btn btn-primary active" onclick="cleanAll()">Limpiar</button>
+            </div>
+            <thead>
+              <tr>
+                <th onclick="sortTable(0, myTable1)"><u>Variable</u></th>
+                <th onclick="sortTable(1, myTable1)"><u>seleccionar</u></th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in cols %}
+              <tr>
+                <td>{{ item }}</td>
+                <td>
+                  <input
+                    id="chkVariables"
+                    type="checkbox"
+                    value="{{item}}"
+                    class="attendancecheckvalue"
+                  />
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+          {% endif %}
+        </div>
+      
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-6"></div>
+      <div class="col-6">
+        {% if something %}
+      
+        <input
+          id="ClickOK"
+          class="mt-4 mb-4 btn btn-primary active"
+          type="submit"
+          onclick="getValues1()"
+          value="Seleccionar"
+        />
+        {% endif %}
+
+        <div>
+        <b id="verLista"></b>
+        <b hidden id="nArchivo"></b>
+
+        </div>
+
+        <form id="salida" method="post" enctype="multipart/form-data">
+          {% csrf_token %}
+          <a
+            id="show-btn-selected"
+            class="btn btn-success"
+            onclick="getValues2()"
+            href="{% url 'nuevo_modelo' %}"
+            >Aceptar</a
+          >
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endblock %}
+
+<!--
+   <form id="caracteristicas" method="post" enctype="multipart/form-data">
+          {% csrf_token %}
+          <p> Seleccionar archivo: </p>
+          <input id="archivo" type="file" name="myFile" />
+          <script>
+            $(document).ready(function () {
+              $('input[type="file"]').change(function (e) {
+                var nomArchivo = e.target.files[0].name;
+                localStorage.setItem("file", nomArchivo);
+                if (nomArchivo != "") {
+                  document.getElementById(
+                    "nArchivo"
+                  ).innerHTML = localStorage.getItem("file");
+                }
+              });
+            });
+          </script>
+
+          <input
+            id="seleccionar"
+            class="btn btn-primary active"
+            type="submit"
+            value="Cargar variables"
+          />
+
+          {% if something %}
+          <table id="myTable1" class="myTable">
+            <thead>
+              <tr>
+                <th onclick="sortTable(0, myTable1)"><u>Variable</u></th>
+                <th onclick="sortTable(1, myTable1)"><u>seleccionar</u></th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in cols %}
+              <tr>
+                <td>{{ item }}</td>
+                <td>
+                  <input
+                    id="chkVariables"
+                    type="checkbox"
+                    value="{{item}}"
+                    class="attendancecheckvalue"
+                  />
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+          {% endif %}
+        </form>
+        {% if something %}
+        <br />
+        <input
+          id="ClickOK"
+          class="btn btn-primary active"
+          type="submit"
+          onclick="getValues1()"
+          value="Seleccionar"
+        />
+        {% endif %}
+
+        <b id="verLista"></b>
+        <b hidden id="nArchivo"></b>
+
+        <form id="salida" method="post" enctype="multipart/form-data">
+          {% csrf_token %}
+          <br /><br />
+          <a
+            class="btn btn-success"
+            onclick="getValues2()"
+            href="{% url 'nuevo_modelo' %}"
+            >Salir</a
+          >
+        </form>
+
+-->

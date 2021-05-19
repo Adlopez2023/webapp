@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+  {% block title %}<title>Resultados</title>{% endblock %}
+  <style>
+      * {
+        margin:0;
+        padding:0;
+      }
+      a:link, a:visited, a:hover, a:active {
+        color:#808080;
+        font-size:16px;
+      }
+      body {
+        background:#eee;
+        font-family:verdana;
+      }
+      h1 {
+        color:#c0c;
+        font-size:24px;
+      }
+      p {
+        font-size:16px;
+      }
+      ul {
+        list-style-type:none;
+      }
+      #cabecera {
+        color:#ff9;
+        background-color:#000;
+        padding:10px;
+      }
+      #contenedor {
+        margin:0 auto;
+        width:1500px;
+      }
+      #mapa_de_calor {
+        background-color:#ddd;
+        float:left;
+        height:550px;
+        padding:10px;
+        width:400px;
+      }
+      #caracteristicas {
+        background-color:#C0C0C0;
+        float:left;
+        height:550px;
+        padding:10px;
+        width:400px;
+      }
+
+    </style>
+
+</head>
+<body>
+
+  <div id="contenedor">
+      <div id="cabecera">
+        <a href="../home/">Volver a Inicio</a>
+        <p>Resultados:</p>
+      </div>
+      <div id="mapa_de_calor">
+        <h4>Mapa de calor</h4>
+          <img src='{% static "imagenes/MapaCalor1.png" %}'/>
+        <br/><br/><br/>
+        <h4>Descarga de resultados</h4>
+        <a href="" download="Resultados_mod.txt">Descargar</a>
+      </div>
+      <div id="caracteristicas">
+        <h4>Listado de características</h4>
+        <table class="default">
+          <tr>
+            <th>Característica</th>
+            <th>Ganancia</th>
+            <th>Cobertura</th>
+          </tr>
+          <tr>
+            <td>violencia sexual</td>
+            <td align="center">4</td>
+            <td align="center">5</td>
+          </tr>
+          <tr>
+            <td>Secuestro</td>
+            <td align="center">4</td>
+            <td align="center">4,5</td>
+          </tr>
+          <tr>
+            <td>Desplazamiento</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+          </tr>
+          <tr>
+            <td>  </td>
+            <td align="center"> </td>
+            <td align="center"> </td>
+          </tr>
+          <tr>
+            <td> </td>
+            <td align="center"> </td>
+            <td align="center"> </td>
+          </tr>
+        </table>
+        <h4>Descarga de lista de características</h4>
+        <a href="" download="Resultados_mod.txt">Descargar</a>
+      </div>
+  </div>
+  <img src='{% static "imagenes/Codo.png" %}'/>
+  <h4>Diagrama de codo</h4>
+  <img src='{% static "imagenes/Distancia.png" %}'/>
+  <h4>Distancia entre clusters</h4>
+  <img src='{% static "imagenes/Funcion.png" %}'/>
+  <h4>En funcion del modelo</h4>
+
+  {% block content %}<!-- default content text (typically empty) -->{% endblock %}
+</body>
+</html>

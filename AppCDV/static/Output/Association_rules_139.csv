@@ -1,0 +1,1093 @@
+cluster|antecedents_description|consequents_description|support|confidence
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|1.0
+0|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9826989619377162|0.9826989619377162
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9826989619377162|0.9826989619377162
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|1.0
+3|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9730250481695568|0.9730250481695568
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9730250481695568|0.9730250481695568
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|1.0
+1|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9837786259541985|0.9837786259541985
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9837786259541985|0.9837786259541985
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  1|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|1.0
+5|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza hostigamiento' posee el valor de  1|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+5|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.8|0.8
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.8|0.8
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+6|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+6|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  1|1.0|1.0
+6|Cuando el atributo 'amenaza familiar' posee el valor de  1|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  1|1.0|1.0
+6|Cuando el atributo 'amenaza familiar' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  1|1.0|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+6|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+6|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+6|Cuando el atributo 'amenaza familiar' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+2|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|0.9482758620689655
+2|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9482758620689655|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'amenaza hostigamiento' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0
+4|Cuando el atributo 'v vs cambios forzados ind col' posee el valor de  Sin Especificar|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza hostigamiento' posee el valor de  0|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'amenaza familiar' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|0.9546925566343042
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'amenaza familiar' posee el valor de  0|0.9546925566343042|1.0

@@ -1,0 +1,27 @@
+cluster|antecedents_description|consequents_description|support|confidence
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|1.0|1.0
+2|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|1.0|1.0
+2|Cuando el atributo 'tipo amenaza' posee el valor de  Individual|Entonces el atributo 'tc tc politico' posee el valor de  0|0.90625|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'tipo amenaza' posee el valor de  Individual|0.90625|0.90625
+2|Cuando el atributo 'tipo amenaza' posee el valor de  Individual|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.90625|1.0
+2|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tipo amenaza' posee el valor de  Individual|0.90625|0.90625
+2|Cuando el atributo 'tipo amenaza' posee el valor de  Individual|Entonces el atributo 'tc tc politico' posee el valor de  0|0.90625|1.0
+2|Cuando el atributo 'tipo amenaza' posee el valor de  Individual|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.90625|1.0
+2|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tipo amenaza' posee el valor de  Individual|0.90625|0.90625
+2|Cuando el atributo 'tipo amenaza' posee el valor de  Individual|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.90625|1.0
+2|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tipo amenaza' posee el valor de  Individual|0.90625|0.90625
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'tipo amenaza' posee el valor de  Individual|0.90625|0.90625
+0|Cuando el atributo 'tipo amenaza' posee el valor de  Sin Especificar|Entonces el atributo 'lugar zona' posee el valor de  Rural|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tipo amenaza' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'tipo amenaza' posee el valor de  Sin Especificar|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'tipo amenaza' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|1.0|1.0
+0|Cuando el atributo 'tipo amenaza' posee el valor de  Sin Especificar|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'tipo amenaza' posee el valor de  Sin Especificar|Entonces el atributo 'lugar zona' posee el valor de  Rural|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tipo amenaza' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'tipo amenaza' posee el valor de  Sin Especificar|Entonces el atributo 'lugar zona' posee el valor de  Rural|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'tipo amenaza' posee el valor de  Sin Especificar|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'tipo amenaza' posee el valor de  Sin Especificar|1.0|1.0

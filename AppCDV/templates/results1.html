@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<h4>Mapa de calor</h4>
+
+<div id="contenedor">
+    <div id="mapa_de_calor">
+      <h4>Mapa de calor</h4>
+        <img src='{% static "imagenes/MapaCalor1.png" %}'/>
+      <br/><br/><br/>
+      <h4>Descarga de resultados</h4>
+      <a href="" download="Resultados_mod.txt">Descargar</a>
+    </div>
+    <div id="caracteristicas">
+      <h4>Listado de características</h4>
+      <table class="default">
+        <tr>
+          <th>Característica</th>
+          <th>Ganancia</th>
+          <th>Cobertura</th>
+        </tr>
+        <tr>
+          <td>violencia sexual</td>
+          <td align="center">4</td>
+          <td align="center">5</td>
+        </tr>
+        <tr>
+          <td>Secuestro</td>
+          <td align="center">4</td>
+          <td align="center">4,5</td>
+        </tr>
+        <tr>
+          <td>Desplazamiento</td>
+          <td align="center">5</td>
+          <td align="center">5</td>
+        </tr>
+        <tr>
+          <td>  </td>
+          <td align="center"> </td>
+          <td align="center"> </td>
+        </tr>
+        <tr>
+          <td> </td>
+          <td align="center"> </td>
+          <td align="center"> </td>
+        </tr>
+      </table>
+      <h4>Descarga de lista de características</h4>
+      <a href="" download="Resultados_mod.txt">Descargar</a>
+    </div>
+</div>
+<img src='{% static "imagenes/Codo.png" %}'/>
+<h4>Diagrama de codo</h4>
+<img src='{% static "imagenes/Distancia.png" %}'/>
+<h4>Distancia entre clusters</h4>
+<img src='{% static "imagenes/Funcion.png" %}'/>
+<h4>En funcion del modelo</h4>
+
+{% endblock %}

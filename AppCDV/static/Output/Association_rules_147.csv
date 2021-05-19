@@ -1,0 +1,73 @@
+cluster|antecedents_description|consequents_description|support|confidence
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9972862957937585|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9972862957937585|0.9972862957937585
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8873812754409769|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8873812754409769|0.8873812754409769
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8846675712347354|0.9969418960244648
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8846675712347354|0.8870748299319727
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8846675712347354|1.0
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8846675712347354|0.9969418960244648
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8846675712347354|0.8870748299319727
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8846675712347354|0.9969418960244648
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8846675712347354|0.8870748299319727
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8846675712347354|0.8846675712347354
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9818181818181818|0.9818181818181818
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818181818181818|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9818181818181818|0.9818181818181818
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9818181818181818|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9818181818181818|0.9818181818181818
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818181818181818|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9818181818181818|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818181818181818|0.9818181818181818
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9818181818181818|0.9818181818181818
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9818181818181818|1.0
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9545454545454546|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9545454545454546|0.9545454545454546
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9545454545454546|0.9545454545454546
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9545454545454546|1.0
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9545454545454546|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9545454545454546|0.9545454545454546
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9545454545454546|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9545454545454546|0.9545454545454546
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9545454545454546|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9545454545454546|0.9545454545454546
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9363636363636364|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9363636363636364
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9363636363636364
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'victimas total' posee el valor de  (0.801, 20.9]|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9363636363636364|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9363636363636364
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9363636363636364|0.9363636363636364
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9809523809523809
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9363636363636364
+1|Cuando el atributo 'victimas total' posee el valor de  (0.801, 20.9]|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.9363636363636364|0.9537037037037037
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8090909090909091|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8090909090909091|0.8090909090909091
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.8090909090909091|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8090909090909091|0.8090909090909091
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8090909090909091|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.8090909090909091|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8090909090909091|0.8090909090909091
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.8090909090909091|1.0
+1|Cuando el atributo 'departamento hecho' posee el valor de  Antioquia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8090909090909091|0.8090909090909091
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'departamento hecho' posee el valor de  Antioquia|0.8090909090909091|0.8090909090909091

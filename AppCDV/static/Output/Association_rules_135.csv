@@ -1,0 +1,25 @@
+cluster|antecedents_description|consequents_description|support|confidence
+0|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'amenaza carta' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|1.0|1.0
+0|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'hechos continuan' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'amenaza carta' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'amenaza carta' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|1.0|1.0
+0|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'amenaza carta' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|1.0|1.0
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|1.0|1.0
+1|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9983766233766234|1.0
+1|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'amenaza carta' posee el valor de  0|0.9983766233766234|0.9983766233766234
+1|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9886363636363636|0.9886363636363636
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9886363636363636|1.0
+1|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'hechos continuan' posee el valor de  0|0.987012987012987|0.9886178861788618
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'amenaza carta' posee el valor de  0|0.987012987012987|0.9983579638752053
+1|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'hechos continuan' posee el valor de  0|0.987012987012987|0.9886178861788618
+1|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.987012987012987|1.0
+1|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'amenaza carta' posee el valor de  0|0.987012987012987|0.9983579638752053
+1|Cuando el atributo 'amenaza carta' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.987012987012987|0.9886178861788618
+1|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'amenaza carta' posee el valor de  0|0.987012987012987|0.987012987012987
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'amenaza carta' posee el valor de  0|0.987012987012987|0.9983579638752053

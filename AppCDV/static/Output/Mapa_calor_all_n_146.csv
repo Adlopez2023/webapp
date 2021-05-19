@@ -1,0 +1,68 @@
+Tipo|columna|variable|C_0|C_1
+146|pais_hecho|Colombia|395|3840
+146|departamento_hecho|Amazonas|0|50
+146|departamento_hecho|Antioquia|30|520
+146|departamento_hecho|Arauca|5|30
+146|departamento_hecho|Archipiélago De San Andrés, Providencia Y Santa Catalina|0|10
+146|departamento_hecho|Atlántico|5|25
+146|departamento_hecho|Bogotá|0|10
+146|departamento_hecho|Bolívar|15|135
+146|departamento_hecho|Boyacá|20|160
+146|departamento_hecho|Caldas|10|105
+146|departamento_hecho|Caquetá|10|75
+146|departamento_hecho|Casanare|10|90
+146|departamento_hecho|Cauca|20|195
+146|departamento_hecho|Cesar|15|115
+146|departamento_hecho|Chocó|10|125
+146|departamento_hecho|Cundinamarca|25|200
+146|departamento_hecho|Córdoba|10|85
+146|departamento_hecho|Guainía|0|25
+146|departamento_hecho|Guaviare|5|20
+146|departamento_hecho|Huila|15|160
+146|departamento_hecho|La Guajira|10|65
+146|departamento_hecho|Magdalena|10|100
+146|departamento_hecho|Meta|15|125
+146|departamento_hecho|Nariño|20|210
+146|departamento_hecho|Norte De Santander|15|130
+146|departamento_hecho|Putumayo|10|60
+146|departamento_hecho|Quindio|0|40
+146|departamento_hecho|Risaralda|10|55
+146|departamento_hecho|Santander|25|235
+146|departamento_hecho|Sin Especificar|20|195
+146|departamento_hecho|Sucre|10|95
+146|departamento_hecho|Sumapaz|0|5
+146|departamento_hecho|Tolima|20|180
+146|departamento_hecho|Valle Del Cauca|20|165
+146|departamento_hecho|Vaupés|5|20
+146|departamento_hecho|Vichada|0|25
+146|victimas_identificadas|0_a_1|310|2965
+146|victimas_identificadas|1_a_2|5|60
+146|victimas_identificadas|5_a_6|0|5
+146|victimas_identificadas|3_a_4|0|30
+146|victimas_identificadas|2_a_3|80|770
+146|victimas_identificadas|4_a_5|0|5
+146|victimas_identificadas|-9999_a_0|0|5
+146|victimas_total|4_a_5|0|15
+146|victimas_total|0_a_1|345|3320
+146|victimas_total|6_a_7|0|10
+146|victimas_total|3_a_4|0|40
+146|victimas_total|1_a_2|50|415
+146|victimas_total|10_a_11|0|20
+146|victimas_total|8_a_9|0|10
+146|victimas_total|2_a_3|0|10
+146|responsables_identificados|-9999_a_0|310|3005
+146|responsables_identificados|0_a_1|85|820
+146|responsables_identificados|1_a_2|0|10
+146|responsables_identificados|2_a_3|0|5
+146|tc_tc_politico|0|395|3840
+146|v_vs_violacion_sexual_embarazo|Sin Especificar|0|3840
+146|v_vs_violacion_sexual_embarazo|SÃ­|5|0
+146|v_vs_violacion_sexual_embarazo|No|390|0
+146|v_vs_violacion_sexual_embarazo_nacimiento|Sin Especificar|0|3840
+146|v_vs_violacion_sexual_embarazo_nacimiento|No|395|0
+146|v_vs_violacion_sexual_ind_col|Sin Especificar|0|3840
+146|v_vs_violacion_sexual_ind_col|Individual|395|0
+146|v_vs_violacion_sexual_multiple_responsable|Sin Especificar|0|3840
+146|v_vs_violacion_sexual_multiple_responsable|SÃ­|395|0
+146|cluster|1|0|3840
+146|cluster|0|395|0

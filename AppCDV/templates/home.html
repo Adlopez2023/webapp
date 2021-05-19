@@ -1,0 +1,563 @@
+{% extends 'base.html' %} {% block content %} {% load static%}
+<link rel="stylesheet" href="{% static 'css/homeLogin.css' %}" />
+
+<div id="wrapper">
+  <div class="overlay"></div>
+
+  <!-- Sidebar -->
+  <nav class="fixed-top align-top" id="sidebar-wrapper" role="navigation">
+    <div class="simplebar-content" style="padding: 0px">
+      <a class="sidebar-brand" href="index.html">
+        <span class="align-middle">La COMISIÓN</span>
+      </a>
+
+      <ul class="navbar-nav align-self-stretch">
+        <li class="sidebar-header">Contenido</li>
+        <li class="">
+          <a
+            class="nav-link text-left active"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+          >
+            <i class="flaticon-bar-chart-1"></i> Modelos
+          </a>
+        </li>
+
+        <li class="">
+          <a class="nav-link text-left" role="button">
+            <i class="flaticon-bar-chart-1"></i> Perfil
+          </a>
+        </li>
+
+        <li class="">
+          <a class="nav-link text-left" role="button">
+            <i class="flaticon-bar-chart-1"></i> Configuración
+          </a>
+        </li>
+        <li class="">
+          <a href="{% url 'logout'%}?next=/index" class="nav-link text-left" role="button">
+            <i class="flaticon-bar-chart-1"></i> Cerrar sesión
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <!-- end of sidebar-wrapper -->
+
+  <!-- Page Content -->
+  <div id="page-content-wrapper">
+    <div id="content">
+      <div class="container-fluid p-0 px-lg-0 px-md-0">
+        <!-- Topbar -->
+        <nav class="navbar navbar-expand navbar-light my-navbar">
+          <!-- Sidebar Toggle (Topbar) -->
+          <div
+            type="button"
+            id="bar"
+            class="nav-icon1 hamburger animated fadeInLeft is-closed"
+            data-toggle="offcanvas"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+
+          <!-- Topbar Navbar -->
+          <ul class="navbar-nav ml-auto pt-3 pb-3">
+            <!-- Nav Item - User Information -->
+            <li class="nav-item">
+              <span class="mr-4 d-none d-lg-inline text-gray-600 small">
+                {% if user.is_authenticated %} {{ user.get_username }} {% endif %}
+              </span>
+            </li>
+          </ul>
+        </nav>
+        <!-- End of Topbar -->
+
+        <!-- Begin Page Content -->
+        <div class="container-fluid px-lg-4">
+          <div class="row">
+            <div class="col-md-12 mt-lg-4 mt-4">
+              <!-- Page Heading -->
+              <div
+                class="d-sm-flex align-items-center justify-content-between mb-4"
+              >
+                <h1 class="h3 mb-0 text-gray-800">Modelos</h1>
+              </div>
+            </div>
+
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-sm-3">
+                  <div class="card">
+                    <div class="card-body">
+                      <div class="flexy-ams-center">
+                        <div>
+                          <div class="hola">
+                            <svg
+                              width="76"
+                              height="68"
+                              viewBox="0 0 76 68"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <g fill="none" fill-rule="evenodd">
+                                <path
+                                  d="M76 26H0V14.909C0 12.326 1.975 10 4.496 10h2.739c.09 0 .216-.666.376-1.017l2.581-5.697C11.123 1.242 13.049 0 15.101 0h14.768c2.175 0 4.206 1.498 5.052 3.728l2.153 5.665c.1.264.176.607.234.607h34.544C74.314 10 76 12.326 76 14.909V26zM1 25h74V14.909C75 12.87 73.767 11 71.852 11H36.405l-.052-.291c-.051-.464-.124-.571-.243-.885l-2.154-5.791C33.262 2.205 31.619 1 29.869 1H15.101c-1.649 0-3.207 1.097-3.969 2.77L8.55 9.551c-.175.385-.301.67-.373 1.171L8.113 11H4.496C2.553 11 1 12.904 1 14.909V25z"
+                                  fill="#C3C3C3"
+                                ></path>
+                                <path
+                                  d="M2 21h72v1H2v-1zM2 18h72v1H2v-1z"
+                                  fill="#DAEEF2"
+                                ></path>
+                                <path
+                                  d="M71.852 68H4.496C2.017 68 0 66.019 0 63.584V25h76v38.584C76 66.061 74.314 68 71.852 68zM1 26v37.584C1 65.451 2.585 67 4.496 67h67.356C73.736 67 75 65.483 75 63.584V26H1z"
+                                  fill="#C3C3C3"
+                                ></path>
+                                <path
+                                  d="M3 28v33.917C3 63.602 4.5 65 6.307 65h63.715C71.804 65 73 63.631 73 61.917V28H3z"
+                                  fill="#E2F3F7"
+                                ></path>
+                                <path
+                                  d="M39 55.5a.5.5 0 0 1-1 0v-18a.5.5 0 0 1 1 0v18"
+                                  fill="#999"
+                                ></path>
+                                <path
+                                  d="M48 46.5a.5.5 0 0 1-.5.5h-18a.5.5 0 0 1 0-1h18a.5.5 0 0 1 .5.5"
+                                  fill="#999"
+                                ></path>
+                              </g>
+                            </svg>
+                          </div>
+                          <div class="mb-1 mt-4">
+                            <a
+                              type="button"
+                              class="btn btn-outline-primary"
+                              href="{% url 'nuevo_modelo' %}"
+                              >Crear nuevo modelo</a
+                            >
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12 mt-4">
+              <div class="card">
+                <div class="card-body">
+                  <div class="d-md-flex align-items-center">
+                    <div>
+                      <h4 class="card-title">Modelos creados</h4>
+                      <h5 class="card-subtitle">Lista de modelos</h5>
+                    </div>
+                    <div class="ml-auto">
+                      <form
+                        class="d-none d-sm-inline-block form-inline navbar-search"
+                      >
+                        <div class="input-group">
+                          <input
+                            type="text"
+                            class="form-control bg-light"
+                            placeholder="Buscar modelos..."
+                            aria-label="Search"
+                          />
+                          <div class="input-group-append">
+                            <button class="btn btn-primary" type="button">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="16"
+                                height="16"
+                                fill="#fff"
+                                class="bi bi-search"
+                                viewBox="0 0 16 16"
+                              >
+                                <path
+                                  d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"
+                                />
+                              </svg>
+                            </button>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="table-responsive">
+                  {% if object_list %}
+                  <table table id="myTable1" class="table v-middle">
+                    <thead>
+                      <tr class="bg-light">
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(0, myTable1)"
+                        >
+                          ID Modelo
+                        </th>
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(1, myTable1)"
+                        >
+                          Nombre
+                        </th>
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(2, myTable1)"
+                        >
+                          Fecha de creación
+                        </th>
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(3, myTable1)"
+                        >
+                          Algoritmo
+                        </th>
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(4, myTable1)"
+                        >
+                          Autor
+                        </th>
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(5, myTable1)"
+                        >
+                          Archivo
+                        </th>
+                        <th
+                          class="border-top-0"
+                          onclick="sortTable(7, myTable1)"
+                        >
+                          Estado
+                          
+                        </th>
+                        
+                        <th class="border-top-0">Ver detalle</th>
+                        <th class="border-top-0">Eliminar</th>
+                        
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for item in object_list %}
+                      <tr>
+                        <td>{{ item.id_modelo }}</td>
+                        <td>{{ item.nombre_modelo }}</td>
+                        <td>{{ item.fecha_creacion }}</td>
+                        <td>{{ item.algoritmo }}</td>
+                        <td>{{ item.autor }}</td>
+                        <td>{{ item.nombre_archivo }}</td>
+                        <td>
+                        {% if item.estado == 0 %}
+                          Sin Entrenar        
+                        {% endif %}
+                        {% if item.estado == 1 %}
+                          Finalizado        
+                        {% endif %}
+                        {% if item.estado == 2 %}
+                          Fallido
+                        {% endif %}
+                        {% if item.estado == 3 %}
+                          Entrenando
+                        {% endif %}
+                        
+                        </td>
+
+                        <td>
+                          <a
+                            href="{% url 'resultados' item.id_modelo %}"
+                            type="button"
+                            class="btn btn-warning"
+                          >
+                            <svg
+                              width="1em"
+                              height="1em"
+                              viewBox="0 0 16 16"
+                              class="bi bi-plus-circle"
+                              fill="currentColor"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                fill-rule="evenodd"
+                                d="M8 3.5a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-.5.5H4a.5.5 0 0 1 0-1h3.5V4a.5.5 0 0 1 .5-.5z"
+                              />
+                              <path
+                                fill-rule="evenodd"
+                                d="M7.5 8a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1H8.5V12a.5.5 0 0 1-1 0V8z"
+                              />
+                              <path
+                                fill-rule="evenodd"
+                                d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"
+                              />
+                            </svg>
+                            Detalle</a
+                          >
+                        </td>
+                        {% if item.estado == 1 or item.estado == 2 %}
+                        <td>
+                          <button
+                            type="button"
+                            class="btn btn-danger"
+                            data-toggle="modal"
+                            data-target="#modal{{ item.id_modelo }}"
+                          >
+                            <svg
+                              width="1em"
+                              height="1em"
+                              viewBox="0 0 16 16"
+                              class="bi bi-trash"
+                              fill="currentColor"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"
+                              />
+                              <path
+                                fill-rule="evenodd"
+                                d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4L4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"
+                              />
+                            </svg>
+                            Eliminar
+                          </button>
+                        </td>
+                        {% endif %}
+                        <div
+                          class="modal fade"
+                          id="modal{{ item.id_modelo }}"
+                          tabindex="-1"
+                          role="dialog"
+                          aria-labelledby="exampleModalCenterTitle"
+                          aria-hidden="true"
+                        >
+                          <div class="modal-dialog modal-dialog-centered">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h5
+                                  class="modal-title"
+                                  id="exampleModalLongTitle"
+                                >
+                                  Eliminar modelo
+                                </h5>
+                                <button
+                                  type="button"
+                                  class="close"
+                                  data-dismiss="modal"
+                                  aria-label="Close"
+                                >
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                              </div>
+                              <div class="modal-body">
+                                ¿Está seguro que desea eliminar el modelo con id
+                                {{item.id_modelo }} ?
+                              </div>
+                              <div class="modal-footer">
+                                <button
+                                  type="button"
+                                  class="btn btn-secondary"
+                                  data-dismiss="modal"
+                                >
+                                  Cancelar
+                                </button>
+                                <a
+                                  href="{% url 'delete_model' item.id_modelo %}"
+                                  type="submit"
+                                  class="btn btn-danger"
+                                >
+                                  Eliminar
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /.container-fluid -->
+      </div>
+    </div>
+  </div>
+  <!-- /#page-content-wrapper -->
+</div>
+<!-- /#wrapper -->
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script
+  src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+  crossorigin="anonymous"
+></script>
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+  integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+  crossorigin="anonymous"
+></script>
+
+<script
+  src="https://code.jquery.com/jquery-3.5.1.js"
+  integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+  crossorigin="anonymous"
+></script>
+
+<script>
+  $("#bar").click(function () {
+    $(this).toggleClass("open");
+    $("#page-content-wrapper ,#sidebar-wrapper").toggleClass("toggled");
+  });
+</script>
+
+<!--
+	<h5>Modelos</h5>
+	<br>
+  <div style= "position: relative; display: block; margin-left: 250px; top: 100; width: auto; height: auto; background: #fff; " >
+    <a class="btn btn-success active" href="{% url 'nuevo_modelo' %}">Nuevo Modelo</a>
+    <br><br>
+  </div>
+
+  <div style= "position: relative; width: auto; height: 400px;  float: center; display: inline-block; background: #fff;  text-align: left; overflow-x:auto; overflow-y:auto;  margin-left: 30px;">
+	{% if object_list %}
+		<table id="myTable1" class="myTable">
+		<thead>
+			<tr>
+				<th onclick="sortTable(0, myTable1)"><u>ID Modelo</u></th>
+				<th onclick="sortTable(1, myTable1)"><u>Nombre</u></th>
+				<th onclick="sortTable(2, myTable1)"><u>Fecha de creación</u></th>
+				<th onclick="sortTable(3, myTable1)"><u>Algoritmo</u></th>
+				<th onclick="sortTable(4, myTable1)"><u>Autor</u></th>
+        <th onclick="sortTable(5, myTable1)"><u>Archivo</u></th>
+				<th onclick="sortTable(7, myTable1)"><u>Estado</u></th>
+				<th>Acciones</th>
+			</tr>
+		</thead>
+		<tbody>
+		{% for item in object_list %}
+		<tr>
+			<td>{{ item.id_modelo }}</td>
+			<td>{{ item.nombre_modelo }}</td>
+			<td>{{ item.fecha_creacion }}</td>
+			<td>{{ item.algoritmo }}</td>
+			<td>{{ item.autor }}</td>
+      <td>{{ item.nombre_archivo }}</td>
+			<td>
+        {% if item.estado == 0 %}
+          Sin Entrenar        
+        {% endif %}
+        {% if item.estado == 1 %}
+          Finalizado        
+        {% endif %}
+        {% if item.estado == 2 %}
+          Fallido
+        {% endif %}
+        {% if item.estado == 3 %}
+          Entrenando
+        {% endif %}
+      </td>
+			<td style="background-color: #fff">        
+       
+          <a class ="btn btn-primary active" href="{% url 'resultados' item.id_modelo %}">Ver</a>
+				  <a class ="btn btn-danger " href="{% url 'eliminar_modelos' item.id_modelo %}">Eliminar</a>
+       
+			</td>
+
+		</tr>
+		{% endfor %}
+		</tbody>
+		</table>
+    <nav>
+      {% if is_paginated %}
+          <ul class="pagination">
+              {% if page_obj.has_previous %}
+                  <li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>
+              {% endif %}
+    
+              {% for i in paginator.page_range %}
+                  <li {% if page_obj.number == i %} class="active" {% endif %}>
+                      <a href="?page={{i}}">{{ i }}</a>
+                  </li>
+              {% endfor %}
+    
+              {% if page_obj.has_next %}
+                  <li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>
+              {% endif %}
+          </ul>
+      {% endif %}
+    </nav>
+	{% else %}
+	<h4>No hay modelos creados</h4>
+	{% endif %}
+</div>-->
+
+<script>
+  function sortTable(n, tabla) {
+    var table,
+      rows,
+      switching,
+      i,
+      x,
+      y,
+      shouldSwitch,
+      dir,
+      switchcount = 0;
+    table = document.getElementById(tabla);
+    switching = true;
+    //Set the sorting direction to ascending:
+    dir = "asc";
+    /*Make a loop that will continue until
+  no switching has been done:*/
+    while (switching) {
+      //start by saying: no switching is done:
+      switching = false;
+      rows = tabla.rows;
+      /*Loop through all table rows (except the
+    first, which contains table headers):*/
+      for (i = 1; i < rows.length - 1; i++) {
+        //start by saying there should be no switching:
+        shouldSwitch = false;
+        /*Get the two elements you want to compare,
+      one from current row and one from the next:*/
+        x = rows[i].getElementsByTagName("TD")[n];
+        y = rows[i + 1].getElementsByTagName("TD")[n];
+        /*check if the two rows should switch place,
+      based on the direction, asc or desc:*/
+        if (dir == "asc") {
+          if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+            //if so, mark as a switch and break the loop:
+            shouldSwitch = true;
+            break;
+          }
+        } else if (dir == "desc") {
+          if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+            //if so, mark as a switch and break the loop:
+            shouldSwitch = true;
+            break;
+          }
+        }
+      }
+      if (shouldSwitch) {
+        /*If a switch has been marked, make the switch
+      and mark that a switch has been done:*/
+        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+        switching = true;
+        //Each time a switch is done, increase this count by 1:
+        switchcount++;
+      } else {
+        /*If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again.*/
+        if (switchcount == 0 && dir == "asc") {
+          dir = "desc";
+          switching = true;
+        }
+      }
+    }
+  }
+</script>
+
+{% endblock %}

@@ -1,0 +1,1001 @@
+cluster|antecedents_description|consequents_description|support|confidence
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9818376068376068|0.9818376068376068
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|1.0
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|0.8055555555555556
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8055555555555556|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|1.0
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8171926006528837
+5|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.9960212201591512
+5|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8023504273504274|0.8023504273504274
+5|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8023504273504274|0.8171926006528837
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9823468328141225|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9823468328141225|1.0
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|0.9823468328141225
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9823468328141225|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|1.0
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|0.8463136033229491
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8463136033229491|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|1.0
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|1.0
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8583509513742072
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.996319018404908
+1|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8431983385254413|0.8431983385254413
+1|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8431983385254413|0.8583509513742072
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9773299748110831|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9773299748110831|1.0
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9773299748110831|1.0
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9773299748110831|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|0.9773299748110831
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9773299748110831|1.0
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9546599496221663|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9546599496221663
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546599496221663|1.0
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9546599496221663
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546599496221663|1.0
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9546599496221663|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9546599496221663|1.0
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9546599496221663
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9546599496221663|0.9768041237113403
+2|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9546599496221663
+2|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9546599496221663
+2|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9546599496221663|0.9768041237113403
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9840425531914894|0.9840425531914894
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|1.0
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|0.8138297872340425
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8138297872340425|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|1.0
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8237837837837838
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.996078431372549
+0|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8106382978723404|0.8106382978723404
+0|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8106382978723404|0.8237837837837838
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9665924276169265|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9665924276169265|0.9665924276169265
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9665924276169265|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9665924276169265|0.9665924276169265
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9665924276169265|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9665924276169265|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9665924276169265|0.9665924276169265
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9665924276169265|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9665924276169265|0.9665924276169265
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9665924276169265|0.9665924276169265
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9643652561247216|0.9643652561247216
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9643652561247216|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.9643652561247216|0.9643652561247216
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9643652561247216|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9643652561247216|0.9643652561247216
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9643652561247216|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9643652561247216|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9643652561247216|0.9643652561247216
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9643652561247216|0.9643652561247216
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9643652561247216|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9599109131403119|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9599109131403119
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9599109131403119|1.0
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9599109131403119
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9599109131403119|1.0
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9599109131403119|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9599109131403119|1.0
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9599109131403119
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+3|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9599109131403119|0.9930875576036866
+3|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9599109131403119
+3|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9599109131403119
+3|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.9599109131403119|0.9953810623556583
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9796610169491525|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9796610169491525|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9796610169491525|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9796610169491525|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|0.9796610169491525
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9796610169491525|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9627118644067797|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9627118644067797|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9627118644067797|0.9826989619377163
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9627118644067797|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9627118644067797|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|0.9627118644067797
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9627118644067797|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9593220338983051
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9593220338983051|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9593220338983051
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|1.0
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9593220338983051|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9593220338983051
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9593220338983051|0.9593220338983051
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9593220338983051
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9792387543252595
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9593220338983051|0.9964788732394365
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|1.0
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas total' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|1.0
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|1.0
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9823321554770319
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'responsables identificados' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.9423728813559322|0.9619377162629759
+6|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9788732394366197
+6|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9423728813559322
+6|Cuando el atributo 'victimas identificadas' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  1|0.9423728813559322|0.9619377162629759
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|1.0|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|1.0|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8784313725490196|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8784313725490196|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8784313725490196|0.8784313725490196
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'victimas total' posee el valor de  1|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|1.0
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas identificadas' posee el valor de  3|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8705882352941177|0.9910714285714286
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.9823008849557523
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas identificadas' posee el valor de  3|0.8705882352941177|0.8705882352941177
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  1|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0
+4|Cuando el atributo 'tc tc politico' posee el valor de  0|Entonces el atributo 'responsables identificados' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'responsables identificados' posee el valor de  0|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|0.8862745098039215
+4|Cuando el atributo 'victimas total' posee el valor de  1|Entonces el atributo 'tc tc politico' posee el valor de  0|0.8862745098039215|1.0

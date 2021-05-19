@@ -1,0 +1,1501 @@
+anio|pais|departamento|ciudad|ubicacion|evento_actual|n_victimas|presunto_autor|tipo_asesinato|tipo_combate|tipo_desplazamiento|tipo_amenaza
+1987|Colombia|Antioquia|Medellín|Urbana|0|5|0|0|1.0|0|0
+1987|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Antioquia|Turbo|Rural|1|1|1|0|0.0|0|0
+2008|Colombia|Antioquia|Apartadó|Rural|0|1|1|0|0.0|0|0
+1987|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|1.0|0|0
+1981|Colombia|Antioquia|Turbo|Rural|0|7|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Urbana|0|1|0|0|0.0|0|0
+2010|Colombia|Antioquia|Apartadó|Rural|1|1|0|0|0.0|0|0
+2017|Colombia|Putumayo|Puerto Asís|Rural|0|1|0|0|0.0|0|0
+2017|Colombia|Putumayo|Puerto Asís|Rural|0|4|0|0|1.0|0|0
+2017|Colombia|Putumayo|Puerto Asís|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Meta|Lejanías|Rural|0|2|0|0|1.0|0|0
+2000|Colombia|Putumayo|Puerto Asís|Rural|0|5|0|0|1.0|0|0
+1977|Colombia|Meta|Mapiripán|Rural|0|1|1|0|0.0|0|0
+1999|Colombia|Putumayo|Puerto Asís|Rural|0|7|0|0|1.0|0|0
+2002|Colombia|Putumayo|Villagarzón|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Putumayo|Villagarzón|Rural|0|30|0|0|1.0|0|0
+1990|Colombia|Putumayo|Villagarzón|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Putumayo|Villagarzón|Rural|0|2|0|0|1.0|0|0
+2005|Colombia|Meta|Vistahermosa|Rural|0|2|0|0|1.0|0|0
+1992|Colombia|Cundinamarca|Viotá|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Cauca|Guapí|Rural|0|9|1|0|0.0|0|0
+2004|Colombia|Sucre|Sincelejo|Urbana|0|1|0|0|0.0|0|1
+2002|Colombia|Huila|Isnos|Urbana|0|1|1|0|1.0|0|1
+1997|Colombia|Risaralda|Belén De Umbría|Rural|0|1|0|0|0.0|0|0
+2017|España|Sin Especificar|Pais Vasco|Urbana|0|4|0|0|0.0|0|0
+1997|Colombia|Risaralda|Belén De Umbría|Rural|0|4|0|0|1.0|0|0
+2004|Colombia|Risaralda|Belén De Umbría|Rural|0|4|0|0|1.0|0|0
+2015|Colombia|Risaralda|Dosquebradas|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Risaralda|Dosquebradas|Urbana|0|1|0|0|0.0|0|0
+2018|Colombia|Nariño|San Andrés De Tumaco|Urbana|0|1|0|0|0.0|0|0
+1996|Colombia|Huila|Isnos|Urbana|0|1|1|0|0.0|0|0
+1985|Colombia|Huila|Isnos|Urbana|0|4|0|0|1.0|0|0
+1997|Colombia|Chocó|Riosucio|Rural|1|1|0|0|0.0|0|0
+1988|Colombia|Cesar|Chiriguaná|Rural|0|1|0|0|0.0|1|0
+2001|Colombia|Cesar|Chiriguaná|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Cesar|Chiriguaná|Rural|0|1|1|0|0.0|0|0
+2019|Colombia|Meta|Uribe|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Nariño|San Andrés De Tumaco|Rural|0|3|0|0|1.0|0|0
+2015|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Risaralda|Dosquebradas|Rural|0|1|0|0|0.0|0|0
+1982|Colombia|Boyacá|Pauna|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Boyacá|Pauna|Rural|0|15|1|0|1.0|0|0
+1991|Colombia|Santander|Barrancabermeja|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Chocó|Riosucio|Rural|0|5|0|0|1.0|0|0
+2004|Colombia|Guainía|Inírida|Rural|0|1|2|0|0.0|0|0
+2000|Colombia|Meta|Villavicencio|Rural|0|1|1|0|0.0|0|0
+2004|Colombia|Putumayo|Puerto Guzmán|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Magdalena|Ciénaga|Rural|1|1|0|0|0.0|0|0
+1994|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|La Guajira|Riohacha|Urbana|0|2|1|0|0.0|0|0
+2006|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|1.0|0|0
+2005|Colombia|Quindio|Armenia|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Meta|Villavicencio|Urbana|0|1|0|0|1.0|0|0
+2004|Colombia|Guainía|Inírida|Rural|0|1|2|0|0.0|0|0
+2003|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|1|0|1.0|0|0
+2008|Colombia|Meta|Villavicencio|Urbana|1|1|0|0|0.0|0|0
+2009|Colombia|Chocó|Istmina|Urbana|0|4|0|0|0.0|0|0
+2012|Colombia|Valle Del Cauca|Roldanillo|Urbana|0|4|0|0|0.0|0|0
+1986|Colombia|Santander|San Vicente De Chucurí|Rural|0|1|0|0|0.0|0|0
+1990|Colombia|Santander|Bucaramanga|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Quindio|Armenia|Urbana|0|1|0|0|0.0|0|0
+1988|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+1979|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|200|0|0|1.0|0|0
+1963|Colombia|Valle Del Cauca|Calima|Rural|0|9|0|0|1.0|0|0
+1967|Colombia|Valle Del Cauca|Ansermanuevo|Rural|0|1|3|0|0.0|0|0
+2003|Colombia|Quindio|Armenia|Rural|0|20|0|0|0.0|0|1
+2003|Colombia|Quindio|Armenia|Rural|1|1|0|0|0.0|0|0
+2016|Ecuador|Sin Especificar|Quito|Urbana|0|2|1|0|1.0|0|0
+2016|Ecuador|Sin Especificar|Quito|Urbana|0|1|1|0|0.0|0|0
+2006|Colombia|Valle Del Cauca|Tuluá|Rural|0|3|0|0|0.0|0|0
+1983|Colombia|Valle Del Cauca|Calima|Rural|0|4|0|0|0.0|0|1
+2007|Colombia|Valle Del Cauca|Argelia|Rural|0|1|0|0|0.0|0|0
+2010|Colombia|Valle Del Cauca|Tuluá|Urbana|0|1|0|0|0.0|0|0
+2010|Colombia|Valle Del Cauca|Tuluá|Urbana|0|2|0|0|0.0|0|0
+2002|Colombia|Quindio|Armenia|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Bogotá, D.c.|Bogotá, D.c.|Sin Especificar|0|1|0|0|0.0|0|0
+1988|Colombia|Valle Del Cauca|Riofrío|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Santander|Málaga|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Valle Del Cauca|Riofrío|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|La Guajira|Fonseca|Rural|0|2|0|0|0.0|0|0
+2009|Colombia|La Guajira|San Juan Del Cesar|Urbana|0|1|0|0|1.0|0|0
+1999|Colombia|Cesar|Valledupar|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Magdalena|Aracataca|Rural|0|2|0|0|1.0|0|0
+2019|Colombia|Valle Del Cauca|Roldanillo|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Norte De Santander|Convención|Rural|0|2|0|0|0.0|0|0
+2001|Colombia|Caquetá|Solano|Rural|0|1|1|0|0.0|0|0
+2006|Colombia|La Guajira|Dibulla|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|La Guajira|Dibulla|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Caquetá|Solano|Rural|0|1|1|0|1.0|0|0
+1991|Colombia|Vaupés|Taraira|Rural|0|1|0|0|0.0|0|0
+2008|Venezuela|Sin Especificar|Sin Especificar|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cauca|Popayán|Rural|0|1|0|0|0.0|0|0
+1987|Colombia|Norte De Santander|El Zulia|Rural|0|1|0|0|0.0|0|0
+1975|Colombia|Cesar|La Jagua De Ibirico|Rural|0|1|0|0|0.0|0|0
+2000|Venezuela|Sin Especificar|Tachira|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Norte De Santander|Sardinata|Rural|0|5|0|0|1.0|0|0
+2000|Colombia|Norte De Santander|El Zulia|Rural|0|18|0|0|1.0|0|0
+2004|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Norte De Santander|San José De Cúcuta|Urbana|0|1|2|0|0.0|0|0
+1998|Colombia|Norte De Santander|San José De Cúcuta|Urbana|0|1|1|0|0.0|0|0
+2002|Colombia|Magdalena|Aracataca|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Magdalena|Aracataca|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Magdalena|Aracataca|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Magdalena|Aracataca|Rural|0|1|0|0|1.0|0|0
+2006|Colombia|Magdalena|Aracataca|Rural|0|1|0|0|1.0|0|0
+1998|Colombia|Córdoba|Tierralta|Rural|1|7|0|0|0.0|0|0
+2012|Colombia|Cundinamarca|Viotá|Urbana|0|1|0|0|0.0|0|0
+1983|Colombia|Valle Del Cauca|Riofrío|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+1983|Colombia|Valle Del Cauca|Riofrío|Rural|0|4|0|0|1.0|0|0
+1988|Colombia|Valle Del Cauca|Riofrío|Rural|0|1|0|0|1.0|0|0
+1990|Colombia|Norte De Santander|Tibú|Rural|0|2|0|0|1.0|0|0
+1998|Colombia|La Guajira|Riohacha|Urbana|0|1|0|0|0.0|0|0
+1980|Colombia|Antioquia|Mutatá|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|La Guajira|Riohacha|Urbana|0|1|0|0|0.0|1|0
+2002|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|4|0|0|0.0|0|0
+2019|Colombia|Meta|Lejanías|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Meta|Lejanías|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Meta|Lejanías|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Meta|Lejanías|Rural|0|1|0|0|0.0|0|0
+1994|Colombia|Córdoba|Valencia|Rural|0|8|0|0|1.0|0|0
+2015|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Valle Del Cauca|Sin Especificar|Rural|0|1|0|0|0.0|0|0
+2011|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Arauca|Arauquita|Rural|0|1|0|0|1.0|0|0
+2007|Colombia|Arauca|Arauquita|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Arauca|Saravena|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Arauca|Saravena|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Arauca|Saravena|Rural|0|1|0|0|1.0|0|0
+2008|Colombia|Arauca|Saravena|Rural|0|1|0|0|0.0|0|0
+2015|Colombia|Antioquia|Puerto Berrío|Urbana|0|2|1|0|0.0|0|0
+2017|Colombia|Santander|Barrancabermeja|Urbana|0|2|0|0|1.0|0|0
+2011|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Nariño|San Andrés De Tumaco|Rural|0|4|0|0|0.0|0|0
+2016|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Risaralda|Pereira|Rural|0|3|0|0|0.0|0|0
+2019|Colombia|Cundinamarca|Agua De Dios|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Risaralda|Santuario|Rural|0|1|0|0|1.0|0|0
+1989|Colombia|Risaralda|Santuario|Rural|0|1|0|0|0.0|0|0
+2017|Colombia|Antioquia|Medellín|Urbana|1|2|0|0|0.0|0|0
+2016|Colombia|Cauca|Santander De Quilichao|Urbana|1|2|1|0|0.0|0|0
+2004|Colombia|Cauca|Santander De Quilichao|Urbana|0|1|0|0|0.0|0|0
+2019|España|Sin Especificar|Alicante|Urbana|1|4|0|0|0.0|0|0
+2019|Colombia|Cauca|Santander De Quilichao|Urbana|0|1|1|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|4|3|0|0.0|0|0
+1987|Colombia|Huila|Neiva|Rural|0|4|0|0|0.0|0|0
+1987|Colombia|Huila|Neiva|Rural|0|1|0|0|0.0|0|0
+1987|Colombia|Huila|Neiva|Rural|0|4|0|0|1.0|0|0
+2002|Colombia|Boyacá|Miraflores|Rural|0|5|0|0|1.0|0|0
+1992|Colombia|Antioquia|Apartadó|Rural|0|4|1|0|1.0|0|0
+1994|Colombia|Antioquia|Apartadó|Rural|0|5|1|0|1.0|0|0
+2007|Colombia|Valle Del Cauca|Tuluá|Urbana|0|1|0|0|1.0|0|0
+2013|Ecuador|Sin Especificar|Quito|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Caquetá|La Montañita|Rural|0|1|1|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|5|1|0|1.0|0|0
+1998|Colombia|Vaupés|Mitú|Rural|0|61|3|0|0.0|0|0
+1996|Colombia|Antioquia|Apartadó|Urbana|0|6|1|0|1.0|0|0
+2000|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+2015|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|1.0|0|0
+1997|Colombia|Antioquia|Medellín|Urbana|0|7|1|0|1.0|0|0
+2016|Colombia|Antioquia|Medellín|Urbana|0|4|0|0|1.0|0|0
+2002|Colombia|Cauca|Popayán|Urbana|0|5|0|0|0.0|0|0
+1999|Colombia|Antioquia|Medellín|Rural|0|7|1|0|0.0|0|0
+2017|Colombia|Antioquia|Medellín|Urbana|0|2|0|0|0.0|1|0
+2000|Colombia|Antioquia|Medellín|Urbana|1|1|1|0|0.0|0|0
+2003|Colombia|Cauca|Popayán|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Medellín|Urbana|0|3|1|0|1.0|0|0
+2004|Colombia|Cauca|Florencia|Rural|0|2|4|0|0.0|0|0
+1997|Colombia|Caquetá|La Montañita|Rural|1|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|1|1|0|1.0|0|0
+2007|Colombia|Putumayo|San Miguel|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1|1|0|0.0|0|0
+2007|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|3|1|0|0.0|0|0
+2004|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|1|0|1.0|0|0
+2005|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|4|0|0|0.0|0|0
+2006|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|1|0|0.0|0|0
+2007|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|1|0|0.0|0|0
+2011|Colombia|Valle Del Cauca|Cali|Urbana|0|5|0|0|1.0|0|0
+2014|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|1|0|1.0|0|0
+1992|Colombia|Putumayo|Sin Especificar|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Caquetá|La Montañita|Urbana|0|1|3|0|0.0|0|0
+2017|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|3|1|0|1.0|0|0
+2001|Colombia|Caquetá|La Montañita|Urbana|0|1|4|0|1.0|0|0
+2011|Colombia|Caquetá|La Montañita|Urbana|1|1|0|0|0.0|0|0
+2006|Colombia|Risaralda|Quinchía|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Caquetá|La Montañita|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Magdalena|Puebloviejo|Rural|0|112|0|0|1.0|0|0
+1998|Colombia|Caquetá|Valparaíso|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Meta|Puerto Rico|Rural|1|1|0|0|0.0|0|0
+2006|Colombia|Meta|La Macarena|Rural|0|4|1|0|0.0|0|0
+1984|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|4|0|0|0.0|0|0
+2007|Colombia|Meta|La Macarena|Rural|0|4|0|0|1.0|0|0
+2011|Colombia|Meta|Puerto Gaitán|Rural|0|1|0|0|1.0|0|0
+2013|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2017|Colombia|Meta|Puerto Gaitán|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+1992|Colombia|Santander|Bucaramanga|Rural|1|2|0|0|1.0|0|1
+2003|Colombia|Bolívar|El Carmen De Bolívar|Rural|0|12|0|0|0.0|0|0
+2002|Colombia|Bolívar|El Carmen De Bolívar|Urbana|0|5|1|0|0.0|0|0
+1995|Colombia|Caquetá|Curillo|Urbana|1|1|0|0|0.0|0|0
+1985|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|1|2|0|0.0|0|1
+1997|Colombia|Antioquia|Dabeiba|Rural|0|2|0|0|0.0|0|0
+2013|Colombia|Nariño|Samaniego|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Magdalena|Santa Marta|Urbana|0|1|0|0|0.0|0|0
+2003|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|1|0
+2000|Colombia|Antioquia|Medellín|Urbana|0|3|0|0|0.0|0|0
+1999|Colombia|Antioquia|Medellín|Urbana|0|5|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|7|0|0|1.0|0|0
+1985|Colombia|Caquetá|Curillo|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|3|0|0|0.0|0|0
+1991|Brasil|Sin Especificar|Zona De Frontera Con Vaupés|Rural|0|4|0|0|0.0|0|0
+1999|Colombia|Putumayo|Puerto Asís|Rural|0|4|1|0|1.0|0|0
+2005|Ecuador|Sin Especificar|Quito|Urbana|0|4|1|0|0.0|0|0
+2002|Colombia|Putumayo|San Miguel|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Antioquia|Segovia|Rural|0|2|1|0|0.0|0|0
+1991|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Bolívar|El Carmen De Bolívar|Rural|1|4|4|0|0.0|0|0
+2008|Colombia|Bolívar|San Juan Nepomuceno|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Caquetá|El Doncello|Rural|0|1|0|0|0.0|0|0
+1992|Colombia|Putumayo|Puerto Guzmán|Rural|0|1|0|0|0.0|0|1
+2010|Colombia|Nariño|Policarpa|Rural|0|5|0|0|1.0|0|0
+2015|Colombia|Nariño|San Andrés De Tumaco|Rural|1|1|0|0|0.0|0|0
+2010|Colombia|Caquetá|La Montañita|Urbana|0|6|0|0|1.0|0|0
+2014|Colombia|Casanare|Pore|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Casanare|Pore|Rural|0|1|0|0|1.0|0|0
+2012|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|1|0|0|0.0|0|0
+2015|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|4|1|0|1.0|0|0
+1989|Colombia|Putumayo|Mocoa|Rural|0|1|0|0|0.0|0|0
+2016|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|2|0|0|0.0|0|0
+2016|Colombia|Caquetá|Florencia|Urbana|0|2|1|0|1.0|0|0
+1998|Colombia|La Guajira|Riohacha|Rural|0|1|1|0|0.0|0|0
+2005|Colombia|Norte De Santander|San José De Cúcuta|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Nariño|San Andrés De Tumaco|Urbana|0|1|0|0|0.0|0|0
+2008|Colombia|La Guajira|Riohacha|Urbana|0|1|0|0|0.0|0|0
+2005|Colombia|Valle Del Cauca|Caicedonia|Urbana|0|2|0|0|0.0|0|0
+2001|Colombia|Chocó|Alto Baudó|Rural|0|1|0|0|1.0|0|0
+2013|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Cesar|Chimichagua|Rural|0|2|1|0|0.0|0|0
+2003|Colombia|Córdoba|Valencia|Urbana|0|6|0|0|1.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|7|0|0|1.0|0|0
+2018|Colombia|Córdoba|Montería|Rural|0|1|1|0|0.0|0|0
+2019|Colombia|Córdoba|Montería|Urbana|0|6|1|0|0.0|0|0
+2017|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Vaupés|Taraira|Rural|0|2|0|0|0.0|0|0
+2014|Colombia|La Guajira|Riohacha|Rural|0|1|1|0|0.0|0|0
+2001|Colombia|Vaupés|Taraira|Urbana|0|3|0|0|1.0|0|0
+2005|Colombia|Guaviare|San José Del Guaviare|Rural|0|4|0|0|1.0|0|0
+2000|Colombia|Vaupés|Taraira|Urbana|0|1|0|0|0.0|0|0
+2001|Colombia|Vaupés|Taraira|Urbana|0|2|0|0|1.0|0|0
+2018|Colombia|La Guajira|Riohacha|Urbana|0|1|1|0|0.0|0|0
+2000|Colombia|Vaupés|Taraira|Urbana|0|2|0|0|0.0|0|0
+2015|Colombia|Caquetá|Cartagena Del Chairá|Urbana|0|1|1|0|0.0|0|0
+2005|Colombia|Cesar|El Copey|Rural|0|1|1|0|0.0|0|0
+2005|Colombia|Cesar|El Copey|Urbana|1|1|1|0|1.0|0|0
+2015|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|1.0|0|0
+2019|España|Sin Especificar|Alicante|Urbana|1|1|0|0|0.0|0|0
+1997|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Norte De Santander|Tibú|Urbana|0|1|2|0|0.0|0|0
+1992|Colombia|Guaviare|Miraflores|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|1|4|0|0|0.0|0|0
+1996|Colombia|Guaviare|Miraflores|Rural|0|2|0|0|0.0|0|0
+2000|Colombia|Guaviare|Miraflores|Rural|0|4|0|0|1.0|0|0
+2019|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|1|4|0|0|0.0|0|0
+2001|Colombia|Antioquia|Barbosa|Rural|0|4|0|0|1.0|0|0
+2001|Colombia|Nariño|Barbacoas|Rural|0|3|0|0|1.0|0|0
+2012|Colombia|Valle Del Cauca|Trujillo|Rural|0|6|0|0|0.0|0|0
+1998|Colombia|Bolívar|Simití|Rural|0|1|0|0|0.0|0|0
+2013|Ecuador|Sin Especificar|Quito|Urbana|0|6|0|0|0.0|0|0
+2004|Colombia|Putumayo|Puerto Asís|Rural|0|4|1|0|0.0|0|1
+1985|Colombia|Atlántico|Sabanalarga|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Antioquia|Chigorodó|Rural|0|1|1|0|0.0|0|0
+2018|Colombia|Cesar|Valledupar|Urbana|0|1|0|0|0.0|0|0
+1979|Colombia|Tolima|Ibagué|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Caquetá|San Vicente Del Caguán|Urbana|0|1|0|0|1.0|0|0
+2000|Colombia|Magdalena|Pivijay|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Bolívar|San Jacinto|Rural|0|2|0|0|0.0|0|0
+1998|Colombia|Bolívar|Simití|Rural|0|1|0|0|0.0|0|0
+1981|Colombia|Putumayo|Puerto Leguízamo|Rural|0|2|1|0|1.0|0|0
+1996|Colombia|Bolívar|San Jacinto|Rural|0|1|1|0|0.0|0|0
+1999|Colombia|Cesar|Agustín Codazzi|Rural|0|3|0|0|1.0|0|0
+2002|Colombia|Caquetá|Solita|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Cesar|Agustín Codazzi|Rural|0|7|0|0|1.0|0|0
+2016|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Bolívar|San Jacinto|Rural|0|5|0|0|0.0|0|0
+1996|Colombia|Bolívar|San Jacinto|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Bolívar|San Jacinto|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+2007|Colombia|Cesar|Chiriguaná|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Antioquia|Dabeiba|Rural|0|185|2|0|1.0|0|0
+1999|Colombia|Bolívar|San Jacinto|Rural|0|3|0|0|0.0|0|0
+2004|Colombia|Antioquia|Dabeiba|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Bogotá, D.c.|Sin Especificar|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Antioquia|Dabeiba|Rural|0|185|0|0|1.0|0|0
+1999|Colombia|Bolívar|San Jacinto|Rural|0|4|0|0|0.0|0|0
+2009|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|1.0|0|0
+1961|Colombia|Huila|Palermo|Rural|0|4|0|0|0.0|0|0
+1998|Colombia|Huila|Palermo|Rural|0|8|0|0|1.0|0|0
+2007|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Antioquia|Dabeiba|Urbana|0|1|0|0|0.0|0|0
+2011|Colombia|Antioquia|Dabeiba|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Caquetá|Valparaíso|Rural|0|1000|0|0|1.0|0|0
+2000|Colombia|Norte De Santander|Tibú|Rural|0|1|1|0|0.0|0|0
+1998|Colombia|Caquetá|San José Del Fragua|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Caquetá|Curillo|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Caquetá|Curillo|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|1.0|0|1
+2001|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Norte De Santander|Ocaña|Urbana|0|1|0|0|0.0|0|0
+2004|Colombia|Nariño|Barbacoas|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|1.0|0|0
+2006|Venezuela|Sin Especificar|Caracas|Rural|0|1|0|0|1.0|0|0
+2006|Colombia|Valle Del Cauca|Cali|Rural|0|1|0|0|1.0|0|0
+2013|Ecuador|Sin Especificar|Quito|Rural|0|1|0|0|0.0|0|0
+1994|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|1|0|1.0|0|0
+2002|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Bolívar|Simití|Rural|0|1|0|0|1.0|0|0
+2005|Colombia|Bolívar|San Jacinto|Rural|0|2|0|0|0.0|0|0
+1993|Colombia|Bolívar|San Jacinto|Rural|0|1|0|0|1.0|0|1
+1993|Colombia|Bolívar|San Jacinto|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Antioquia|Dabeiba|Rural|0|185|0|0|0.0|0|0
+2006|Colombia|Antioquia|Chigorodó|Urbana|0|1|2|0|0.0|0|1
+1998|Colombia|Magdalena|Santa Marta|Rural|0|1|1|0|0.0|0|0
+1967|Colombia|Bolívar|Sin Especificar|Rural|0|1|0|0|0.0|0|0
+1981|Colombia|Bolívar|San Martín De Loba|Rural|0|1|0|0|0.0|0|0
+2013|Colombia|Magdalena|Santa Marta|Urbana|1|1|1|0|0.0|0|1
+1998|Colombia|Bolívar|Barranco De Loba|Rural|0|1|0|0|1.0|0|0
+1960|Colombia|Huila|Palermo|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Cesar|Valledupar|Urbana|0|1|1|0|0.0|0|0
+1998|Colombia|Magdalena|Ciénaga|Rural|0|1|0|0|0.0|0|0
+1986|Colombia|Valle Del Cauca|Jamundí|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Bolívar|Simití|Rural|0|9|0|0|1.0|0|0
+1998|Colombia|Magdalena|Puebloviejo|Rural|0|1|1|0|0.0|0|0
+1982|Colombia|Valle Del Cauca|Palmira|Urbana|0|4|1|0|1.0|0|0
+2000|Colombia|Magdalena|Puebloviejo|Rural|0|1|1|0|1.0|0|0
+2001|Colombia|Magdalena|Zona Bananera|Urbana|0|1|1|0|1.0|0|0
+1979|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|1|1|0|0|0.0|0|0
+1999|Colombia|Magdalena|Puebloviejo|Rural|0|1|1|0|0.0|0|0
+2003|Colombia|Magdalena|Fundación|Urbana|0|1|4|0|0.0|0|0
+2000|Colombia|Magdalena|Fundación|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Magdalena|Fundación|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Magdalena|Fundación|Urbana|0|1|0|0|1.0|0|0
+1999|Colombia|Magdalena|Puebloviejo|Urbana|0|1|0|0|1.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Urbana|0|1|1|0|1.0|0|0
+2000|Colombia|Norte De Santander|San José De Cúcuta|Urbana|0|2|0|0|0.0|0|0
+2000|Colombia|Norte De Santander|San José De Cúcuta|Rural|1|4|0|0|0.0|0|0
+1995|Colombia|Cauca|Santander De Quilichao|Urbana|0|1|1|0|0.0|0|0
+1998|Colombia|Cauca|Santander De Quilichao|Urbana|0|1|1|0|0.0|0|0
+1999|Colombia|Cauca|Santander De Quilichao|Urbana|0|1|0|0|1.0|0|0
+2002|Colombia|Cauca|Santa Rosa|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Cauca|Popayán|Rural|0|1|2|0|1.0|0|0
+2006|Colombia|Nariño|Pasto|Urbana|0|1|0|0|1.0|0|0
+2006|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2018|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2013|Colombia|Valle Del Cauca|Yumbo|Urbana|0|1|0|0|0.0|0|0
+2012|Colombia|Nariño|Olaya Herrera|Rural|0|1|0|0|0.0|0|0
+2019|España|Sin Especificar|Alicante|Urbana|1|2|0|0|0.0|0|0
+2007|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|1.0|0|0
+2013|Colombia|Valle Del Cauca|Yumbo|Urbana|0|1|0|0|0.0|0|0
+2003|Colombia|Meta|Lejanías|Rural|0|2|2|0|0.0|0|0
+2019|Colombia|Quindio|Armenia|Urbana|0|4|0|0|0.0|0|0
+2019|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|1|4|0|0|1.0|0|0
+2019|Colombia|Valle Del Cauca|Cali|Rural|0|3|0|0|0.0|0|0
+1992|Colombia|Norte De Santander|Bucarasica|Urbana|0|1|0|0|0.0|0|0
+2019|Colombia|Valle Del Cauca|Cali|Urbana|0|3|1|0|1.0|0|0
+2019|Colombia|Valle Del Cauca|Cali|Urbana|1|3|0|0|0.0|0|0
+2017|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|1|3|0|0|0.0|0|0
+2003|Colombia|Caquetá|Valparaíso|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Caquetá|Valparaíso|Rural|0|1|0|0|0.0|0|0
+2016|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|0|0|1.0|0|0
+1971|Colombia|Huila|Colombia|Rural|0|1|0|0|1.0|0|0
+1977|Colombia|Huila|Tarqui|Urbana|0|1|0|0|0.0|0|0
+1985|Colombia|Huila|Neiva|Urbana|0|2|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|1.0|0|0
+1992|Colombia|Santander|Bucaramanga|Urbana|0|2|0|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Buenaventura|Rural|1|1|0|0|0.0|0|1
+2006|Colombia|Valle Del Cauca|Roldanillo|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|La Guajira|San Juan Del Cesar|Rural|0|1|2|0|0.0|0|0
+1980|Colombia|Caquetá|Solano|Rural|0|5|1|0|0.0|0|0
+2004|Colombia|Putumayo|Puerto Asís|Rural|0|3|1|0|1.0|0|0
+2010|Colombia|Valle Del Cauca|Roldanillo|Rural|1|1|0|0|0.0|0|0
+2005|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|1|0|1.0|0|0
+2007|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Putumayo|Puerto Leguízamo|Rural|0|3|1|0|0.0|0|0
+2001|Colombia|Antioquia|Yondó|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|1|0|0.0|0|0
+2003|Colombia|Caquetá|Valparaíso|Rural|0|1|3|0|1.0|0|0
+2015|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|1.0|0|0
+1994|Colombia|Putumayo|Puerto Leguízamo|Rural|0|5|1|0|0.0|0|0
+2002|Colombia|Cesar|Manaure Balcón Del Cesar|Urbana|1|5|0|0|0.0|0|0
+2002|Colombia|Cesar|Manaure Balcón Del Cesar|Rural|0|6|0|0|1.0|0|0
+1985|Colombia|Antioquia|Turbo|Rural|0|7|0|0|1.0|0|0
+2000|Colombia|Cesar|Aguachica|Rural|0|1|1|0|1.0|0|0
+2002|Colombia|Córdoba|Montería|Rural|1|3|0|0|0.0|0|0
+1989|Colombia|Santander|Puerto Wilches|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Santander|Puerto Wilches|Rural|0|2|2|0|0.0|0|1
+1999|Colombia|Santander|Bucaramanga|Rural|0|1|2|0|1.0|0|0
+2018|Colombia|Córdoba|Montería|Urbana|0|1|1|0|0.0|0|0
+2018|Colombia|Meta|Villavicencio|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Meta|Villavicencio|Rural|0|1|0|0|0.0|0|0
+2016|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|1.0|0|0
+2011|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|0|0|0.0|0|0
+2005|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Rural|0|1|1|0|0.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|0
+2017|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|1
+1994|Colombia|Antioquia|Apartadó|Rural|0|3|0|0|0.0|0|0
+1990|Colombia|Antioquia|Turbo|Urbana|0|1|1|0|1.0|0|0
+1975|Colombia|Guainía|Barranco Minas|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Córdoba|Montería|Urbana|0|7|0|0|1.0|0|0
+2004|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|7|0|0|0.0|0|0
+1989|Colombia|Caldas|Anserma|Rural|0|1|1|0|0.0|0|0
+2004|Colombia|Atlántico|Barranquilla|Urbana|0|1|1|0|0.0|0|0
+1989|Colombia|Santander|Simacota|Rural|0|4|3|0|0.0|0|0
+2001|Colombia|Putumayo|Puerto Caicedo|Rural|0|5|0|0|1.0|0|0
+1988|Colombia|Caldas|Anserma|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Putumayo|Puerto Caicedo|Rural|0|1|1|0|0.0|0|0
+2005|Colombia|Nariño|Barbacoas|Rural|0|10|1|0|1.0|0|0
+2003|Colombia|Santander|Landázuri|Rural|0|1|0|0|1.0|0|0
+2006|Colombia|Nariño|Policarpa|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Nariño|Barbacoas|Rural|0|15|1|0|1.0|0|0
+1996|Colombia|Magdalena|Nueva Granada|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Caquetá|La Montañita|Rural|0|2|0|0|0.0|0|0
+2005|Colombia|Huila|Gigante|Rural|1|4|0|0|0.0|0|0
+1999|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Magdalena|Fundación|Urbana|0|1|1|0|1.0|0|0
+1994|Colombia|Antioquia|Apartadó|Urbana|0|1|0|0|0.0|0|1
+2001|Colombia|Casanare|Hato Corozal|Rural|0|10|2|0|1.0|0|0
+1983|Colombia|Caquetá|Florencia|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Caquetá|Florencia|Rural|1|1|0|0|1.0|0|0
+2005|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Santander|Floridablanca|Urbana|0|1|0|0|0.0|1|0
+2004|Colombia|Santander|Floridablanca|Urbana|0|4|2|0|0.0|0|0
+2013|Colombia|Santander|Lebrija|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Santander|Floridablanca|Urbana|0|1|0|0|0.0|0|0
+2018|Colombia|Santander|Floridablanca|Urbana|0|1|0|0|0.0|0|0
+1998|Colombia|Putumayo|Puerto Leguízamo|Rural|0|20|0|0|0.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|0|0|1.0|0|0
+2011|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|0|0|1.0|0|0
+2009|Colombia|Atlántico|Malambo|Urbana|0|1|0|0|0.0|0|0
+2010|Colombia|Atlántico|Soledad|Rural|0|1|0|0|0.0|0|0
+1990|Colombia|Magdalena|Ciénaga|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Atlántico|Soledad|Urbana|0|1|2|0|0.0|0|0
+1985|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|1.0|0|0
+2003|Colombia|Atlántico|Barranquilla|Urbana|0|1|1|0|0.0|0|0
+2003|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Rural|0|1|1|0|1.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Rural|0|4|3|0|0.0|0|0
+1999|Colombia|Magdalena|Sitionuevo|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|1|1|0|1.0|0|0
+1975|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Urbana|0|5|2|0|1.0|0|0
+2008|Colombia|Valle Del Cauca|Tuluá|Urbana|0|2|0|0|0.0|0|0
+2000|Colombia|Magdalena|Salamina|Rural|0|1|3|0|1.0|0|0
+2001|Colombia|Magdalena|Santa Marta|Urbana|1|1|1|0|1.0|0|0
+1985|Colombia|Antioquia|Turbo|Rural|0|6|0|0|0.0|0|1
+2001|Colombia|Magdalena|Aracataca|Rural|0|2|0|0|1.0|0|0
+1987|Colombia|Santander|Landázuri|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Magdalena|Aracataca|Urbana|0|1|0|0|0.0|0|0
+1999|Colombia|Magdalena|Plato|Urbana|0|1|0|0|1.0|0|0
+2001|Colombia|Magdalena|Plato|Urbana|0|2|2|0|1.0|0|0
+2006|Colombia|Antioquia|Tarazá|Rural|1|1|2|0|1.0|0|0
+2011|Colombia|Antioquia|Tarazá|Rural|0|1|0|0|1.0|0|0
+2018|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+1986|Colombia|Santander|San Vicente De Chucurí|Rural|0|1|0|0|1.0|0|0
+1990|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|4|0|0|0.0|0|0
+1991|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|8|0|0|0.0|0|0
+1992|Colombia|Norte De Santander|Bucarasica|Urbana|0|1|0|0|0.0|0|0
+1999|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|0.0|0|1
+1999|Colombia|Valle Del Cauca|Cali|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Magdalena|Aracataca|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Magdalena|Aracataca|Urbana|0|2|1|0|1.0|0|0
+1986|Colombia|Huila|Neiva|Urbana|0|1|0|0|0.0|0|0
+1993|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|4|0|0|0.0|0|0
+2001|Colombia|Bolívar|Arjona|Rural|1|1|0|0|0.0|0|0
+2001|Colombia|Bolívar|Arjona|Sin Especificar|0|1|0|0|0.0|0|0
+1997|Colombia|Magdalena|Ciénaga|Rural|0|5|2|0|0.0|1|1
+1999|Colombia|Magdalena|Ciénaga|Rural|0|2|0|0|0.0|0|0
+1999|Colombia|Magdalena|Ciénaga|Rural|0|4|0|0|1.0|1|0
+2009|Colombia|Magdalena|Ciénaga|Urbana|0|1|0|0|0.0|0|0
+2008|Colombia|Valle Del Cauca|Tuluá|Urbana|0|5|0|0|0.0|0|0
+2000|Colombia|Magdalena|Plato|Urbana|0|3|0|0|0.0|0|0
+2005|Colombia|Magdalena|Plato|Rural|0|2|0|0|0.0|0|0
+2005|Colombia|Magdalena|Plato|Urbana|0|3|0|0|1.0|0|0
+2017|Colombia|Cauca|Caloto|Rural|0|2|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|9|0|0|0.0|0|0
+2000|Colombia|Magdalena|Pivijay|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Magdalena|Zona Bananera|Rural|0|1|1|0|1.0|0|0
+2004|Colombia|Magdalena|Plato|Urbana|0|1|1|0|0.0|0|0
+2004|Colombia|Magdalena|Plato|Urbana|0|10|0|0|0.0|0|0
+2004|Colombia|Magdalena|Plato|Urbana|0|2|1|0|1.0|0|0
+2004|Colombia|Magdalena|Plato|Urbana|0|4|1|0|1.0|0|0
+2011|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|0|0|0.0|0|0
+2011|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|1|0|0.0|0|0
+2011|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|0|0|1.0|0|0
+2014|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Antioquia|San Pedro De Urabá|Rural|0|3|0|0|1.0|0|0
+1989|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|4|1|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Valle Del Cauca|Caicedonia|Urbana|0|1|0|0|0.0|0|0
+1996|Colombia|Chocó|Riosucio|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Bolívar|Simití|Rural|0|1|0|0|1.0|0|0
+1997|Colombia|Chocó|Riosucio|Rural|0|500|0|0|1.0|0|0
+1997|Colombia|Chocó|Riosucio|Rural|0|4|0|0|0.0|0|0
+1997|Colombia|Antioquia|Mutatá|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Chocó|Riosucio|Rural|0|1|1|0|0.0|0|0
+2005|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|1|3|0|0|0.0|0|0
+1998|Colombia|Cesar|El Copey|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Algarrobo|Rural|0|1|2|0|1.0|0|0
+2013|Colombia|Magdalena|Santa Marta|Urbana|0|1|1|0|1.0|0|0
+2013|Colombia|Magdalena|Santa Marta|Urbana|0|1|4|0|0.0|0|0
+1999|Colombia|Norte De Santander|Ocaña|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Antioquia|Medellín|Rural|0|4|0|0|0.0|0|0
+2003|Colombia|Valle Del Cauca|Tuluá|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Medellín|Urbana|0|1|1|0|0.0|0|0
+1997|Colombia|Norte De Santander|Sardinata|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Norte De Santander|Sardinata|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Antioquia|Medellín|Urbana|0|3|1|0|0.0|0|0
+1999|Colombia|Norte De Santander|Sardinata|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Antioquia|Medellín|Urbana|0|1|1|0|0.0|0|0
+1999|Colombia|Norte De Santander|Sardinata|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Antioquia|Medellín|Urbana|0|2|0|0|0.0|0|0
+1998|Colombia|Norte De Santander|Toledo|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Valle Del Cauca|Buenaventura|Rural|0|4|0|0|1.0|0|0
+2012|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|0|0|0.0|0|0
+1998|Colombia|Norte De Santander|Tibú|Rural|0|1|1|0|0.0|0|0
+2016|Colombia|Santander|Barrancabermeja|Urbana|0|1|1|0|0.0|0|0
+2001|Colombia|Santander|Sabana De Torres|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2008|Ecuador|Sin Especificar|Sucumbíos|Rural|0|25|8|0|0.0|0|0
+1995|Colombia|Antioquia|Medellín|Urbana|0|3|0|0|0.0|0|0
+2008|Ecuador|Sin Especificar|Sucumbíos|Rural|0|25|0|0|0.0|0|0
+2003|Colombia|Quindio|Armenia|Urbana|0|1|0|0|1.0|0|0
+1995|Colombia|Antioquia|Necoclí|Rural|1|12|0|0|1.0|0|0
+2001|Colombia|Caquetá|La Montañita|Urbana|0|1|0|0|1.0|0|0
+2007|Colombia|Caquetá|Milán|Rural|0|1|0|0|1.0|0|0
+1995|Colombia|Antioquia|Necoclí|Rural|0|10|0|0|1.0|0|0
+2003|Colombia|Valle Del Cauca|Buenaventura|Rural|0|20|0|0|1.0|0|0
+2015|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1|0|0|1.0|0|1
+2012|Colombia|Risaralda|Pereira|Urbana|1|1|0|0|1.0|0|0
+2003|Colombia|Valle Del Cauca|Zarzal|Urbana|0|1|0|0|1.0|0|0
+2013|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|1.0|0|0
+2011|Colombia|Risaralda|Pereira|Urbana|0|1|1|0|0.0|0|0
+2015|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+1993|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Putumayo|Santiago|Rural|0|1|1|0|0.0|0|0
+1999|Colombia|Putumayo|Santiago|Rural|0|1|1|0|1.0|0|0
+2000|Colombia|Santander|Barrancabermeja|Urbana|0|5|1|0|1.0|0|0
+2011|Colombia|Bolívar|Arjona|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Putumayo|Santiago|Rural|0|9|0|0|1.0|0|0
+2001|Colombia|Casanare|San Luis De Palenque|Urbana|0|6|1|0|0.0|0|0
+1993|Colombia|Valle Del Cauca|Dagua|Rural|0|4|0|0|0.0|0|0
+1997|Colombia|Antioquia|Apartadó|Rural|0|7|0|0|0.0|0|0
+2000|Colombia|Cauca|Timbío|Rural|0|1|2|0|1.0|0|0
+2002|Colombia|Putumayo|Villagarzón|Rural|0|5|2|0|1.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|8|0|0|1.0|0|0
+1999|Colombia|Cauca|Timbío|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Putumayo|Villagarzón|Rural|0|5|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Roldanillo|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Cauca|Timbío|Rural|0|2|0|0|1.0|0|0
+2006|Colombia|Cauca|Piamonte|Urbana|0|1|0|0|0.0|0|0
+2006|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+2009|Colombia|Tolima|Ibagué|Urbana|0|1|0|0|1.0|0|0
+2016|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+1995|Colombia|Cauca|Timbío|Rural|0|1|0|0|0.0|0|0
+2017|Colombia|Valle Del Cauca|Cali|Urbana|0|1|3|0|0.0|0|0
+2017|Colombia|Valle Del Cauca|Cali|Rural|0|1|3|0|0.0|0|0
+2002|Colombia|Antioquia|Medellín|Urbana|0|2|0|0|0.0|0|0
+1997|Colombia|Antioquia|Apartadó|Urbana|0|1|0|0|1.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|4|3|0|0.0|0|0
+2001|Colombia|Cauca|Timbío|Rural|0|1|0|0|1.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|4|3|0|0.0|0|0
+1997|Colombia|Antioquia|Urrao|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+2005|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|18|3|0|0.0|0|0
+2018|Ecuador|Sin Especificar|Quito|Urbana|0|1|1|0|0.0|0|0
+1981|Colombia|Valle Del Cauca|Bugalagrande|Urbana|0|3|0|0|0.0|0|0
+1978|Colombia|Valle Del Cauca|Palmira|Urbana|0|3|0|0|0.0|0|0
+2005|Colombia|Antioquia|Medellín|Urbana|0|5|0|0|1.0|0|0
+2019|Colombia|Sucre|Ovejas|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|2|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|15|0|0|0.0|0|0
+1999|Colombia|Valle Del Cauca|Cali|Urbana|0|4|0|0|0.0|0|0
+1995|Colombia|Caquetá|Cartagena Del Chairá|Rural|1|1|0|0|0.0|0|0
+1997|Colombia|Caquetá|Curillo|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Valle Del Cauca|Bugalagrande|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Caquetá|Curillo|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Chocó|Riosucio|Rural|1|6|0|0|0.0|0|1
+2000|Colombia|Caquetá|Curillo|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Bugalagrande|Rural|0|1|2|0|1.0|0|0
+2000|Colombia|Caquetá|Curillo|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Santander|Barrancabermeja|Urbana|0|1|0|0|0.0|0|0
+2005|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+1991|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Nariño|San Andrés De Tumaco|Urbana|0|6|0|0|0.0|0|0
+2002|Colombia|Valle Del Cauca|Dagua|Rural|0|4|0|0|1.0|0|0
+2001|Colombia|Valle Del Cauca|Bugalagrande|Rural|0|1|1|0|1.0|0|0
+2001|Colombia|Valle Del Cauca|Bugalagrande|Rural|0|4|0|0|1.0|0|0
+1994|Colombia|Antioquia|San Pedro De Urabá|Rural|0|4|0|0|1.0|0|1
+2017|Colombia|Nariño|San Andrés De Tumaco|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Caquetá|Valparaíso|Rural|0|2|0|0|1.0|0|0
+1999|Colombia|Antioquia|Chigorodó|Rural|0|2|0|0|1.0|0|0
+2003|Colombia|Caquetá|Valparaíso|Rural|0|3|0|0|1.0|0|0
+1994|Colombia|Antioquia|Chigorodó|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Urrao|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Antioquia|Medellín|Urbana|0|2|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|1.0|0|0
+2005|Colombia|Caquetá|Valparaíso|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Apartadó|Urbana|0|6|0|0|0.0|0|0
+1996|Colombia|Antioquia|Urrao|Urbana|0|9|1|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Antioquia|San Pedro De Urabá|Rural|0|5|0|0|1.0|0|0
+2002|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Apartadó|Urbana|0|6|0|0|1.0|0|0
+2000|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Putumayo|Orito|Rural|0|1|1|0|1.0|0|0
+2000|Colombia|Antioquia|Medellín|Urbana|0|6|0|0|1.0|0|0
+2005|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|5|0|0|0.0|0|0
+1997|Colombia|Putumayo|Orito|Rural|0|1|0|0|0.0|0|0
+1968|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|6|0|0|0.0|0|0
+1998|Colombia|Putumayo|Orito|Rural|0|5|1|0|1.0|0|0
+2011|Colombia|Valle Del Cauca|Cali|Urbana|0|1|1|0|1.0|0|0
+2005|Colombia|Valle Del Cauca|Palmira|Rural|0|7|0|0|0.0|0|0
+2011|Colombia|Valle Del Cauca|Yumbo|Urbana|0|1|1|0|1.0|0|0
+2004|Colombia|Valle Del Cauca|Palmira|Rural|0|1|0|0|0.0|0|0
+2015|Ecuador|Sin Especificar|Quito|Urbana|0|5|1|0|0.0|0|0
+2011|Colombia|Antioquia|San Pedro De Urabá|Rural|0|5|0|0|1.0|0|0
+2005|Colombia|Valle Del Cauca|Palmira|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|1|0
+1980|Colombia|Valle Del Cauca|Palmira|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+2001|Colombia|Guaviare|Miraflores|Rural|1|3|1|0|0.0|0|0
+1998|Colombia|Antioquia|Medellín|Urbana|1|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|San Pedro De Urabá|Rural|0|6|0|0|1.0|0|0
+2018|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|5|0|0|0.0|0|0
+2010|Colombia|Guaviare|Miraflores|Rural|0|3|0|0|0.0|0|1
+2005|Colombia|Casanare|San Luis De Palenque|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Guaviare|Miraflores|Rural|0|1|0|0|0.0|0|0
+1984|Colombia|Bogotá, D.c.|Bogotá, D.c.|Sin Especificar|0|1|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+2010|Colombia|Cauca|Santander De Quilichao|Rural|0|2|0|0|0.0|0|0
+1995|Colombia|Antioquia|San Pedro De Urabá|Rural|0|7|0|0|1.0|0|1
+1992|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|1.0|0|0
+2011|Colombia|Cauca|Santander De Quilichao|Rural|0|6|0|0|1.0|0|0
+1991|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Casanare|Maní|Urbana|0|1|1|0|0.0|0|0
+2013|Ecuador|Sin Especificar|Cuenca|Rural|0|6|0|0|0.0|0|0
+1991|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|0.0|0|0
+1991|Colombia|Antioquia|Ituango|Rural|0|1|0|0|0.0|0|0
+1991|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Casanare|Maní|Rural|0|3|0|0|1.0|0|0
+1993|Colombia|Antioquia|Turbo|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Santander|Bucaramanga|Urbana|1|1|0|0|0.0|0|0
+1985|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|5|0|0|0.0|0|0
+1995|Colombia|Cauca|Santander De Quilichao|Urbana|0|2|1|0|0.0|0|0
+1998|Colombia|Cauca|Santander De Quilichao|Urbana|0|2|0|0|1.0|0|0
+2004|Colombia|Cauca|Popayán|Urbana|0|2|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2003|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Antioquia|Apartadó|Rural|0|2|0|0|1.0|0|0
+2008|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|1.0|0|0
+2009|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|1|1
+2009|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+1982|Colombia|Caquetá|El Paujíl|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+2018|Colombia|Valle Del Cauca|Florida|Urbana|0|1|0|0|0.0|0|0
+1992|Colombia|Caquetá|La Montañita|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Caquetá|La Montañita|Rural|0|1|0|0|1.0|0|0
+2006|Colombia|Guaviare|Miraflores|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Caquetá|Valparaíso|Rural|0|4|0|0|1.0|0|0
+1992|Colombia|Valle Del Cauca|Cali|Rural|0|3|0|0|0.0|0|0
+2018|Colombia|Norte De Santander|San José De Cúcuta|Rural|0|1|0|0|0.0|0|0
+1990|Colombia|Valle Del Cauca|Cali|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Huila|Gigante|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Cesar|Astrea|Rural|0|6|1|0|1.0|0|0
+2005|Colombia|Guaviare|Miraflores|Rural|1|2|0|0|1.0|0|0
+2007|Colombia|Huila|Pitalito|Rural|0|2|1|0|0.0|0|0
+1981|Colombia|Meta|Mapiripán|Rural|0|7|2|0|0.0|0|0
+2008|Colombia|Caquetá|El Paujíl|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Putumayo|Santiago|Rural|1|2|0|0|1.0|0|0
+2011|Colombia|Caquetá|La Montañita|Rural|1|2|0|0|0.0|0|0
+1994|Colombia|Antioquia|Necoclí|Rural|1|1|1|0|1.0|0|0
+2012|Colombia|Caquetá|Florencia|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Chocó|Medio Atrato|Rural|0|1|0|0|0.0|0|0
+1979|Colombia|Guaviare|Miraflores|Rural|0|1|0|0|0.0|0|0
+2017|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Antioquia|Medellín|Urbana|0|3|0|0|0.0|0|0
+2014|Ecuador|Sin Especificar|Lago Agrio|Urbana|0|3|1|0|0.0|0|0
+2001|Colombia|Antioquia|Medellín|Rural|0|1|0|0|1.0|0|0
+2008|Colombia|Cauca|Corinto|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Antioquia|Medellín|Urbana|0|1|1|0|0.0|0|0
+2008|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|7|0|0|0.0|0|0
+2013|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|15|0|0|0.0|0|0
+1993|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|4|0|0|0.0|0|0
+1997|Colombia|Chocó|Carmen Del Darién|Rural|1|15|1|0|1.0|0|1
+2004|Colombia|Putumayo|Mocoa|Rural|1|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|6|1|0|0.0|0|0
+1987|Colombia|Antioquia|Medellín|Urbana|0|10|0|0|0.0|0|0
+2004|Colombia|Putumayo|Mocoa|Rural|0|1|1|0|1.0|0|0
+1986|Colombia|Boyacá|Puerto Boyacá|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Antioquia|Medellín|Urbana|0|1|2|0|0.0|0|0
+2004|Ecuador|Sin Especificar|Quito|Rural|0|6|0|0|0.0|0|0
+1985|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|1.0|0|0
+1991|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|1.0|0|0
+1991|Colombia|Antioquia|Apartadó|Rural|0|19|0|0|0.0|0|0
+2010|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1991|Colombia|Antioquia|Chigorodó|Urbana|0|1|0|0|1.0|0|0
+1994|Colombia|Antioquia|San Pedro De Urabá|Rural|0|3|0|0|1.0|0|0
+1995|Colombia|Antioquia|Chigorodó|Urbana|0|1|0|0|1.0|0|0
+2007|Colombia|Nariño|San Andrés De Tumaco|Urbana|0|1|1|0|0.0|0|0
+2010|Colombia|Antioquia|Mutatá|Rural|0|3|0|0|0.0|0|0
+2000|Colombia|Nariño|San Andrés De Tumaco|Rural|0|6|0|0|1.0|0|0
+1988|Colombia|Antioquia|Turbo|Rural|0|1|0|0|1.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Antioquia|San Pedro De Urabá|Rural|0|37|1|0|0.0|0|0
+1989|Colombia|Santander|Barrancabermeja|Urbana|0|2|0|0|0.0|0|0
+1995|Colombia|Antioquia|Apartadó|Rural|0|9|0|0|1.0|0|0
+1996|Colombia|Antioquia|Apartadó|Rural|0|7|0|0|1.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|1|1|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|1|2|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|1|1|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|4|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Antioquia|Medellín|Rural|1|3|0|0|0.0|0|0
+2006|Colombia|Antioquia|Bello|Rural|0|1|0|0|0.0|0|1
+2000|Colombia|Antioquia|Medellín|Rural|1|1|0|0|0.0|0|0
+2000|Colombia|Antioquia|Medellín|Urbana|1|1|0|0|0.0|0|0
+2005|Colombia|Antioquia|Medellín|Urbana|0|4|0|0|1.0|0|0
+2005|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|15|0|0|0.0|0|0
+1988|Colombia|Antioquia|San Carlos|Rural|0|4|0|0|0.0|0|0
+1989|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+1990|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|1|1|0|0|0.0|0|0
+2003|Colombia|Putumayo|Santiago|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Putumayo|Villagarzón|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Antioquia|Segovia|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Bogotá, D.c.|Sin Especificar|Urbana|0|5|0|0|0.0|0|1
+2000|Colombia|Caquetá|Belén De Los Andaquíes|Rural|1|200|0|0|0.0|0|0
+2003|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|1|0|0.0|0|0
+1985|Colombia|Santander|Puerto Parra|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|0.0|0|0
+2013|Colombia|Atlántico|Soledad|Rural|0|1|0|0|0.0|0|0
+2019|Colombia|Antioquia|Segovia|Rural|0|1|0|0|0.0|0|0
+1994|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|4|0|0|0.0|0|0
+1996|Colombia|Bolívar|El Carmen De Bolívar|Urbana|0|1|0|0|0.0|0|0
+2012|Colombia|Antioquia|Segovia|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Antioquia|San Carlos|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Putumayo|Santiago|Rural|0|1|1|0|0.0|0|0
+2000|Colombia|Putumayo|Santiago|Rural|0|3|0|0|0.0|0|0
+2003|Colombia|Putumayo|Santiago|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Putumayo|Santiago|Rural|0|13|0|0|0.0|0|0
+2000|Colombia|Bolívar|El Carmen De Bolívar|Rural|0|1|1|0|0.0|0|0
+1996|Colombia|Antioquia|Segovia|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Antioquia|Segovia|Rural|1|1|0|0|0.0|0|0
+2001|Colombia|Bolívar|El Carmen De Bolívar|Urbana|0|1|0|0|1.0|0|0
+1998|Colombia|Antioquia|Remedios|Rural|0|10|0|0|0.0|0|0
+1998|Colombia|Antioquia|Segovia|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Caquetá|Belén De Los Andaquíes|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Antioquia|Argelia|Rural|0|3|0|0|1.0|0|0
+1999|Colombia|Antioquia|Argelia|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Antioquia|Argelia|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Antioquia|Argelia|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Tolima|Rioblanco|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Bolívar|El Carmen De Bolívar|Urbana|0|1|0|0|1.0|0|0
+2004|Colombia|Norte De Santander|El Carmen|Urbana|0|1|1|0|0.0|0|0
+2003|Colombia|Cesar|Aguachica|Rural|0|1|1|0|1.0|0|0
+2010|Colombia|Norte De Santander|Teorama|Rural|0|2|0|0|1.0|0|0
+1998|Colombia|Cesar|González|Rural|0|3|0|0|1.0|0|0
+2014|Colombia|Nariño|Olaya Herrera|Rural|0|1|0|0|0.0|0|0
+2017|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Putumayo|Santiago|Rural|0|2|0|0|0.0|0|0
+1998|Colombia|Putumayo|Santiago|Rural|0|1|1|0|0.0|0|0
+1990|Colombia|Cesar|Valledupar|Rural|0|1|0|0|0.0|0|0
+1994|Colombia|Cesar|González|Rural|0|1|2|0|0.0|0|0
+2017|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|1.0|0|0
+2010|Colombia|Antioquia|Caucasia|Urbana|0|2|0|0|0.0|0|0
+1998|Colombia|Putumayo|Santiago|Urbana|0|2|1|0|1.0|1|0
+1998|Colombia|Putumayo|Santiago|Rural|0|5|1|0|1.0|0|0
+1998|Colombia|Antioquia|Segovia|Rural|0|4|0|0|0.0|0|0
+2004|Colombia|Antioquia|Alejandría|Urbana|0|1|0|0|0.0|0|0
+1998|Colombia|Bolívar|Simití|Rural|0|3|0|0|1.0|0|0
+1990|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Meta|San Martín|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Guaviare|Miraflores|Urbana|0|1|0|0|0.0|0|0
+2009|Colombia|Meta|San Martín|Urbana|0|1|0|0|1.0|0|0
+1998|Colombia|Antioquia|Salgar|Rural|0|9|1|0|1.0|0|0
+1999|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Cauca|Páez|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Putumayo|Puerto Caicedo|Urbana|0|20|0|0|1.0|0|0
+2003|Colombia|Cauca|Páez|Rural|0|1|1|0|1.0|0|0
+1975|Colombia|Antioquia|Nechí|Rural|0|10|0|0|1.0|0|0
+1990|Colombia|Cesar|Valledupar|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Cauca|Páez|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Quindio|Calarcá|Rural|0|5|0|0|1.0|0|0
+2001|Colombia|Putumayo|Puerto Caicedo|Rural|0|1|0|0|1.0|0|0
+2013|Colombia|Putumayo|Puerto Caicedo|Urbana|0|1|0|0|0.0|0|0
+2004|Colombia|Putumayo|Puerto Caicedo|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|3|0|0|1.0|0|0
+2000|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|1.0|0|0
+2007|Colombia|La Guajira|Riohacha|Rural|0|2|0|0|0.0|0|0
+1996|Colombia|Antioquia|Dabeiba|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|La Guajira|Riohacha|Urbana|0|1|0|0|0.0|0|0
+1993|Colombia|Huila|Neiva|Rural|0|3|1|0|0.0|0|0
+2006|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Huila|Neiva|Rural|0|1|3|0|0.0|0|0
+1979|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|San Pedro De Urabá|Rural|0|7|0|0|1.0|0|0
+2008|Colombia|Guaviare|Miraflores|Urbana|1|1|0|0|0.0|0|0
+2014|Colombia|Putumayo|Orito|Urbana|0|1|0|0|0.0|0|0
+1995|Colombia|Putumayo|Puerto Guzmán|Rural|1|1|0|0|0.0|0|0
+2002|Colombia|Valle Del Cauca|Bolívar|Rural|0|5|0|0|1.0|0|0
+1996|Colombia|Putumayo|Puerto Guzmán|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Antioquia|Segovia|Rural|0|1|1|0|0.0|0|0
+2001|Colombia|Antioquia|Segovia|Rural|0|2|0|0|0.0|0|0
+1993|Colombia|Cesar|Valledupar|Rural|0|20|1|0|0.0|0|0
+1996|Colombia|Cesar|Valledupar|Urbana|0|1|2|0|0.0|0|0
+2001|Colombia|Antioquia|Segovia|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Chigorodó|Urbana|0|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|Chigorodó|Rural|0|3|0|0|1.0|0|0
+2004|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Cesar|Valledupar|Rural|0|2|1|0|0.0|0|0
+2000|Colombia|Putumayo|Valle Del Guamuez|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Cesar|Manaure Balcón Del Cesar|Rural|0|1|0|0|0.0|0|0
+2012|Colombia|Valle Del Cauca|Dagua|Rural|0|3|3|0|0.0|0|0
+1999|Colombia|Putumayo|Puerto Asís|Rural|0|1|0|1|0.0|0|0
+2011|Colombia|Amazonas|Leticia|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Putumayo|Puerto Caicedo|Rural|0|1|1|0|1.0|0|1
+2014|Colombia|Putumayo|Valle Del Guamuez|Urbana|0|1|0|0|0.0|0|0
+1963|Colombia|Huila|Palermo|Rural|0|4|0|0|0.0|0|0
+2013|Colombia|Valle Del Cauca|Dagua|Rural|0|2|2|0|1.0|0|0
+1989|Colombia|Santander|Puerto Wilches|Rural|1|1|0|0|0.0|0|0
+1994|Colombia|Putumayo|Puerto Asís|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Putumayo|Puerto Asís|Rural|1|1|0|0|0.0|0|0
+2014|Francia|Sin Especificar|Paris|Urbana|1|1|0|0|0.0|0|0
+2013|Colombia|Valle Del Cauca|Dagua|Rural|0|1|1|0|1.0|0|0
+2015|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+2015|Colombia|Valle Del Cauca|Cali|Urbana|0|1|1|0|0.0|0|0
+2002|Colombia|Santander|Puerto Wilches|Urbana|0|1|0|0|0.0|0|0
+2007|Colombia|Putumayo|Villagarzón|Rural|0|1|0|0|1.0|0|0
+2015|Colombia|Valle Del Cauca|Cali|Urbana|0|1|1|0|0.0|0|0
+2003|Colombia|Bolívar|El Carmen De Bolívar|Urbana|0|1|0|0|0.0|0|0
+2009|Colombia|Cauca|Santander De Quilichao|Rural|0|3|1|0|1.0|0|0
+2004|Colombia|Valle Del Cauca|Yumbo|Rural|0|3|0|0|1.0|0|0
+2012|Colombia|Valle Del Cauca|Dagua|Rural|0|1|1|0|0.0|0|0
+1996|Colombia|Valle Del Cauca|Yumbo|Urbana|0|3|1|0|1.0|0|1
+1989|Colombia|Meta|Mapiripán|Rural|0|1|1|0|0.0|0|0
+1983|Colombia|Santander|Los Santos|Rural|1|5|0|0|0.0|0|0
+2008|Colombia|Antioquia|Urrao|Rural|0|1|0|0|0.0|0|0
+1994|Colombia|Antioquia|Urrao|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Antioquia|Urrao|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Antioquia|Urrao|Rural|1|1|1|0|0.0|0|0
+2011|Colombia|Amazonas|Leticia|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2015|Colombia|Amazonas|Leticia|Rural|0|1|0|0|0.0|0|1
+2008|Colombia|Antioquia|Ituango|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Antioquia|Ituango|Rural|0|4|0|0|1.0|0|0
+2008|Colombia|Antioquia|Ituango|Rural|0|4|0|0|1.0|0|0
+1997|Colombia|Huila|Palermo|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Huila|Palermo|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Antioquia|Ituango|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Antioquia|Dabeiba|Rural|0|1|1|0|0.0|0|0
+1996|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|0|0|1.0|0|0
+1984|Colombia|Antioquia|Turbo|Rural|0|1|0|0|1.0|0|0
+1994|Colombia|Antioquia|Dabeiba|Rural|0|7|0|0|1.0|0|0
+1997|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+2008|Colombia|Antioquia|Ituango|Rural|0|1|0|0|1.0|0|0
+2017|Colombia|Antioquia|Turbo|Rural|0|5|0|0|1.0|0|0
+1996|Colombia|Risaralda|Quinchía|Rural|0|5|0|0|1.0|0|0
+1992|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|1.0|0|1
+2003|Colombia|Putumayo|Puerto Asís|Rural|0|1|2|0|0.0|0|0
+2001|Colombia|Caquetá|Belén De Los Andaquíes|Rural|1|1|0|0|0.0|0|0
+2003|Colombia|Putumayo|Puerto Caicedo|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|La Guajira|Albania|Rural|1|7|2|0|0.0|0|0
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|6|0|0|0.0|0|0
+2014|Colombia|Antioquia|El Bagre|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Puebloviejo|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Antioquia|Argelia|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Cesar|González|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Antioquia|Argelia|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Antioquia|Argelia|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Huila|Neiva|Rural|0|1|2|0|0.0|1|0
+2011|Colombia|Huila|Timaná|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Huila|Tello|Rural|0|1|0|0|1.0|0|0
+2003|Colombia|Putumayo|Orito|Rural|1|1|0|0|0.0|0|0
+2019|Colombia|Antioquia|El Bagre|Rural|0|4|1|0|1.0|0|0
+2002|Colombia|Putumayo|Puerto Asís|Rural|0|5|0|0|1.0|0|0
+1998|Colombia|Cesar|González|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|La Guajira|Maicao|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Valle Del Cauca|Cali|Urbana|0|3|1|0|1.0|0|0
+2002|Colombia|Caquetá|Florencia|Rural|1|1|0|0|0.0|0|0
+2003|Colombia|Córdoba|Puerto Libertador|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Córdoba|Puerto Libertador|Rural|0|2|0|0|1.0|0|0
+1997|Colombia|Antioquia|Dabeiba|Rural|0|8|0|0|1.0|0|0
+2005|Ecuador|Sin Especificar|Quito|Urbana|0|6|0|0|0.0|0|0
+2003|Colombia|Córdoba|Puerto Libertador|Rural|0|2|0|0|0.0|0|0
+2006|Colombia|Antioquia|Segovia|Rural|0|1|0|0|1.0|0|0
+2013|Colombia|Antioquia|Segovia|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Antioquia|Mutatá|Rural|0|1|0|0|0.0|0|0
+2015|Colombia|Antioquia|Segovia|Rural|0|1|1|0|0.0|0|0
+2010|Colombia|La Guajira|Riohacha|Urbana|0|1|0|0|0.0|0|0
+1996|Colombia|Cesar|La Gloria|Rural|0|1|2|0|1.0|0|0
+1990|Colombia|Cauca|Bolívar|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Cesar|Valledupar|Rural|0|1|0|0|0.0|0|0
+2012|Colombia|Nariño|San Andrés De Tumaco|Rural|0|2|1|0|0.0|0|0
+1994|Colombia|Cauca|Popayán|Rural|0|3|0|0|1.0|0|0
+2001|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Chocó|Acandí|Rural|1|1|0|0|0.0|0|0
+1993|Colombia|Antioquia|Caucasia|Rural|0|6|0|0|0.0|0|0
+1996|Colombia|Antioquia|Valdivia|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Chocó|Acandí|Rural|0|2|0|0|1.0|0|0
+2016|Colombia|Huila|Acevedo|Rural|0|1|0|0|0.0|0|1
+2002|Colombia|Cesar|Valledupar|Rural|0|6|1|0|0.0|0|0
+1996|Colombia|Chocó|Acandí|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Antioquia|Urrao|Rural|0|1|0|0|1.0|0|0
+2018|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|0.0|0|0
+2011|Colombia|Córdoba|Puerto Libertador|Rural|0|1|0|0|0.0|0|0
+1990|Colombia|Antioquia|Arboletes|Rural|0|1|0|0|1.0|0|0
+1990|Colombia|Risaralda|Quinchía|Rural|0|1|0|0|1.0|0|1
+1990|Colombia|Risaralda|Quinchía|Rural|0|1|1|0|0.0|0|0
+1996|Colombia|Cesar|La Gloria|Rural|0|1|2|0|1.0|0|0
+1993|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+2015|Colombia|Huila|Algeciras|Urbana|0|1|0|0|0.0|0|0
+2002|Colombia|Antioquia|Argelia|Urbana|0|3|0|0|1.0|0|0
+1999|Colombia|Putumayo|Colón|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Antioquia|Nechí|Rural|0|1|0|0|1.0|0|0
+2006|Colombia|Huila|Algeciras|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Putumayo|Colón|Rural|0|1|0|0|1.0|0|0
+2008|Colombia|Antioquia|El Bagre|Rural|0|2|0|0|1.0|0|0
+2001|Colombia|Magdalena|Plato|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Antioquia|El Bagre|Rural|0|1|2|0|0.0|0|0
+2000|Colombia|Putumayo|Sibundoy|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Antioquia|Nariño|Urbana|0|1|1|0|0.0|0|0
+2003|Colombia|Antioquia|Nariño|Rural|0|4|1|0|1.0|0|0
+2010|Colombia|La Guajira|Riohacha|Urbana|0|2|0|0|0.0|0|0
+2000|Colombia|Antioquia|Argelia|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Putumayo|Puerto Caicedo|Rural|0|1|0|0|1.0|0|0
+2009|Colombia|Antioquia|Nechí|Rural|0|3|0|0|1.0|0|0
+1962|Colombia|Cauca|Balboa|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Guaviare|El Retorno|Rural|0|1|2|0|0.0|0|0
+2000|Colombia|Magdalena|Plato|Rural|0|1|0|0|1.0|0|0
+2012|Colombia|La Guajira|Riohacha|Urbana|0|1|0|0|1.0|0|1
+2007|Colombia|Magdalena|Plato|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Antioquia|Medellín|Urbana|0|4|1|0|0.0|0|0
+2008|Colombia|Meta|Puerto Rico|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Meta|Puerto Rico|Rural|0|3|1|0|0.0|0|0
+2010|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2001|Colombia|Cesar|Agustín Codazzi|Rural|0|20|1|0|1.0|0|0
+2019|Colombia|Cesar|Agustín Codazzi|Rural|1|25|0|0|0.0|0|0
+1998|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|4|0|1|0.0|0|0
+1992|Colombia|Antioquia|San Juan De Urabá|Rural|0|6|0|0|1.0|0|0
+1994|Colombia|Chocó|Riosucio|Rural|0|3|0|0|1.0|0|0
+1999|Colombia|Cesar|El Copey|Rural|0|2|2|0|0.0|0|0
+2012|Colombia|Caquetá|Solano|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Antioquia|Remedios|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Magdalena|Zona Bananera|Rural|1|1|4|0|1.0|0|0
+2007|Colombia|Cesar|Valledupar|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Caquetá|Valparaíso|Rural|0|2|1|0|0.0|0|0
+2004|Colombia|Caquetá|Valparaíso|Rural|0|4|0|0|1.0|0|0
+2018|Colombia|Antioquia|Tarazá|Urbana|0|1|0|0|0.0|0|0
+2019|Colombia|Antioquia|Cáceres|Urbana|0|10|0|0|1.0|0|0
+1996|Colombia|Cesar|La Gloria|Rural|1|1|2|0|1.0|0|0
+2001|Colombia|Magdalena|Plato|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Antioquia|Urrao|Urbana|0|4|0|0|1.0|0|0
+2003|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+2002|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+2015|Colombia|Cesar|La Gloria|Rural|0|1|2|0|1.0|0|0
+1995|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Antioquia|Medellín|Urbana|0|3|0|0|1.0|0|0
+2002|Colombia|Cesar|Bosconia|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cesar|El Copey|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Magdalena|Plato|Rural|0|1|0|0|1.0|0|0
+1989|Colombia|Antioquia|Turbo|Rural|0|1|0|0|1.0|0|0
+1980|Colombia|Antioquia|Mutatá|Rural|0|7|0|0|1.0|0|0
+1994|Colombia|Antioquia|Chigorodó|Urbana|0|1|0|0|0.0|0|0
+2006|Colombia|Antioquia|San Juan De Urabá|Rural|0|6|1|0|0.0|0|0
+2001|Colombia|La Guajira|Fonseca|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cesar|El Copey|Rural|0|1|4|0|0.0|0|0
+1999|Colombia|Cesar|El Copey|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Magdalena|Aracataca|Rural|0|2|0|0|1.0|0|0
+1997|Colombia|Antioquia|Urrao|Urbana|0|1|1|0|1.0|0|0
+1996|Colombia|Antioquia|Chigorodó|Rural|0|2|1|0|0.0|0|0
+1998|Colombia|Antioquia|Medellín|Urbana|0|3|0|0|1.0|0|0
+1995|Colombia|Antioquia|Turbo|Rural|0|9|0|0|1.0|0|0
+1984|Colombia|Antioquia|Envigado|Urbana|0|1|0|0|0.0|0|0
+1990|Colombia|Antioquia|Medellín|Urbana|0|1|0|0|0.0|0|0
+1994|Colombia|Chocó|Riosucio|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Caquetá|La Montañita|Rural|0|1|1|0|1.0|0|0
+1994|Colombia|Bolívar|Cartagena De Indias|Urbana|0|1|0|0|0.0|0|0
+1996|Colombia|Antioquia|Urrao|Urbana|0|3|1|0|0.0|0|0
+2004|Colombia|Bolívar|Cartagena De Indias|Urbana|0|1|0|0|0.0|0|0
+1992|Colombia|Magdalena|Pivijay|Rural|0|1|1|0|1.0|1|0
+2000|Colombia|Antioquia|Medellín|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Magdalena|Pivijay|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Magdalena|Plato|Urbana|0|1|1|0|0.0|0|0
+2003|Colombia|Magdalena|Plato|Urbana|0|1|1|0|0.0|0|0
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Cesar|Valledupar|Rural|0|7|0|0|1.0|0|0
+2007|Colombia|La Guajira|Fonseca|Rural|0|1|1|0|0.0|0|0
+1994|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|1|0|0|1.0|0|0
+1995|Colombia|Caquetá|Solano|Rural|0|1|0|0|1.0|0|0
+1994|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|La Guajira|Riohacha|Rural|0|7|0|0|1.0|0|0
+2008|Colombia|Chocó|Riosucio|Rural|0|200|0|0|1.0|0|0
+2008|Colombia|Chocó|Riosucio|Rural|0|20|0|0|1.0|0|0
+2007|Colombia|Nariño|San Andrés De Tumaco|Rural|1|5|0|0|1.0|0|0
+2011|Colombia|Antioquia|Chigorodó|Urbana|0|1|0|0|0.0|0|0
+1992|Colombia|Antioquia|Cáceres|Rural|0|1|0|0|1.0|0|0
+1992|Colombia|Antioquia|Tarazá|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Putumayo|Puerto Caicedo|Urbana|0|1|1|0|0.0|0|0
+1999|Colombia|Cundinamarca|El Peñón|Rural|0|3|0|0|1.0|0|0
+2003|Colombia|Cundinamarca|Viotá|Rural|0|7|0|0|1.0|0|0
+1989|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Antioquia|Urrao|Urbana|0|1|1|0|0.0|1|0
+1998|Colombia|Antioquia|Peñol|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cundinamarca|El Peñón|Urbana|0|1|0|0|1.0|0|0
+2014|Colombia|Valle Del Cauca|Buenaventura|Rural|1|1|0|0|1.0|0|0
+1981|Colombia|Caquetá|Solano|Rural|0|1|0|0|1.0|0|0
+1997|Colombia|Caquetá|Solano|Rural|0|1|0|0|1.0|0|0
+2010|Ecuador|Sin Especificar|Tungurahua|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Casanare|Aguazul|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Cesar|Aguachica|Rural|0|1|1|0|1.0|0|0
+2009|Colombia|Cauca|Caldono|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Plato|Urbana|0|4|0|0|1.0|0|0
+2015|Colombia|Cesar|Chiriguaná|Rural|0|1|0|0|0.0|0|0
+2008|Ecuador|Sin Especificar|Sucumbíos|Rural|0|4|4|0|0.0|0|0
+1990|Colombia|Cundinamarca|Paime|Rural|0|3|0|1|0.0|0|0
+2009|Colombia|Cauca|Mercaderes|Rural|0|3|0|0|1.0|0|0
+1982|Colombia|Chocó|Istmina|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Cesar|Agustín Codazzi|Rural|0|1|1|0|0.0|0|0
+2018|Colombia|Antioquia|El Bagre|Rural|0|1|0|0|1.0|0|0
+2012|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|0|0|1.0|0|0
+1997|Colombia|Magdalena|Ciénaga|Rural|0|5|0|0|0.0|0|0
+2019|Colombia|Nariño|Olaya Herrera|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Magdalena|Ciénaga|Rural|0|2|0|0|1.0|0|0
+2000|Colombia|Magdalena|Plato|Rural|0|2|1|0|0.0|0|0
+1999|Colombia|Magdalena|Puebloviejo|Rural|0|2|0|0|1.0|0|0
+2000|Colombia|Magdalena|Zona Bananera|Rural|1|1|1|0|1.0|0|1
+2001|Colombia|Magdalena|Aracataca|Rural|0|2|0|0|1.0|0|0
+1974|Colombia|La Guajira|Fonseca|Rural|0|10|0|0|1.0|0|0
+2001|Colombia|Magdalena|Aracataca|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Magdalena|Zona Bananera|Rural|1|1|1|0|1.0|0|0
+2009|Colombia|Magdalena|Ciénaga|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Magdalena|Ciénaga|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|La Guajira|Riohacha|Rural|0|1|1|0|0.0|0|0
+1999|Colombia|Magdalena|Santa Marta|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Magdalena|Santa Marta|Rural|0|1|1|0|1.0|0|0
+1985|Colombia|Boyacá|Duitama|Rural|0|3|0|0|1.0|0|0
+2017|Colombia|Magdalena|Santa Marta|Urbana|1|1|1|0|0.0|0|1
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|1|0|0|1.0|0|0
+1978|Colombia|Cauca|Popayán|Urbana|0|1|0|0|0.0|0|0
+2001|Colombia|Cesar|Aguachica|Rural|0|2|0|0|1.0|0|0
+2004|Colombia|Magdalena|Pivijay|Urbana|0|1|1|0|0.0|0|0
+2005|Colombia|Magdalena|Pivijay|Urbana|0|1|1|0|0.0|0|0
+2000|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Magdalena|Plato|Rural|0|1|1|0|1.0|0|0
+2001|Colombia|Cesar|Valledupar|Rural|0|2|1|0|1.0|0|0
+2000|Colombia|Cesar|Valledupar|Rural|0|1|1|0|0.0|0|0
+2000|Colombia|Cesar|Valledupar|Rural|0|1|0|0|1.0|0|0
+2010|Colombia|Antioquia|Ituango|Rural|1|1|0|0|0.0|0|0
+2004|Colombia|Caquetá|Curillo|Rural|0|3|0|0|1.0|0|0
+2004|Colombia|Caquetá|Curillo|Rural|0|3|0|0|0.0|0|0
+1995|Colombia|Huila|La Argentina|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Huila|La Argentina|Rural|0|1|0|0|0.0|0|0
+1992|Colombia|Huila|La Argentina|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|La Guajira|El Molino|Rural|0|2|1|0|0.0|0|0
+2002|Colombia|La Guajira|El Molino|Rural|0|2|0|0|0.0|0|0
+2004|Colombia|La Guajira|El Molino|Rural|0|2|0|0|0.0|0|0
+1996|Colombia|Cesar|Agustín Codazzi|Rural|0|1|1|0|0.0|0|0
+2014|Colombia|Antioquia|Tarazá|Rural|0|1|0|0|0.0|0|0
+1987|Colombia|Valle Del Cauca|Palmira|Rural|0|3|0|0|0.0|0|0
+2002|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|1.0|0|0
+1990|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Valle Del Cauca|Palmira|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Valle Del Cauca|Palmira|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|La Guajira|Riohacha|Rural|0|4|0|0|0.0|0|0
+1992|Colombia|La Guajira|Riohacha|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Huila|Pitalito|Rural|0|2|0|0|0.0|0|0
+1995|Colombia|Putumayo|Valle Del Guamuez|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Huila|Pitalito|Urbana|0|1|0|0|0.0|0|0
+1989|Colombia|La Guajira|San Juan Del Cesar|Rural|0|1|1|0|0.0|0|0
+1998|Colombia|Cesar|Agustín Codazzi|Rural|0|1|1|0|0.0|0|0
+2015|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1990|Colombia|Cesar|Chimichagua|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Bolívar|El Carmen De Bolívar|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Cesar|Chimichagua|Rural|0|1|1|0|0.0|0|0
+2012|Colombia|Nariño|El Charco|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Guaviare|San José Del Guaviare|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Putumayo|Valle Del Guamuez|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Nariño|Pasto|Urbana|1|1|0|0|0.0|0|0
+2003|Colombia|Arauca|Tame|Rural|1|3|0|0|0.0|0|0
+2016|Colombia|Arauca|Tame|Rural|0|1|0|0|0.0|0|0
+2016|Colombia|Arauca|Tame|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Arauca|Arauquita|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Arauca|Arauquita|Rural|1|1|0|0|0.0|0|0
+2013|Colombia|Risaralda|Mistrató|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Norte De Santander|Teorama|Rural|0|6|0|0|1.0|0|0
+2018|Colombia|Norte De Santander|San José De Cúcuta|Rural|0|2|0|0|1.0|0|0
+2008|Colombia|Risaralda|Mistrató|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Sucre|Sin Especificar|Rural|0|1|1|0|0.0|0|0
+2001|Colombia|Caquetá|Milán|Rural|0|3|1|0|0.0|0|0
+2000|Colombia|Norte De Santander|La Playa|Rural|0|1|0|0|0.0|0|0
+1991|Colombia|Caquetá|Milán|Rural|0|1|1|0|1.0|0|0
+2000|Colombia|Norte De Santander|Teorama|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Norte De Santander|Teorama|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Norte De Santander|Teorama|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Caquetá|Milán|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Caquetá|Milán|Rural|0|9|0|0|0.0|0|0
+2014|Colombia|Nariño|Taminango|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Norte De Santander|Teorama|Rural|0|1|3|0|0.0|0|0
+2003|Colombia|Norte De Santander|Teorama|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Caquetá|Milán|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Norte De Santander|Teorama|Rural|0|1|0|0|1.0|0|0
+1988|Colombia|Cesar|Pailitas|Rural|0|1|0|0|0.0|0|0
+2015|Colombia|Norte De Santander|Convención|Rural|0|1|0|0|1.0|0|0
+2012|Colombia|Casanare|Paz De Ariporo|Urbana|0|2|0|0|0.0|0|0
+2000|Colombia|Bolívar|Morales|Rural|0|1|0|0|1.0|0|0
+1993|Colombia|Casanare|Nunchía|Urbana|0|6|0|0|0.0|0|0
+2002|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1000|0|0|0.0|0|0
+1985|Colombia|Casanare|Támara|Rural|0|1|1|0|0.0|0|0
+1990|Colombia|Norte De Santander|Cáchira|Rural|0|1|3|0|1.0|0|0
+2000|Colombia|Norte De Santander|Cáchira|Rural|0|1|1|0|1.0|0|0
+1991|Colombia|Norte De Santander|Cáchira|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Norte De Santander|La Esperanza|Rural|0|1|1|0|0.0|0|0
+2001|Colombia|Magdalena|Santa Marta|Rural|0|1|1|0|0.0|0|0
+2001|Colombia|Magdalena|Santa Marta|Rural|0|1|1|0|1.0|0|0
+1996|Colombia|Nariño|Taminango|Urbana|0|1|0|0|0.0|0|0
+1992|Colombia|Norte De Santander|Cáchira|Rural|0|3|0|0|0.0|0|0
+2002|Colombia|Norte De Santander|San José De Cúcuta|Urbana|0|1|1|0|0.0|0|0
+2011|Colombia|Bolívar|Morales|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Norte De Santander|San José De Cúcuta|Rural|0|1|0|0|1.0|0|0
+1998|Colombia|Bolívar|Morales|Rural|0|1|1|0|0.0|0|0
+2003|México|Sin Especificar|Ciudad De Mexico|Urbana|1|1|0|0|0.0|0|0
+2008|Ecuador|Sin Especificar|Quito|Rural|1|1|0|0|0.0|0|0
+2008|México|Sin Especificar|Ciudad De Mexico|Urbana|1|1|0|0|0.0|0|1
+1998|Colombia|Vaupés|Mitú|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Norte De Santander|Tibú|Rural|0|1|1|0|1.0|0|0
+1986|Colombia|Magdalena|Santa Marta|Rural|0|1|1|0|1.0|0|0
+1999|Colombia|Santander|Betulia|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Santander|Betulia|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Vaupés|Mitú|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Caquetá|Florencia|Rural|0|2|0|0|0.0|0|0
+1998|Colombia|Vaupés|Mitú|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Norte De Santander|El Tarra|Rural|0|1|3|0|0.0|0|0
+2018|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Norte De Santander|La Esperanza|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Norte De Santander|La Esperanza|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Norte De Santander|Los Patios|Urbana|0|1|1|0|0.0|0|0
+1998|Colombia|Bolívar|Morales|Rural|0|1|0|0|1.0|0|0
+1993|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Cesar|La Gloria|Rural|1|1|1|0|1.0|0|0
+2018|Colombia|Valle Del Cauca|Buenaventura|Urbana|0|1|0|0|0.0|0|0
+1996|Colombia|Cesar|Valledupar|Rural|0|1|1|0|0.0|0|0
+1986|Colombia|Huila|Algeciras|Rural|0|1|0|0|1.0|0|0
+1989|Colombia|Huila|Algeciras|Rural|0|1|0|0|1.0|0|0
+1991|Colombia|Huila|Algeciras|Rural|0|1|1|0|0.0|0|0
+1995|Colombia|Nariño|El Rosario|Rural|0|4|0|0|1.0|0|0
+2014|Colombia|Casanare|Nunchía|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cundinamarca|La Palma|Rural|0|3|0|0|1.0|0|0
+2000|Colombia|Huila|Algeciras|Rural|0|1|1|0|0.0|0|0
+2010|Colombia|Nariño|El Rosario|Rural|0|1|0|0|1.0|0|0
+1989|Colombia|Huila|Algeciras|Rural|0|1|1|0|0.0|0|0
+2008|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Nariño|El Rosario|Rural|0|1|1|0|0.0|0|0
+2000|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+2012|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Cesar|La Gloria|Rural|0|1|0|0|0.0|0|0
+1961|Colombia|Tolima|Villarrica|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Nariño|San Andrés De Tumaco|Rural|1|4|0|0|1.0|0|0
+2003|Colombia|Magdalena|Aracataca|Urbana|0|1|1|0|0.0|0|0
+2010|Colombia|Casanare|Támara|Rural|0|1|0|0|0.0|0|0
+1965|Colombia|Cauca|Páez|Rural|0|1|0|0|1.0|0|0
+1988|Colombia|Cauca|Páez|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Caquetá|Puerto Rico|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Huila|La Plata|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cauca|La Vega|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Magdalena|Sitionuevo|Rural|0|37|1|0|1.0|0|0
+2008|Colombia|Cauca|Popayán|Rural|0|4|0|0|0.0|0|0
+2005|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|2|0|0|1.0|0|0
+2013|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+2019|Chile|Sin Especificar|Santiago De Chile|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Arauca|Arauca|Rural|0|1|0|0|0.0|0|0
+2013|Colombia|Nariño|El Rosario|Rural|0|1|0|0|1.0|0|0
+2006|Colombia|Tolima|Anzoátegui|Rural|0|1|0|0|1.0|0|0
+2018|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Arauca|Arauca|Urbana|1|1|0|0|0.0|0|0
+2006|Colombia|Tolima|Anzoátegui|Rural|0|6|0|0|0.0|0|0
+2003|Colombia|Norte De Santander|El Zulia|Rural|0|1|1|0|0.0|0|0
+2007|Colombia|Tolima|Anzoátegui|Rural|0|6|0|0|1.0|0|0
+2000|Colombia|Caquetá|San José Del Fragua|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Cauca|Cajibío|Rural|0|1|1|0|0.0|0|0
+2000|Colombia|Nariño|El Rosario|Rural|0|56|1|0|1.0|0|0
+2002|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Chocó|Alto Baudó|Rural|0|50|0|0|1.0|0|0
+2005|Colombia|Chocó|Medio Baudó|Rural|0|30|0|0|1.0|0|0
+2010|Colombia|Chocó|Medio Baudó|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Casanare|Támara|Rural|0|1|1|0|0.0|0|0
+1997|Colombia|Casanare|Yopal|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Nariño|El Rosario|Rural|0|2|0|0|0.0|0|0
+2019|Colombia|Vichada|Cumaribo|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Casanare|Támara|Rural|0|5|1|0|1.0|0|0
+1998|Colombia|Casanare|Támara|Urbana|0|6|0|0|1.0|0|0
+1999|Colombia|Casanare|Támara|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Casanare|Támara|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Valle Del Cauca|Cali|Urbana|1|3|0|0|0.0|0|0
+1996|Colombia|Caldas|Victoria|Rural|0|1|1|0|0.0|0|0
+2016|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Huila|Baraya|Rural|1|1|0|0|0.0|0|0
+2019|Colombia|Antioquia|Apartadó|Sin Especificar|0|1|3|0|1.0|0|1
+1996|Colombia|Cesar|La Gloria|Rural|1|1|0|0|1.0|0|0
+2002|Colombia|Bolívar|Cantagallo|Rural|0|1|0|0|0.0|0|0
+1978|Colombia|Meta|Acacías|Rural|0|1|0|0|0.0|0|0
+1978|Colombia|Caldas|Manizales|Urbana|0|1|0|0|0.0|0|0
+1979|Colombia|Meta|Acacías|Rural|0|1|0|0|0.0|0|0
+1980|Colombia|Caldas|Manizales|Urbana|0|1|0|0|0.0|0|0
+1982|Colombia|Valle Del Cauca|Cali|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Cesar|La Gloria|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Cesar|La Gloria|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Nariño|El Rosario|Rural|0|2|0|0|0.0|0|0
+2000|Colombia|Nariño|El Rosario|Rural|0|2|0|0|0.0|0|0
+2003|Colombia|Nariño|El Rosario|Rural|0|2|0|0|0.0|0|0
+1985|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2003|Colombia|Nariño|El Rosario|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Amazonas|La Pedrera|Rural|0|5|2|0|1.0|0|0
+1996|Colombia|Caquetá|Solano|Rural|0|4|0|0|1.0|0|0
+1998|Colombia|Caldas|Manizales|Rural|0|5|0|0|0.0|0|0
+1997|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Cauca|Suárez|Rural|0|3|0|0|0.0|0|0
+2004|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|1
+1998|Colombia|Boyacá|Páez|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Caldas|Manizales|Rural|0|5|0|0|0.0|0|0
+2005|Colombia|Nariño|El Rosario|Rural|0|1|0|0|0.0|0|0
+2009|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|1
+2007|Colombia|Cauca|Suárez|Urbana|0|1|0|0|1.0|0|0
+2009|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|3|0|0|0.0|0|0
+1991|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|7|0|0|0.0|0|0
+1997|Colombia|Cundinamarca|Tenjo|Rural|0|3|0|0|0.0|0|0
+1994|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Boyacá|Páez|Rural|0|3|5|0|1.0|0|0
+2011|Colombia|Vichada|Puerto Carreño|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2011|Colombia|Norte De Santander|San José De Cúcuta|Rural|1|3|0|0|0.0|0|0
+2014|Colombia|Nariño|San Andrés De Tumaco|Rural|1|1|0|0|0.0|0|0
+1993|Colombia|Chocó|Riosucio|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Caquetá|Curillo|Rural|0|1|1|0|1.0|0|0
+2007|Colombia|Vichada|Cumaribo|Rural|0|1|0|0|1.0|0|0
+2005|Colombia|Amazonas|Mirití - Paraná|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Santander|Barrancabermeja|Rural|0|4|0|0|1.0|0|0
+1988|Colombia|Santander|Piedecuesta|Urbana|0|4|0|0|1.0|0|0
+2007|Colombia|Huila|Pitalito|Urbana|0|1|0|0|0.0|0|0
+1987|Colombia|Cauca|Páez|Rural|0|1|0|1|0.0|0|0
+2004|Colombia|Tolima|Chaparral|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Chocó|Riosucio|Urbana|0|1|0|0|0.0|0|0
+2003|Colombia|Chocó|Riosucio|Rural|0|1|0|0|0.0|0|0
+2018|Colombia|Chocó|Riosucio|Rural|1|2|0|0|0.0|0|0
+2019|Colombia|Chocó|Riosucio|Rural|1|1|0|0|0.0|0|0
+1986|Colombia|Huila|La Argentina|Rural|0|4|1|0|0.0|0|0
+2019|Colombia|Chocó|Riosucio|Urbana|0|1|0|0|0.0|0|0
+2004|Colombia|Nariño|Cumbitara|Urbana|0|1|0|0|0.0|0|0
+2019|Colombia|Chocó|Riosucio|Rural|1|5|0|0|1.0|0|0
+1996|Colombia|Boyacá|Páez|Rural|0|2|0|0|1.0|0|0
+2019|Colombia|Chocó|Quibdó|Urbana|1|1|0|0|0.0|0|0
+2019|Colombia|Chocó|Quibdó|Urbana|1|5|0|0|1.0|0|0
+2018|Colombia|Chocó|Riosucio|Rural|0|1|0|0|0.0|0|0
+2014|Colombia|Cauca|Popayán|Urbana|0|1|0|0|0.0|0|0
+2000|Colombia|Boyacá|Páez|Rural|0|1|0|0|1.0|0|0
+1959|Colombia|Santander|Cimitarra|Rural|0|1|0|0|1.0|0|0
+2014|Colombia|Cauca|Popayán|Urbana|0|1|0|0|0.0|0|1
+2016|Colombia|Cauca|Popayán|Urbana|0|1|0|0|0.0|0|0
+2016|Colombia|Cauca|Popayán|Urbana|0|1|0|0|0.0|0|0
+1994|Colombia|Boyacá|Campohermoso|Rural|0|1|0|0|0.0|0|0
+1961|Colombia|Santander|Landázuri|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Boyacá|Campohermoso|Rural|1|2|0|0|0.0|0|0
+2000|Colombia|Valle Del Cauca|Cali|Rural|0|1|0|0|0.0|0|0
+2004|Colombia|Boyacá|Campohermoso|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Santander|Cimitarra|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Boyacá|Campohermoso|Rural|0|4|0|0|1.0|0|0
+1985|Colombia|Santander|Cimitarra|Rural|0|1|1|0|1.0|0|0
+1995|Colombia|Guaviare|San José Del Guaviare|Rural|0|3|2|0|1.0|0|0
+2008|Colombia|Nariño|Magüí|Rural|0|7|0|0|1.0|0|0
+2000|Colombia|Nariño|El Rosario|Rural|0|54|1|0|1.0|0|1
+2012|Colombia|Cauca|Guapí|Urbana|0|2|0|0|1.0|0|0
+2001|Colombia|Valle Del Cauca|Cali|Urbana|0|1|0|0|0.0|0|0
+2005|Colombia|Nariño|Pasto|Urbana|0|1|0|0|0.0|0|0
+2002|Colombia|Cundinamarca|Paime|Rural|0|1|0|0|1.0|0|0
+1996|Colombia|Cesar|Pueblo Bello|Rural|0|2|0|0|1.0|0|0
+2005|Colombia|Nariño|Pasto|Urbana|0|1|0|0|0.0|0|0
+1999|Colombia|Cesar|Pueblo Bello|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Cesar|Pailitas|Urbana|1|1|0|0|0.0|0|0
+1998|Colombia|Vaupés|Mitú|Urbana|0|2000|6|0|0.0|0|0
+1997|Colombia|Caquetá|San Vicente Del Caguán|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Cesar|Valledupar|Urbana|0|1|0|0|1.0|0|0
+1998|Colombia|Vaupés|Mitú|Urbana|0|2003|0|0|1.0|0|0
+2008|Colombia|Nariño|Policarpa|Rural|0|1|0|0|0.0|0|0
+1981|Colombia|Putumayo|Puerto Leguízamo|Rural|0|1|2|0|0.0|0|0
+1975|Colombia|Meta|Castilla La Nueva|Rural|0|1|2|0|0.0|0|0
+1997|Colombia|Caquetá|San Vicente Del Caguán|Rural|1|2|0|0|0.0|0|0
+1958|Colombia|Tolima|Santa Isabel|Rural|0|5|1|0|1.0|0|0
+1981|Colombia|Putumayo|Puerto Leguízamo|Rural|0|3|1|0|1.0|0|0
+1985|Colombia|Putumayo|Orito|Rural|0|3|0|0|1.0|0|0
+2005|Colombia|Nariño|Policarpa|Urbana|0|1|0|0|0.0|0|0
+1999|Colombia|Antioquia|Turbo|Urbana|0|1|0|0|0.0|0|0
+2002|Colombia|Valle Del Cauca|Dagua|Rural|0|2|0|0|1.0|0|0
+2001|Colombia|Valle Del Cauca|Dagua|Rural|0|1|2|0|0.0|0|0
+2010|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Nariño|El Charco|Rural|1|13|0|0|1.0|0|0
+1995|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Risaralda|Quinchía|Rural|0|1|0|0|1.0|0|0
+1997|Colombia|Antioquia|Carepa|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Risaralda|Quinchía|Urbana|0|1|0|0|0.0|0|0
+2001|Colombia|Valle Del Cauca|Dagua|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Valle Del Cauca|Dagua|Rural|0|4|0|0|1.0|0|0
+2002|Colombia|Caquetá|La Montañita|Urbana|0|1|0|0|1.0|0|0
+2010|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|1|0|0|1.0|0|0
+2005|Colombia|Nariño|Cumbitara|Urbana|0|1|0|0|0.0|0|0
+1996|Colombia|Nariño|Policarpa|Rural|0|1|1|0|0.0|0|0
+1997|Colombia|Nariño|Policarpa|Rural|0|1|1|0|0.0|0|0
+2008|Colombia|Nariño|Policarpa|Rural|0|1|1|0|1.0|0|0
+2000|Colombia|Boyacá|Páez|Rural|0|1|0|0|1.0|0|0
+2000|Colombia|Boyacá|Páez|Rural|0|1|0|0|1.0|0|0
+2011|Colombia|Nariño|Policarpa|Urbana|0|1|0|0|1.0|0|0
+2005|Colombia|Nariño|Cumbitara|Rural|0|1|0|0|0.0|0|0
+2008|Colombia|Nariño|La Llanada|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Boyacá|Campohermoso|Rural|0|1|0|0|0.0|0|0
+1995|Colombia|Boyacá|Páez|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Cundinamarca|El Peñón|Rural|0|2|0|0|1.0|0|0
+2002|Colombia|Casanare|Yopal|Rural|0|2|0|0|0.0|0|0
+2002|Colombia|Cundinamarca|La Palma|Rural|1|1|0|0|0.0|0|0
+2003|Colombia|Cundinamarca|La Palma|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Cundinamarca|La Palma|Rural|0|1|1|0|0.0|0|0
+1996|Colombia|Boyacá|Miraflores|Rural|0|1|2|0|1.0|0|0
+1998|Colombia|Boyacá|Sogamoso|Rural|0|1|4|0|0.0|0|0
+1999|Colombia|Boyacá|Sogamoso|Rural|0|1|1|0|1.0|0|0
+1998|Colombia|Boyacá|Páez|Rural|0|1|0|0|1.0|0|0
+1999|Colombia|Boyacá|Duitama|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Boyacá|San Luis De Gaceno|Rural|0|2|3|0|1.0|0|0
+2006|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|0|0|0.0|0|0
+2004|Colombia|Boyacá|San Luis De Gaceno|Rural|0|5|0|0|0.0|0|0
+1998|Colombia|Boyacá|San Luis De Gaceno|Rural|0|1|0|0|1.0|0|0
+1998|Colombia|Boyacá|San Luis De Gaceno|Rural|0|4|0|0|1.0|0|0
+2008|Colombia|Guaviare|El Retorno|Rural|0|1|0|0|1.0|0|0
+2010|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2001|Colombia|Boyacá|San Luis De Gaceno|Rural|0|1|1|0|0.0|0|0
+2008|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|1.0|0|0
+2002|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|1.0|0|0
+2005|Colombia|Guaviare|San José Del Guaviare|Rural|0|1|0|0|1.0|0|0
+1987|Colombia|Bogotá, D.c.|Sin Especificar|Rural|1|4|0|0|0.0|0|0
+2008|Colombia|Guaviare|San José Del Guaviare|Rural|0|2|0|0|1.0|0|0
+2008|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|1.0|0|0
+2009|Colombia|Nariño|Olaya Herrera|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Valle Del Cauca|Palmira|Rural|0|1|0|0|0.0|0|0
+1990|Colombia|Santander|Cimitarra|Rural|1|1|0|0|0.0|0|0
+1991|Colombia|Santander|Cimitarra|Rural|0|1|0|0|0.0|0|0
+1985|Colombia|Cundinamarca|La Mesa|Rural|0|1|1|0|0.0|0|0
+1991|Colombia|Santander|Cimitarra|Rural|0|1|0|0|1.0|0|0
+1976|Colombia|Santander|Cimitarra|Rural|0|1|1|0|0.0|0|0
+2006|Colombia|Nariño|El Rosario|Urbana|0|1|1|0|1.0|0|1
+1988|Colombia|Casanare|Támara|Urbana|0|1|0|0|0.0|0|0
+2002|Colombia|Casanare|Támara|Rural|0|1|1|0|0.0|0|0
+2004|Colombia|Casanare|Támara|Rural|0|1|0|0|0.0|0|0
+1987|Colombia|Casanare|Támara|Rural|0|1|1|0|0.0|0|0
+1987|Colombia|Casanare|Támara|Rural|0|1|1|0|0.0|0|0
+1998|Colombia|Guaviare|Calamar|Rural|0|3|1|0|0.0|0|0
+2004|Colombia|Guaviare|Calamar|Rural|0|20|0|0|0.0|0|0
+2000|Colombia|Casanare|Pore|Rural|0|1|1|0|0.0|0|0
+2002|Colombia|Casanare|Pore|Rural|0|1|2|0|0.0|0|0
+1993|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+1991|Colombia|Boyacá|San Eduardo|Rural|0|2|2|0|0.0|0|0
+1992|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|0|0|0.0|0|0
+1992|Colombia|Boyacá|San Eduardo|Rural|0|1|0|0|1.0|0|0
+1992|Colombia|Boyacá|San Eduardo|Rural|0|1|2|0|0.0|0|0
+2004|Colombia|Antioquia|Apartadó|Rural|0|2|1|0|1.0|0|0
+1999|Colombia|Tolima|Ibagué|Urbana|1|3|0|0|0.0|0|0
+1998|Colombia|Magdalena|Fundación|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Nariño|Cumbitara|Urbana|0|1|0|0|0.0|0|0
+1986|Colombia|Huila|La Argentina|Rural|0|5|0|0|0.0|0|0
+1986|Colombia|Huila|La Argentina|Rural|0|3|0|0|1.0|0|0
+1995|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Nariño|Cumbitara|Urbana|0|1|0|0|1.0|0|0
+1995|Colombia|Antioquia|Turbo|Rural|0|1|0|0|0.0|0|0
+1994|Colombia|Huila|La Argentina|Rural|1|1|0|0|0.0|0|0
+2004|Colombia|Nariño|Cumbitara|Urbana|0|1|1|0|0.0|0|0
+2000|Colombia|Meta|Puerto Rico|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Meta|Puerto Rico|Rural|0|1|0|0|0.0|0|0
+2003|Colombia|Nariño|Policarpa|Urbana|0|1|0|0|0.0|0|0
+1985|Colombia|Cauca|Bolívar|Rural|0|8|0|0|0.0|0|0
+2006|Colombia|Nariño|Policarpa|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Nariño|Cumbitara|Urbana|0|1|0|0|0.0|0|0
+2006|Colombia|Nariño|Cumbitara|Rural|0|1|0|0|1.0|0|0
+1987|Colombia|Norte De Santander|San José De Cúcuta|Urbana|0|1|0|0|0.0|0|0
+1997|Colombia|Meta|Mesetas|Rural|0|1|2|0|0.0|0|0
+2008|Colombia|Nariño|Policarpa|Rural|0|1|0|0|1.0|0|1
+1995|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|1|1|0|0.0|0|0
+2011|Colombia|Nariño|Policarpa|Urbana|0|1|1|0|0.0|0|0
+2006|Colombia|Caldas|Salamina|Urbana|0|1|1|0|0.0|0|0
+2007|Colombia|Huila|Gigante|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Valle Del Cauca|Buenaventura|Rural|0|1|0|0|1.0|0|0
+2008|Colombia|Huila|Isnos|Rural|0|1|1|0|0.0|0|0
+1996|Colombia|Caquetá|Cartagena Del Chairá|Rural|0|1|1|0|0.0|0|0
+2009|Colombia|Huila|Isnos|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Santander|Aguada|Rural|0|1|0|0|0.0|0|0
+1996|Colombia|Meta|La Macarena|Rural|0|1|2|0|0.0|0|0
+2014|Colombia|Antioquia|Yarumal|Rural|0|1|0|0|0.0|0|0
+2007|Colombia|Antioquia|Yarumal|Rural|0|1|0|0|1.0|0|0
+2011|Colombia|Antioquia|Campamento|Rural|0|2|0|0|0.0|0|0
+2007|Colombia|Antioquia|Yarumal|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Boyacá|Pisba|Rural|0|3|0|0|0.0|0|0
+1996|Colombia|Boyacá|Pisba|Rural|0|1|0|0|0.0|0|0
+1989|Colombia|Antioquia|Apartadó|Rural|0|1|0|0|0.0|0|0
+1976|Colombia|Caquetá|Florencia|Rural|0|1|0|0|0.0|0|0
+1997|Colombia|Santander|Aguada|Rural|0|1|0|0|0.0|0|0
+1988|Colombia|Santander|Barrancabermeja|Urbana|0|4|0|0|0.0|0|0
+2005|Colombia|Nariño|Cumbitara|Urbana|0|1|0|0|0.0|0|0
+2013|Colombia|Cauca|San Sebastián|Rural|0|5|1|0|1.0|0|0
+1995|Colombia|Meta|Mesetas|Rural|0|1|1|0|0.0|0|0
+1954|Colombia|Boyacá|Socotá|Rural|0|1|0|0|1.0|0|0
+1995|Colombia|Boyacá|Pisba|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Boyacá|Pisba|Rural|0|8|0|0|0.0|0|0
+1995|Colombia|Boyacá|Pisba|Rural|0|1|0|0|0.0|0|0
+2012|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2012|Colombia|Nariño|San Andrés De Tumaco|Rural|0|1|0|0|0.0|0|0
+2006|México|Sin Especificar|Ciudad De Mexico|Urbana|0|6|0|0|0.0|0|0
+2008|Ecuador|Sin Especificar|Sucumbios|Rural|0|4|0|0|0.0|0|0
+1987|Colombia|Tolima|Rioblanco|Rural|0|6|2|0|0.0|0|0
+2001|Colombia|Antioquia|San Pedro De Urabá|Rural|0|25|0|0|1.0|0|1
+2000|Colombia|Tolima|Ibagué|Urbana|1|1|0|0|0.0|0|0
+2001|Colombia|Putumayo|Valle Del Guamuez|Rural|0|1|0|0|1.0|0|0
+2012|Colombia|Nariño|La Unión|Rural|0|1|0|0|1.0|0|0
+2001|Colombia|Antioquia|San Pedro De Urabá|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|2|0|0|0.0|0|0
+1998|Colombia|Antioquia|Betulia|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Magdalena|Plato|Urbana|0|1|0|0|0.0|0|0
+1999|Colombia|Boyacá|Paya|Urbana|0|1|4|0|0.0|0|0
+1997|Colombia|Casanare|Nunchía|Urbana|0|1|1|0|0.0|0|0
+1999|Colombia|Casanare|Nunchía|Rural|0|3|0|0|1.0|0|0
+2005|Colombia|Casanare|Nunchía|Rural|0|1|0|0|0.0|0|0
+1993|Colombia|Nariño|Cumbitara|Rural|0|3|0|0|1.0|0|0
+1993|Colombia|Nariño|Cumbitara|Rural|0|1|1|0|0.0|0|0
+2013|Colombia|Nariño|Cumbitara|Rural|0|1|0|0|0.0|0|0
+2002|Colombia|Casanare|Yopal|Urbana|0|1|1|0|0.0|0|0
+1997|Colombia|Nariño|Cumbitara|Rural|0|1|0|0|0.0|0|0
+1999|Colombia|Casanare|Pore|Rural|0|6|0|0|1.0|0|0
+2002|Colombia|Casanare|Yopal|Rural|0|6|0|0|1.0|0|0
+1986|Colombia|Arauca|Tame|Rural|0|1|0|0|0.0|0|0
+2005|Colombia|Vichada|Santa Rosalía|Rural|0|1|0|0|0.0|0|0
+2006|Colombia|Casanare|Orocué|Urbana|0|1|0|0|0.0|0|0
+1989|Colombia|Antioquia|Arboletes|Rural|0|5|4|0|1.0|0|0
+2002|Colombia|Casanare|Monterrey|Rural|0|1|1|0|0.0|0|0
+1995|Colombia|Arauca|Arauquita|Rural|0|1|0|0|0.0|0|0
+2000|Colombia|Norte De Santander|Tibú|Rural|0|1|0|0|0.0|0|0
+1998|Colombia|Bolívar|Simití|Rural|0|1|0|0|1.0|0|0
+2004|Colombia|Boyacá|Pisba|Rural|0|3|0|0|1.0|0|0
+1977|Colombia|Bogotá, D.c.|Bogotá, D.c.|Urbana|0|2|0|0|0.0|0|0
+2001|Colombia|Magdalena|Zona Bananera|Rural|0|1|0|0|0.0|0|0
+1982|Colombia|Risaralda|Pereira|Urbana|0|1|3|0|0.0|0|0
+1979|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|1|1|0|0|0.0|0|0
+1990|Colombia|Córdoba|Tierralta|Rural|0|1|0|0|1.0|0|0
+1979|Colombia|Bogotá, D.c.|Bogotá, D.c.|Rural|0|1|0|0|0.0|0|0

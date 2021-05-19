@@ -1,0 +1,502 @@
+Tipo|columna|variable|C_0|C_1
+33|pais_hecho|Colombia|74.2|25.8
+33|pais_hecho|España|0.0|100.0
+33|pais_hecho|Ecuador|44.44|55.56
+33|pais_hecho|Venezuela|100.0|0.0
+33|pais_hecho|Brasil|100.0|0.0
+33|pais_hecho|Francia|0.0|100.0
+33|pais_hecho|México|0.0|100.0
+33|pais_hecho|Chile|100.0|0.0
+33|departamento_hecho|Antioquia|72.73|27.27
+33|departamento_hecho|Putumayo|91.25|8.75
+33|departamento_hecho|Meta|90.91|9.09
+33|departamento_hecho|Cundinamarca|86.67|13.33
+33|departamento_hecho|Cauca|64.71|35.29
+33|departamento_hecho|Sucre|66.67|33.33
+33|departamento_hecho|Huila|80.85|19.15
+33|departamento_hecho|Risaralda|70.0|30.0
+33|departamento_hecho|Sin Especificar|41.94|58.06
+33|departamento_hecho|Nariño|78.35|21.65
+33|departamento_hecho|Chocó|84.38|15.62
+33|departamento_hecho|Cesar|90.28|9.72
+33|departamento_hecho|Valle Del Cauca|58.39|41.61
+33|departamento_hecho|Boyacá|97.37|2.63
+33|departamento_hecho|Santander|65.91|34.09
+33|departamento_hecho|Guainía|100.0|0.0
+33|departamento_hecho|Magdalena|70.48|29.52
+33|departamento_hecho|La Guajira|72.22|27.78
+33|departamento_hecho|Quindio|50.0|50.0
+33|departamento_hecho|Bogotá, D.c.|25.0|75.0
+33|departamento_hecho|Norte De Santander|81.97|18.03
+33|departamento_hecho|Caquetá|88.37|11.63
+33|departamento_hecho|Vaupés|50.0|50.0
+33|departamento_hecho|Córdoba|69.23|30.77
+33|departamento_hecho|Arauca|93.33|6.67
+33|departamento_hecho|Bolívar|82.5|17.5
+33|departamento_hecho|Casanare|71.43|28.57
+33|departamento_hecho|Guaviare|89.66|10.34
+33|departamento_hecho|Atlántico|42.86|57.14
+33|departamento_hecho|Tolima|75.0|25.0
+33|departamento_hecho|Caldas|62.5|37.5
+33|departamento_hecho|Amazonas|100.0|0.0
+33|departamento_hecho|Vichada|100.0|0.0
+33|ciudad_hecho|Medellín|13.33|86.67
+33|ciudad_hecho|Apartadó|84.21|15.79
+33|ciudad_hecho|Turbo|89.47|10.53
+33|ciudad_hecho|Puerto Asís|100.0|0.0
+33|ciudad_hecho|Lejanías|100.0|0.0
+33|ciudad_hecho|Mapiripán|100.0|0.0
+33|ciudad_hecho|Villagarzón|100.0|0.0
+33|ciudad_hecho|Vistahermosa|100.0|0.0
+33|ciudad_hecho|Viotá|66.67|33.33
+33|ciudad_hecho|Guapí|50.0|50.0
+33|ciudad_hecho|Sincelejo|0.0|100.0
+33|ciudad_hecho|Isnos|40.0|60.0
+33|ciudad_hecho|Belén De Umbría|100.0|0.0
+33|ciudad_hecho|Pais Vasco|0.0|100.0
+33|ciudad_hecho|Dosquebradas|33.33|66.67
+33|ciudad_hecho|San Andrés De Tumaco|87.88|12.12
+33|ciudad_hecho|Riosucio|89.47|10.53
+33|ciudad_hecho|Chiriguaná|100.0|0.0
+33|ciudad_hecho|Uribe|100.0|0.0
+33|ciudad_hecho|Buenaventura|58.06|41.94
+33|ciudad_hecho|Pauna|100.0|0.0
+33|ciudad_hecho|Barrancabermeja|25.0|75.0
+33|ciudad_hecho|Inírida|100.0|0.0
+33|ciudad_hecho|Villavicencio|60.0|40.0
+33|ciudad_hecho|Puerto Guzmán|100.0|0.0
+33|ciudad_hecho|Ciénaga|90.91|9.09
+33|ciudad_hecho|Riohacha|59.09|40.91
+33|ciudad_hecho|Armenia|42.86|57.14
+33|ciudad_hecho|Bogotá, D.c.|23.08|76.92
+33|ciudad_hecho|Istmina|50.0|50.0
+33|ciudad_hecho|Roldanillo|80.0|20.0
+33|ciudad_hecho|San Vicente De Chucurí|100.0|0.0
+33|ciudad_hecho|Bucaramanga|40.0|60.0
+33|ciudad_hecho|Calima|100.0|0.0
+33|ciudad_hecho|Ansermanuevo|100.0|0.0
+33|ciudad_hecho|Quito|27.27|72.73
+33|ciudad_hecho|Tuluá|61.54|38.46
+33|ciudad_hecho|Argelia|90.0|10.0
+33|ciudad_hecho|Riofrío|100.0|0.0
+33|ciudad_hecho|Málaga|100.0|0.0
+33|ciudad_hecho|Fonseca|100.0|0.0
+33|ciudad_hecho|San Juan Del Cesar|66.67|33.33
+33|ciudad_hecho|Valledupar|82.61|17.39
+33|ciudad_hecho|Aracataca|78.57|21.43
+33|ciudad_hecho|Convención|100.0|0.0
+33|ciudad_hecho|Solano|100.0|0.0
+33|ciudad_hecho|Dibulla|100.0|0.0
+33|ciudad_hecho|Taraira|33.33|66.67
+33|ciudad_hecho|Sin Especificar|87.5|12.5
+33|ciudad_hecho|Tibú|93.75|6.25
+33|ciudad_hecho|Popayán|41.67|58.33
+33|ciudad_hecho|El Zulia|100.0|0.0
+33|ciudad_hecho|La Jagua De Ibirico|100.0|0.0
+33|ciudad_hecho|Tachira|100.0|0.0
+33|ciudad_hecho|Sardinata|100.0|0.0
+33|ciudad_hecho|San José De Cúcuta|54.55|45.45
+33|ciudad_hecho|Tierralta|100.0|0.0
+33|ciudad_hecho|Cali|22.86|77.14
+33|ciudad_hecho|Mutatá|100.0|0.0
+33|ciudad_hecho|Valencia|50.0|50.0
+33|ciudad_hecho|Arauquita|100.0|0.0
+33|ciudad_hecho|Saravena|100.0|0.0
+33|ciudad_hecho|Puerto Berrío|0.0|100.0
+33|ciudad_hecho|Pereira|25.0|75.0
+33|ciudad_hecho|Agua De Dios|100.0|0.0
+33|ciudad_hecho|Santuario|100.0|0.0
+33|ciudad_hecho|Santander De Quilichao|27.27|72.73
+33|ciudad_hecho|Alicante|0.0|100.0
+33|ciudad_hecho|Neiva|75.0|25.0
+33|ciudad_hecho|Miraflores|84.62|15.38
+33|ciudad_hecho|La Montañita|57.14|42.86
+33|ciudad_hecho|Mitú|66.67|33.33
+33|ciudad_hecho|Florencia|87.5|12.5
+33|ciudad_hecho|San Miguel|100.0|0.0
+33|ciudad_hecho|San Vicente Del Caguán|88.89|11.11
+33|ciudad_hecho|Quinchía|83.33|16.67
+33|ciudad_hecho|Puebloviejo|85.71|14.29
+33|ciudad_hecho|Valparaíso|100.0|0.0
+33|ciudad_hecho|Puerto Rico|100.0|0.0
+33|ciudad_hecho|La Macarena|100.0|0.0
+33|ciudad_hecho|Puerto Gaitán|100.0|0.0
+33|ciudad_hecho|El Carmen De Bolívar|44.44|55.56
+33|ciudad_hecho|Curillo|90.91|9.09
+33|ciudad_hecho|Dabeiba|95.83|4.17
+33|ciudad_hecho|Samaniego|100.0|0.0
+33|ciudad_hecho|Santa Marta|50.0|50.0
+33|ciudad_hecho|Zona De Frontera Con Vaupés|100.0|0.0
+33|ciudad_hecho|Segovia|100.0|0.0
+33|ciudad_hecho|San Juan Nepomuceno|100.0|0.0
+33|ciudad_hecho|El Doncello|100.0|0.0
+33|ciudad_hecho|Policarpa|66.67|33.33
+33|ciudad_hecho|Pore|100.0|0.0
+33|ciudad_hecho|Cartagena Del Chairá|90.0|10.0
+33|ciudad_hecho|Mocoa|100.0|0.0
+33|ciudad_hecho|Caicedonia|0.0|100.0
+33|ciudad_hecho|Alto Baudó|100.0|0.0
+33|ciudad_hecho|Chimichagua|100.0|0.0
+33|ciudad_hecho|Montería|40.0|60.0
+33|ciudad_hecho|San José Del Guaviare|92.86|7.14
+33|ciudad_hecho|El Copey|85.71|14.29
+33|ciudad_hecho|Barbosa|100.0|0.0
+33|ciudad_hecho|Barbacoas|100.0|0.0
+33|ciudad_hecho|Trujillo|100.0|0.0
+33|ciudad_hecho|Simití|100.0|0.0
+33|ciudad_hecho|Sabanalarga|100.0|0.0
+33|ciudad_hecho|Zona Bananera|83.33|16.67
+33|ciudad_hecho|Chigorodó|36.36|63.64
+33|ciudad_hecho|Ibagué|25.0|75.0
+33|ciudad_hecho|Pivijay|66.67|33.33
+33|ciudad_hecho|San Jacinto|100.0|0.0
+33|ciudad_hecho|Puerto Leguízamo|100.0|0.0
+33|ciudad_hecho|Agustín Codazzi|100.0|0.0
+33|ciudad_hecho|Solita|100.0|0.0
+33|ciudad_hecho|Palermo|100.0|0.0
+33|ciudad_hecho|San José Del Fragua|100.0|0.0
+33|ciudad_hecho|Ocaña|50.0|50.0
+33|ciudad_hecho|Caracas|100.0|0.0
+33|ciudad_hecho|San Martín De Loba|100.0|0.0
+33|ciudad_hecho|Barranco De Loba|100.0|0.0
+33|ciudad_hecho|Jamundí|100.0|0.0
+33|ciudad_hecho|Palmira|80.0|20.0
+33|ciudad_hecho|Fundación|50.0|50.0
+33|ciudad_hecho|Santa Rosa|100.0|0.0
+33|ciudad_hecho|Pasto|0.0|100.0
+33|ciudad_hecho|Yumbo|20.0|80.0
+33|ciudad_hecho|Olaya Herrera|100.0|0.0
+33|ciudad_hecho|Bucarasica|0.0|100.0
+33|ciudad_hecho|Colombia|100.0|0.0
+33|ciudad_hecho|Tarqui|0.0|100.0
+33|ciudad_hecho|Yondó|100.0|0.0
+33|ciudad_hecho|Manaure Balcón Del Cesar|66.67|33.33
+33|ciudad_hecho|Aguachica|100.0|0.0
+33|ciudad_hecho|Puerto Wilches|75.0|25.0
+33|ciudad_hecho|Barranco Minas|100.0|0.0
+33|ciudad_hecho|Anserma|100.0|0.0
+33|ciudad_hecho|Barranquilla|0.0|100.0
+33|ciudad_hecho|Simacota|100.0|0.0
+33|ciudad_hecho|Puerto Caicedo|60.0|40.0
+33|ciudad_hecho|Landázuri|100.0|0.0
+33|ciudad_hecho|Nueva Granada|100.0|0.0
+33|ciudad_hecho|Gigante|100.0|0.0
+33|ciudad_hecho|Hato Corozal|100.0|0.0
+33|ciudad_hecho|Floridablanca|0.0|100.0
+33|ciudad_hecho|Lebrija|100.0|0.0
+33|ciudad_hecho|Malambo|0.0|100.0
+33|ciudad_hecho|Soledad|66.67|33.33
+33|ciudad_hecho|Sitionuevo|100.0|0.0
+33|ciudad_hecho|Salamina|50.0|50.0
+33|ciudad_hecho|Plato|40.0|60.0
+33|ciudad_hecho|Tarazá|80.0|20.0
+33|ciudad_hecho|San Pedro De Urabá|100.0|0.0
+33|ciudad_hecho|Arjona|100.0|0.0
+33|ciudad_hecho|Caloto|100.0|0.0
+33|ciudad_hecho|Algarrobo|100.0|0.0
+33|ciudad_hecho|Toledo|100.0|0.0
+33|ciudad_hecho|Sabana De Torres|100.0|0.0
+33|ciudad_hecho|Sucumbíos|100.0|0.0
+33|ciudad_hecho|Necoclí|100.0|0.0
+33|ciudad_hecho|Milán|100.0|0.0
+33|ciudad_hecho|Zarzal|0.0|100.0
+33|ciudad_hecho|Dagua|100.0|0.0
+33|ciudad_hecho|Santiago|92.31|7.69
+33|ciudad_hecho|San Luis De Palenque|50.0|50.0
+33|ciudad_hecho|Timbío|100.0|0.0
+33|ciudad_hecho|Piamonte|0.0|100.0
+33|ciudad_hecho|Urrao|58.33|41.67
+33|ciudad_hecho|Bugalagrande|80.0|20.0
+33|ciudad_hecho|Ovejas|100.0|0.0
+33|ciudad_hecho|Orito|83.33|16.67
+33|ciudad_hecho|Maní|50.0|50.0
+33|ciudad_hecho|Cuenca|100.0|0.0
+33|ciudad_hecho|Ituango|100.0|0.0
+33|ciudad_hecho|El Paujíl|100.0|0.0
+33|ciudad_hecho|Florida|0.0|100.0
+33|ciudad_hecho|Astrea|100.0|0.0
+33|ciudad_hecho|Pitalito|50.0|50.0
+33|ciudad_hecho|Medio Atrato|100.0|0.0
+33|ciudad_hecho|Lago Agrio|0.0|100.0
+33|ciudad_hecho|Corinto|100.0|0.0
+33|ciudad_hecho|Carmen Del Darién|100.0|0.0
+33|ciudad_hecho|Puerto Boyacá|100.0|0.0
+33|ciudad_hecho|Bello|100.0|0.0
+33|ciudad_hecho|San Carlos|100.0|0.0
+33|ciudad_hecho|Belén De Los Andaquíes|100.0|0.0
+33|ciudad_hecho|Puerto Parra|100.0|0.0
+33|ciudad_hecho|El Bagre|90.91|9.09
+33|ciudad_hecho|Remedios|100.0|0.0
+33|ciudad_hecho|Rioblanco|100.0|0.0
+33|ciudad_hecho|El Carmen|0.0|100.0
+33|ciudad_hecho|Teorama|100.0|0.0
+33|ciudad_hecho|González|100.0|0.0
+33|ciudad_hecho|Caucasia|50.0|50.0
+33|ciudad_hecho|Alejandría|0.0|100.0
+33|ciudad_hecho|San Martín|50.0|50.0
+33|ciudad_hecho|Salgar|100.0|0.0
+33|ciudad_hecho|Páez|100.0|0.0
+33|ciudad_hecho|Nechí|100.0|0.0
+33|ciudad_hecho|Calarcá|100.0|0.0
+33|ciudad_hecho|Bolívar|100.0|0.0
+33|ciudad_hecho|Valle Del Guamuez|80.0|20.0
+33|ciudad_hecho|Leticia|100.0|0.0
+33|ciudad_hecho|Paris|0.0|100.0
+33|ciudad_hecho|Los Santos|100.0|0.0
+33|ciudad_hecho|Albania|100.0|0.0
+33|ciudad_hecho|Timaná|100.0|0.0
+33|ciudad_hecho|Tello|100.0|0.0
+33|ciudad_hecho|Maicao|100.0|0.0
+33|ciudad_hecho|Puerto Libertador|100.0|0.0
+33|ciudad_hecho|La Gloria|100.0|0.0
+33|ciudad_hecho|Acandí|100.0|0.0
+33|ciudad_hecho|Valdivia|100.0|0.0
+33|ciudad_hecho|Acevedo|100.0|0.0
+33|ciudad_hecho|Arboletes|100.0|0.0
+33|ciudad_hecho|Algeciras|85.71|14.29
+33|ciudad_hecho|Colón|100.0|0.0
+33|ciudad_hecho|Sibundoy|100.0|0.0
+33|ciudad_hecho|Nariño|50.0|50.0
+33|ciudad_hecho|Balboa|100.0|0.0
+33|ciudad_hecho|El Retorno|100.0|0.0
+33|ciudad_hecho|San Juan De Urabá|100.0|0.0
+33|ciudad_hecho|Cáceres|50.0|50.0
+33|ciudad_hecho|Bosconia|100.0|0.0
+33|ciudad_hecho|Envigado|0.0|100.0
+33|ciudad_hecho|Cartagena De Indias|0.0|100.0
+33|ciudad_hecho|El Peñón|66.67|33.33
+33|ciudad_hecho|Peñol|100.0|0.0
+33|ciudad_hecho|Tungurahua|0.0|100.0
+33|ciudad_hecho|Aguazul|0.0|100.0
+33|ciudad_hecho|Caldono|100.0|0.0
+33|ciudad_hecho|Paime|100.0|0.0
+33|ciudad_hecho|Mercaderes|100.0|0.0
+33|ciudad_hecho|Duitama|100.0|0.0
+33|ciudad_hecho|La Argentina|100.0|0.0
+33|ciudad_hecho|El Molino|100.0|0.0
+33|ciudad_hecho|El Charco|100.0|0.0
+33|ciudad_hecho|Tame|100.0|0.0
+33|ciudad_hecho|Mistrató|100.0|0.0
+33|ciudad_hecho|La Playa|100.0|0.0
+33|ciudad_hecho|Taminango|50.0|50.0
+33|ciudad_hecho|Pailitas|50.0|50.0
+33|ciudad_hecho|Paz De Ariporo|0.0|100.0
+33|ciudad_hecho|Morales|100.0|0.0
+33|ciudad_hecho|Nunchía|60.0|40.0
+33|ciudad_hecho|Támara|83.33|16.67
+33|ciudad_hecho|Cáchira|100.0|0.0
+33|ciudad_hecho|La Esperanza|100.0|0.0
+33|ciudad_hecho|Ciudad De Mexico|0.0|100.0
+33|ciudad_hecho|Betulia|100.0|0.0
+33|ciudad_hecho|El Tarra|100.0|0.0
+33|ciudad_hecho|Los Patios|0.0|100.0
+33|ciudad_hecho|El Rosario|94.74|5.26
+33|ciudad_hecho|La Palma|100.0|0.0
+33|ciudad_hecho|Villarrica|100.0|0.0
+33|ciudad_hecho|La Plata|100.0|0.0
+33|ciudad_hecho|La Vega|100.0|0.0
+33|ciudad_hecho|Santiago De Chile|100.0|0.0
+33|ciudad_hecho|Arauca|50.0|50.0
+33|ciudad_hecho|Anzoátegui|100.0|0.0
+33|ciudad_hecho|Cajibío|100.0|0.0
+33|ciudad_hecho|Medio Baudó|100.0|0.0
+33|ciudad_hecho|Yopal|75.0|25.0
+33|ciudad_hecho|Cumaribo|100.0|0.0
+33|ciudad_hecho|Victoria|100.0|0.0
+33|ciudad_hecho|Baraya|100.0|0.0
+33|ciudad_hecho|Cantagallo|100.0|0.0
+33|ciudad_hecho|Acacías|100.0|0.0
+33|ciudad_hecho|Manizales|50.0|50.0
+33|ciudad_hecho|La Pedrera|100.0|0.0
+33|ciudad_hecho|Suárez|50.0|50.0
+33|ciudad_hecho|Tenjo|100.0|0.0
+33|ciudad_hecho|Puerto Carreño|100.0|0.0
+33|ciudad_hecho|Mirití - Paraná|100.0|0.0
+33|ciudad_hecho|Piedecuesta|0.0|100.0
+33|ciudad_hecho|Chaparral|100.0|0.0
+33|ciudad_hecho|Cumbitara|46.15|53.85
+33|ciudad_hecho|Quibdó|0.0|100.0
+33|ciudad_hecho|Cimitarra|100.0|0.0
+33|ciudad_hecho|Campohermoso|100.0|0.0
+33|ciudad_hecho|Magüí|100.0|0.0
+33|ciudad_hecho|Pueblo Bello|100.0|0.0
+33|ciudad_hecho|Castilla La Nueva|100.0|0.0
+33|ciudad_hecho|Santa Isabel|100.0|0.0
+33|ciudad_hecho|Carepa|100.0|0.0
+33|ciudad_hecho|La Llanada|100.0|0.0
+33|ciudad_hecho|Sogamoso|100.0|0.0
+33|ciudad_hecho|San Luis De Gaceno|100.0|0.0
+33|ciudad_hecho|La Mesa|100.0|0.0
+33|ciudad_hecho|Calamar|100.0|0.0
+33|ciudad_hecho|San Eduardo|100.0|0.0
+33|ciudad_hecho|Mesetas|100.0|0.0
+33|ciudad_hecho|Aguada|100.0|0.0
+33|ciudad_hecho|Yarumal|100.0|0.0
+33|ciudad_hecho|Campamento|100.0|0.0
+33|ciudad_hecho|Pisba|100.0|0.0
+33|ciudad_hecho|San Sebastián|100.0|0.0
+33|ciudad_hecho|Socotá|100.0|0.0
+33|ciudad_hecho|Sucumbios|100.0|0.0
+33|ciudad_hecho|La Unión|100.0|0.0
+33|ciudad_hecho|Paya|0.0|100.0
+33|ciudad_hecho|Santa Rosalía|100.0|0.0
+33|ciudad_hecho|Orocué|0.0|100.0
+33|ciudad_hecho|Monterrey|100.0|0.0
+33|lugar_zona|Urbana|0.0|100.0
+33|lugar_zona|Rural|100.0|0.0
+33|lugar_zona|Sin Especificar|50.0|50.0
+33|anio_inicio|1987|81.25|18.75
+33|anio_inicio|2006|68.29|31.71
+33|anio_inicio|2008|81.48|18.52
+33|anio_inicio|1981|87.5|12.5
+33|anio_inicio|1995|76.92|23.08
+33|anio_inicio|2010|66.67|33.33
+33|anio_inicio|2017|57.14|42.86
+33|anio_inicio|2002|81.37|18.63
+33|anio_inicio|2000|84.03|15.97
+33|anio_inicio|1977|33.33|66.67
+33|anio_inicio|1999|81.69|18.31
+33|anio_inicio|1990|77.27|22.73
+33|anio_inicio|2005|57.63|42.37
+33|anio_inicio|1992|82.61|17.39
+33|anio_inicio|2014|56.0|44.0
+33|anio_inicio|2004|62.5|37.5
+33|anio_inicio|1997|84.38|15.62
+33|anio_inicio|2015|52.17|47.83
+33|anio_inicio|2016|41.67|58.33
+33|anio_inicio|2018|38.89|61.11
+33|anio_inicio|1996|80.77|19.23
+33|anio_inicio|1985|72.22|27.78
+33|anio_inicio|1988|72.22|27.78
+33|anio_inicio|2001|81.4|18.6
+33|anio_inicio|2019|54.29|45.71
+33|anio_inicio|2009|61.54|38.46
+33|anio_inicio|1982|66.67|33.33
+33|anio_inicio|1989|84.62|15.38
+33|anio_inicio|1991|90.0|10.0
+33|anio_inicio|1994|76.92|23.08
+33|anio_inicio|2003|68.85|31.15
+33|anio_inicio|2012|63.64|36.36
+33|anio_inicio|1986|90.91|9.09
+33|anio_inicio|1979|75.0|25.0
+33|anio_inicio|1963|100.0|0.0
+33|anio_inicio|1967|100.0|0.0
+33|anio_inicio|1983|100.0|0.0
+33|anio_inicio|2007|75.0|25.0
+33|anio_inicio|1998|79.22|20.78
+33|anio_inicio|1975|100.0|0.0
+33|anio_inicio|1980|80.0|20.0
+33|anio_inicio|2011|70.0|30.0
+33|anio_inicio|2013|56.0|44.0
+33|anio_inicio|1984|50.0|50.0
+33|anio_inicio|1993|84.0|16.0
+33|anio_inicio|1961|100.0|0.0
+33|anio_inicio|1960|100.0|0.0
+33|anio_inicio|1971|100.0|0.0
+33|anio_inicio|1978|25.0|75.0
+33|anio_inicio|1968|0.0|100.0
+33|anio_inicio|1962|100.0|0.0
+33|anio_inicio|1974|100.0|0.0
+33|anio_inicio|1965|100.0|0.0
+33|anio_inicio|1959|100.0|0.0
+33|anio_inicio|1958|100.0|0.0
+33|anio_inicio|1976|100.0|0.0
+33|anio_inicio|1954|100.0|0.0
+33|anio_fin|-9999.0|74.61|25.39
+33|anio_fin|2016.0|57.14|42.86
+33|anio_fin|2017.0|44.44|55.56
+33|anio_fin|1990.0|75.0|25.0
+33|anio_fin|2002.0|84.62|15.38
+33|anio_fin|1991.0|100.0|0.0
+33|anio_fin|2006.0|84.62|15.38
+33|anio_fin|1988.0|50.0|50.0
+33|anio_fin|1982.0|50.0|50.0
+33|anio_fin|1989.0|60.0|40.0
+33|anio_fin|2010.0|0.0|100.0
+33|anio_fin|2011.0|60.0|40.0
+33|anio_fin|2001.0|73.33|26.67
+33|anio_fin|2005.0|60.0|40.0
+33|anio_fin|2019.0|46.67|53.33
+33|anio_fin|1995.0|85.71|14.29
+33|anio_fin|2007.0|66.67|33.33
+33|anio_fin|2000.0|77.78|22.22
+33|anio_fin|1984.0|50.0|50.0
+33|anio_fin|2015.0|66.67|33.33
+33|anio_fin|2013.0|88.89|11.11
+33|anio_fin|2004.0|45.45|54.55
+33|anio_fin|2003.0|80.0|20.0
+33|anio_fin|1994.0|100.0|0.0
+33|anio_fin|1998.0|78.57|21.43
+33|anio_fin|1996.0|66.67|33.33
+33|anio_fin|1985.0|50.0|50.0
+33|anio_fin|1981.0|66.67|33.33
+33|anio_fin|1999.0|72.73|27.27
+33|anio_fin|2018.0|66.67|33.33
+33|anio_fin|1986.0|100.0|0.0
+33|anio_fin|1997.0|71.43|28.57
+33|anio_fin|2008.0|84.62|15.38
+33|anio_fin|2009.0|0.0|100.0
+33|anio_fin|1968.0|0.0|100.0
+33|anio_fin|2012.0|50.0|50.0
+33|anio_fin|1992.0|100.0|0.0
+33|anio_fin|1993.0|50.0|50.0
+33|anio_fin|1987.0|100.0|0.0
+33|anio_fin|1978.0|50.0|50.0
+33|anio_fin|1979.0|100.0|0.0
+33|anio_fin|1975.0|100.0|0.0
+33|hechos_continuan|0|74.03|25.97
+33|hechos_continuan|1|67.27|32.73
+33|victimas_identificadas|0_a_1|74.05|25.95
+33|victimas_identificadas|1_a_2|77.55|22.45
+33|victimas_identificadas|5_a_6|68.42|31.58
+33|victimas_identificadas|2_a_3|59.72|40.28
+33|victimas_identificadas|3_a_4|70.59|29.41
+33|victimas_identificadas|4_a_5|85.0|15.0
+33|victimas_identificadas|-9999_a_0|50.0|50.0
+33|victimas_identificadas|6_a_7|61.54|38.46
+33|victimas_identificadas|9_a_10|100.0|0.0
+33|victimas_identificadas|8_a_9|100.0|0.0
+33|victimas_identificadas|7_a_8|100.0|0.0
+33|victimas_identificadas|11_a_12|0.0|100.0
+33|victimas_total|3_a_5|68.79|31.21
+33|victimas_total|0_a_1|74.56|25.44
+33|victimas_total|5_a_7|66.67|33.33
+33|victimas_total|1_a_3|70.53|29.47
+33|victimas_total|27_a_29|85.0|15.0
+33|victimas_total|7_a_9|94.12|5.88
+33|victimas_total|13_a_15|50.0|50.0
+33|victimas_total|19_a_21|87.5|12.5
+33|victimas_total|17_a_19|66.67|33.33
+33|victimas_total|11_a_13|100.0|0.0
+33|victimas_total|9_a_11|66.67|33.33
+33|victimas_total|23_a_25|100.0|0.0
+33|responsables_identificados|-9999_a_0|75.15|24.85
+33|responsables_identificados|0_a_1|65.67|34.33
+33|responsables_identificados|1_a_2|82.0|18.0
+33|responsables_identificados|2_a_3|71.43|28.57
+33|responsables_identificados|3_a_4|63.64|36.36
+33|responsables_identificados|7_a_8|100.0|0.0
+33|responsables_identificados|4_a_5|100.0|0.0
+33|responsables_identificados|5_a_6|0.0|100.0
+33|tc_tc_politico|0.0|73.81|26.19
+33|tc_tc_politico|1.0|57.69|42.31
+33|v_a_m_carta|0|73.71|26.29
+33|v_a_m_carta|1|53.85|46.15
+33|v_a_m_correo_e|0|73.83|26.17
+33|v_a_m_correo_e|1|0.0|100.0
+33|v_a_m_familiar|0|73.73|26.27
+33|v_a_m_familiar|1|67.39|32.61
+33|v_a_m_hostigamiento|0|74.15|25.85
+33|v_a_m_hostigamiento|1|64.58|35.42
+33|v_a_m_mensaje_celular|0|73.54|26.46
+33|v_a_m_mensaje_celular|1|71.43|28.57
+33|v_a_m_panfleto|0|74.52|25.48
+33|v_a_m_panfleto|1|40.91|59.09
+33|v_a_m_redes_sociales|0|73.68|26.32
+33|v_a_m_redes_sociales|1|0.0|100.0
+33|v_a_m_seguimiento|0|74.32|25.68
+33|v_a_m_seguimiento|1|56.72|43.28
+33|v_a_m_sufragio|0|73.65|26.35
+33|v_a_m_sufragio|1|40.0|60.0
+33|cluster|1|0.0|100.0
+33|cluster|0|100.0|0.0

@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<script>
+  function getValues1()
+  {
+    var selected = new Array();
+    var chkbox = document.getElementById("myTable1")
+    var selchk = chkbox.getElementsByTagName("input");
+    for(var i=0;i<selchk.length;i++)
+    {
+      if(selchk[i].checked)
+      {
+        selected.push(selchk[i].value)
+      }
+    }
+    if(selected.length>0)
+    {
+      localStorage.setItem('selected',selected);
+      document.getElementById("verLista").innerHTML=selected;
+      console.log('seleccionados');
+
+      $.ajax({
+        url: '',
+        type: 'POST',
+        data: {
+          ListSelec : selected.toString(),
+          csrfmiddlewaretoken: '{{ csrf_token }}'
+        },
+        dataType: 'json',
+        success: function (data) {
+          console.log('Enviado');
+        }
+      });
+
+    }
+  };
+
+  /*$("#ClickOK").change(function() { 
+    var listaVar = document.getElementById("verLista").innerHTM;
+    console.log(listaVar);
+  });*/
+
+</script>
+{% endblock%}
+
+{% block enunciadoRF %}
+
+<div style= "position: relative; width: 35%; top: 100; left:  100;  float: center; height: 800px;  display: inline-block; background: #fff;  text-align: center; overflow-y:auto;  margin-left: 30px;">
+<h5>Cargue de archivo y selección de características</h5><br>
+
+<form method="post" enctype="multipart/form-data">
+	{% csrf_token %}
+	<input id="archivo" type="file" name="myFile">
+  <script>
+    $(document).ready(function() {
+        $('input[type="file"]').change(function(e) {
+            var nomArchivo = e.target.files[0].name;
+            console.log(nomArchivo);
+            localStorage.setItem('file',nomArchivo);            
+        });
+    });
+  </script>
+  <br><br>
+	<input id="seleccionar"  class="btn btn-primary active" type="submit" value="Cargar variables" onclick="getFile()">
+	<!-- <a class="btn btn-danger" href="{% url 'nuevo_modelo' %}">Cancelar</a> -->
+  <br>
+  <br>
+  {% if something %}
+        <table id="myTable1" class="myTable">
+        <thead>
+          <tr>
+            <th onclick="sortTable(0, myTable1)"><u>Variable</u></th>
+            <th onclick="sortTable(1, myTable1)"><u>seleccionar</u></th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for item in cols %}
+        <tr>
+          <td>{{ item }}</td>
+          <td><input id="chkVariables" type="checkbox" value="{{item}}" class="attendancecheckvalue"></td>
+        </tr>
+        {% endfor %}
+        </tbody>
+        </table>
+    <input id="ClickOK" class="btn btn-primary active" type="submit" onclick="getValues1()" value="Seleccionar">
+  {% endif %}
+  <p id="verLista"></p>
+  <a class="btn btn-success" href="{% url 'nuevo_modelo' %}">Salir</a>
+</form>
+<br>
+</div>
+{% endblock %}

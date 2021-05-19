@@ -1,0 +1,24 @@
+Tipo|columna|variable|C_0|C_1|C_2|C_3|C_4|C_5|C_6
+141|lugar_zona|Urbana|0|650|0|0|185|0|0
+141|lugar_zona|Rural|715|0|2630|35|0|5|15
+141|hechos_continuan|0|715|650|2630|0|185|5|15
+141|hechos_continuan|1|0|0|0|35|0|0|0
+141|responsables_identificados|-9999_a_0|0|650|2630|30|0|5|0
+141|responsables_identificados|0_a_1|715|0|0|5|185|0|0
+141|responsables_identificados|1_a_2|0|0|0|0|0|0|10
+141|responsables_identificados|2_a_3|0|0|0|0|0|0|5
+141|tc_tc_politico|0|715|650|2630|35|185|5|15
+141|amenaza_carta|0|715|650|2630|35|185|0|15
+141|amenaza_carta|1|0|0|0|0|0|5|0
+141|v_vs_cambios_forzados_embarazo|Sin Especificar|715|650|2630|35|185|5|15
+141|v_vs_cambios_forzados_embarazo_nacimiento|Sin Especificar|715|650|2630|35|185|5|15
+141|v_vs_cambios_forzados_ind_col|Sin Especificar|715|650|2630|35|185|5|15
+141|v_vs_cambios_forzados_multiple_responsable|Sin Especificar|715|650|2630|35|185|5|15
+141|v_vs_cambios_forzados_publico|Sin Especificar|715|650|2630|35|185|5|15
+141|cluster|0_a_1|0|650|0|0|0|0|0
+141|cluster|1_a_2|0|0|2630|0|0|0|0
+141|cluster|2_a_3|0|0|0|35|0|0|0
+141|cluster|-9999_a_0|715|0|0|0|0|0|0
+141|cluster|3_a_4|0|0|0|0|185|0|0
+141|cluster|4_a_5|0|0|0|0|0|5|0
+141|cluster|5_a_6|0|0|0|0|0|0|15

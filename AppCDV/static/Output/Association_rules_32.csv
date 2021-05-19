@@ -1,0 +1,101 @@
+cluster|antecedents_description|consequents_description|support|confidence
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.9899244332493703|0.9949367088607596
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.9899244332493703|0.9949367088607596
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.9496221662468514|0.9947229551451187
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9496221662468514|0.9544303797468354
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9496221662468514|0.9544303797468354
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.9496221662468514|0.9947229551451187
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.9445843828715366|0.9946949602122016
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9445843828715366|0.9541984732824428
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.9445843828715366|0.9946949602122016
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9445843828715366|0.949367088607595
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.9445843828715366|0.9894459102902375
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.9445843828715366|0.949367088607595
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.9042821158690176|0.9944598337950138
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9042821158690176|0.908860759493671
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9042821158690176|0.908860759493671
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.9042821158690176|0.9944598337950138
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8790931989924433|0.9667590027700831
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8790931989924433|0.920844327176781
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8992443324937027|0.9083969465648855
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.8992443324937027|0.9944289693593314
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8992443324937027|0.9944289693593314
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8992443324937027|0.9037974683544304
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8992443324937027|0.9037974683544304
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8992443324937027|0.9889196675900276
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8740554156171285|0.920424403183024
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8740554156171285|0.9665738161559889
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8740554156171285|0.9942693409742122
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8740554156171285|0.878481012658228
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8740554156171285|0.9155672823218998
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8740554156171285|0.961218836565097
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.8740554156171285|0.9942693409742122
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8740554156171285|0.9665738161559889
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8740554156171285|0.920424403183024
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8740554156171285|0.961218836565097
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8740554156171285|0.9155672823218998
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8740554156171285|0.878481012658228
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8690176322418136|0.9199999999999999
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|0.8690176322418136|0.994236311239193
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8690176322418136|0.9663865546218487
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.994236311239193
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8690176322418136|0.9151193633952255
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8690176322418136|0.8778625954198473
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.8690176322418136|0.9610027855153204
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.9151193633952255
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.9885386819484241
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.9610027855153204
+1|Cuando el atributo 'lugar zona' posee el valor de  Urbana|Entonces el atributo 'hechos continuan' posee el valor de  0|0.8690176322418136|0.8734177215189874
+1|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.9102902374670184
+1|Cuando el atributo 'victimas total' posee el valor de  (-1.002, 201.2]|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.8734177215189874
+1|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Urbana|0.8690176322418136|0.9556786703601108
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9900271985494107|0.9981718464351006
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9900271985494107|0.9918256130790191
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.986400725294651|0.998165137614679
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.986400725294651|0.9881925522252497
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9800543970988214|0.9917431192660551
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9800543970988214|0.9881170018281535
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9782411604714415|0.9981498612395929
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9782411604714415|0.9917279411764706
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9782411604714415|0.9880952380952381
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9782411604714415|0.9899082568807339
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9782411604714415|0.9862888482632541
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9782411604714415|0.9800181653042688
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9310970081595649|0.9980563654033042
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9310970081595649|0.932788374205268
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9256572982774252|0.9922254616132167
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9256572982774252|0.93327239488117
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9220308250226654|0.988338192419825
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9220308250226654|0.9330275229357798
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9238440616500453|0.9980411361410382
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9238440616500453|0.9922103213242452
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9238440616500453|0.9331501831501832
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9238440616500453|0.9902818270165208
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9238440616500453|0.9314442413162706
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9238440616500453|0.9255222524977292
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9202175883952856|0.9980334316617503
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9202175883952856|0.988315481986368
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9202175883952856|0.9329044117647058
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9202175883952856|0.9863945578231292
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9202175883952856|0.9311926605504587
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9202175883952856|0.92188919164396
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.914777878513146|0.9921337266470011
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.914777878513146|0.9882468168462293
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.914777878513146|0.933395004625347
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.914777878513146|0.9805636540330418
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.914777878513146|0.9256880733944954
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.914777878513146|0.9223034734917733
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'lugar zona' posee el valor de  Rural|0.9129646418857661|0.998017839444995
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9129646418857661|0.9921182266009853
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9129646418857661|0.9882237487733072
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.933271547729379
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'victimas total' posee el valor de  (0.001, 100.9]|0.9129646418857661|0.9901671583087512
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9129646418857661|0.9862879529872675
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9129646418857661|0.9805258033106133
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.9315448658649399
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.9255514705882353
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.9221611721611722
+0|Cuando el atributo 'hechos continuan' posee el valor de  0|Entonces el atributo 'pais hecho' posee el valor de  Colombia|0.9129646418857661|0.9786200194363459
+0|Cuando el atributo 'pais hecho' posee el valor de  Colombia|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.9238532110091743
+0|Cuando el atributo 'victimas total' posee el valor de  (0.001, 100.9]|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.9204753199268739
+0|Cuando el atributo 'lugar zona' posee el valor de  Rural|Entonces el atributo 'hechos continuan' posee el valor de  0|0.9129646418857661|0.9146230699364214

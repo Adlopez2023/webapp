@@ -1,0 +1,119 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block enunciadoRF %}
+<div>
+	<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item"><a href="{% url 'listar_modelos' %}">Modelos</a></li>
+		<li class="breadcrumb-item active" aria-current="page">Listar modelo</li>
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<li>
+	
+	</button>
+	<a
+	  href="{% url 'listar_modelos'  %}"
+	  type="submit"
+	  class="btn btn-secondary"
+	>
+	  Regresar
+	</a>
+	</li>
+	
+	</ol>
+
+	</nav>
+	
+</div>
+
+
+<div style= "position: relative; width: 33%; top: 100; left:  100;   height: 600px;  display: inline-block; background: #fff;  text-align: center; overflow-y:auto;  margin-left: 30px;">
+<h5>Resultados del modelo</h5><br>
+<form style="text-align:left;">
+	{% csrf_token %}
+	{{form.as_table}}
+</form>
+
+<h5>Atributos más representativos f(ganancia)</h5><br>
+<img class="img-fluid rounded d-block m-l-none" src="{% static 'imagenes/XGain_binary_0_' %}{{ id_modelo }}.png"/>
+
+</div>
+<div style= "position: relative; width: 53%; top: 20; left:  200;  height: 600px;  display: inline-block; background: #fff;  text-align: center; overflow-y:auto;  margin-left: 105px;">
+	<h5>Descargar Resultados</h5>
+	<a href="{% static 'consolidado/Resultados_consolidado_' %}{{ id_modelo }}.xlsx" download>Agrupación de datos</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="{% static 'Output/Perfilamiento_cluster_0_' %}{{ id_modelo }}.html" download>Perfilamiento</a> &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="{% static 'consolidado/imagenes_consolidado_' %}{{ id_modelo }}.xlsx" download>Técnicos</a> 
+	
+	
+	<br><br>
+
+
+	<h5>Análisis de asociación </h5><br>	
+	<table table id="myTabledf" class="table v-middle" border="1px"> 
+		<tr> 
+			{% for data in DataFrameAR %} 
+				<th>{{ data }}</th> 
+			{% endfor %} 
+	 
+			{% for _, record in DataFrameAR.iterrows %} 
+				<tr> 
+					{% for value in record %} 
+						<td>{{ value }}</td> 
+					{% endfor %} 
+				</tr> 
+			{% endfor %} 
+		</tr> 
+	</table> 
+
+</div>
+<div style= "position: relative; width: 45%; top: 100; left:  100;   height: 600px;  display: inline-block; background: #fff;  text-align: center; overflow-y:auto;  margin-left: 30px;">
+	<h5>Distribución de atributos por cluster </h5><br>	
+	<table table id="myTabledf" class="table v-middle" border="1px"> 
+		<tr> 
+			{% for data in DataFramen %} 
+				<th>{{ data }}</th> 
+			{% endfor %} 
+	 
+			{% for _, record in DataFramen.iterrows %} 
+				<tr> 
+					{% for value in record %} 
+						<td>{{ value }}</td> 
+					{% endfor %} 
+				</tr> 
+			{% endfor %} 
+		</tr> 
+	</table> 
+</div>
+<div style= "position: relative; width: 45%; top: 100; left:  200;  height: 600px;  display: inline-block; background: #fff;  text-align: center; overflow-y:auto;  margin-left: 30px;">
+	<h5>Distribución de atributos por cluster (porcentaje)</h5><br>	
+	<table table id="myTabledf" class="table v-middle" border="1px"> 
+		<tr> 
+			{% for data in DataFramep %} 
+				<th>{{ data }}</th> 
+			{% endfor %} 
+	 
+			{% for _, record in DataFramep.iterrows %} 
+				<tr> 
+					{% for value in record %} 
+						<td>{{ value }}</td> 
+					{% endfor %} 
+				</tr> 
+			{% endfor %} 
+		</tr> 
+	</table> 
+</div>
+
+{% endblock %}
+
+
+{% block content%}
+
+{% endblock%}

@@ -1,0 +1,482 @@
+Tipo|columna|variable|C_0|C_1
+32|pais_hecho|Colombia|1090|379
+32|pais_hecho|España|0|4
+32|pais_hecho|Ecuador|8|10
+32|pais_hecho|Venezuela|3|0
+32|pais_hecho|Brasil|1|0
+32|pais_hecho|Francia|0|1
+32|pais_hecho|México|0|3
+32|pais_hecho|Chile|1|0
+32|departamento_hecho|Antioquia|184|69
+32|departamento_hecho|Putumayo|73|7
+32|departamento_hecho|Meta|30|3
+32|departamento_hecho|Cundinamarca|13|2
+32|departamento_hecho|Cauca|33|18
+32|departamento_hecho|Sucre|2|1
+32|departamento_hecho|Huila|38|9
+32|departamento_hecho|Risaralda|14|6
+32|departamento_hecho|Sin Especificar|13|18
+32|departamento_hecho|Nariño|76|21
+32|departamento_hecho|Chocó|27|5
+32|departamento_hecho|Cesar|65|7
+32|departamento_hecho|Valle Del Cauca|80|57
+32|departamento_hecho|Boyacá|37|1
+32|departamento_hecho|Santander|29|15
+32|departamento_hecho|Guainía|3|0
+32|departamento_hecho|Magdalena|74|31
+32|departamento_hecho|La Guajira|26|10
+32|departamento_hecho|Quindio|4|4
+32|departamento_hecho|Bogotá, D.c.|17|51
+32|departamento_hecho|Norte De Santander|50|11
+32|departamento_hecho|Caquetá|76|10
+32|departamento_hecho|Vaupés|6|6
+32|departamento_hecho|Córdoba|9|4
+32|departamento_hecho|Arauca|14|1
+32|departamento_hecho|Bolívar|33|7
+32|departamento_hecho|Casanare|25|10
+32|departamento_hecho|Guaviare|26|3
+32|departamento_hecho|Atlántico|3|4
+32|departamento_hecho|Tolima|9|3
+32|departamento_hecho|Caldas|5|3
+32|departamento_hecho|Amazonas|5|0
+32|departamento_hecho|Vichada|4|0
+32|ciudad_hecho|Medellín|6|39
+32|ciudad_hecho|Apartadó|32|6
+32|ciudad_hecho|Turbo|17|2
+32|ciudad_hecho|Puerto Asís|13|0
+32|ciudad_hecho|Lejanías|6|0
+32|ciudad_hecho|Mapiripán|3|0
+32|ciudad_hecho|Villagarzón|8|0
+32|ciudad_hecho|Vistahermosa|1|0
+32|ciudad_hecho|Viotá|2|1
+32|ciudad_hecho|Guapí|1|1
+32|ciudad_hecho|Sincelejo|0|1
+32|ciudad_hecho|Isnos|2|3
+32|ciudad_hecho|Belén De Umbría|3|0
+32|ciudad_hecho|Pais Vasco|0|1
+32|ciudad_hecho|Dosquebradas|1|2
+32|ciudad_hecho|San Andrés De Tumaco|29|4
+32|ciudad_hecho|Riosucio|17|2
+32|ciudad_hecho|Chiriguaná|5|0
+32|ciudad_hecho|Uribe|1|0
+32|ciudad_hecho|Buenaventura|18|13
+32|ciudad_hecho|Pauna|2|0
+32|ciudad_hecho|Barrancabermeja|2|6
+32|ciudad_hecho|Inírida|2|0
+32|ciudad_hecho|Villavicencio|3|2
+32|ciudad_hecho|Puerto Guzmán|4|0
+32|ciudad_hecho|Ciénaga|10|1
+32|ciudad_hecho|Riohacha|13|9
+32|ciudad_hecho|Armenia|3|4
+32|ciudad_hecho|Bogotá, D.c.|15|50
+32|ciudad_hecho|Istmina|1|1
+32|ciudad_hecho|Roldanillo|4|1
+32|ciudad_hecho|San Vicente De Chucurí|2|0
+32|ciudad_hecho|Bucaramanga|2|3
+32|ciudad_hecho|Calima|2|0
+32|ciudad_hecho|Ansermanuevo|1|0
+32|ciudad_hecho|Quito|3|8
+32|ciudad_hecho|Tuluá|8|5
+32|ciudad_hecho|Argelia|9|1
+32|ciudad_hecho|Riofrío|5|0
+32|ciudad_hecho|Málaga|1|0
+32|ciudad_hecho|Fonseca|4|0
+32|ciudad_hecho|San Juan Del Cesar|2|1
+32|ciudad_hecho|Valledupar|19|4
+32|ciudad_hecho|Aracataca|11|3
+32|ciudad_hecho|Convención|2|0
+32|ciudad_hecho|Solano|8|0
+32|ciudad_hecho|Dibulla|2|0
+32|ciudad_hecho|Taraira|2|4
+32|ciudad_hecho|Sin Especificar|7|1
+32|ciudad_hecho|Tibú|15|1
+32|ciudad_hecho|Popayán|5|7
+32|ciudad_hecho|El Zulia|3|0
+32|ciudad_hecho|La Jagua De Ibirico|1|0
+32|ciudad_hecho|Tachira|1|0
+32|ciudad_hecho|Sardinata|5|0
+32|ciudad_hecho|San José De Cúcuta|6|5
+32|ciudad_hecho|Tierralta|2|0
+32|ciudad_hecho|Cali|8|27
+32|ciudad_hecho|Mutatá|5|0
+32|ciudad_hecho|Valencia|1|1
+32|ciudad_hecho|Arauquita|5|0
+32|ciudad_hecho|Saravena|4|0
+32|ciudad_hecho|Puerto Berrío|0|1
+32|ciudad_hecho|Pereira|1|3
+32|ciudad_hecho|Agua De Dios|1|0
+32|ciudad_hecho|Santuario|2|0
+32|ciudad_hecho|Santander De Quilichao|3|8
+32|ciudad_hecho|Alicante|0|3
+32|ciudad_hecho|Neiva|6|2
+32|ciudad_hecho|Miraflores|11|2
+32|ciudad_hecho|La Montañita|8|6
+32|ciudad_hecho|Mitú|4|2
+32|ciudad_hecho|Florencia|7|1
+32|ciudad_hecho|San Miguel|2|0
+32|ciudad_hecho|San Vicente Del Caguán|8|1
+32|ciudad_hecho|Quinchía|5|1
+32|ciudad_hecho|Puebloviejo|6|1
+32|ciudad_hecho|Valparaíso|11|0
+32|ciudad_hecho|Puerto Rico|6|0
+32|ciudad_hecho|La Macarena|3|0
+32|ciudad_hecho|Puerto Gaitán|2|0
+32|ciudad_hecho|El Carmen De Bolívar|4|5
+32|ciudad_hecho|Curillo|10|1
+32|ciudad_hecho|Dabeiba|23|1
+32|ciudad_hecho|Samaniego|1|0
+32|ciudad_hecho|Santa Marta|6|6
+32|ciudad_hecho|Zona De Frontera Con Vaupés|1|0
+32|ciudad_hecho|Segovia|14|0
+32|ciudad_hecho|San Juan Nepomuceno|1|0
+32|ciudad_hecho|El Doncello|1|0
+32|ciudad_hecho|Policarpa|8|4
+32|ciudad_hecho|Pore|5|0
+32|ciudad_hecho|Cartagena Del Chairá|9|1
+32|ciudad_hecho|Mocoa|3|0
+32|ciudad_hecho|Caicedonia|0|2
+32|ciudad_hecho|Alto Baudó|2|0
+32|ciudad_hecho|Chimichagua|3|0
+32|ciudad_hecho|Montería|2|3
+32|ciudad_hecho|San José Del Guaviare|13|1
+32|ciudad_hecho|El Copey|6|1
+32|ciudad_hecho|Barbosa|1|0
+32|ciudad_hecho|Barbacoas|4|0
+32|ciudad_hecho|Trujillo|1|0
+32|ciudad_hecho|Simití|7|0
+32|ciudad_hecho|Sabanalarga|1|0
+32|ciudad_hecho|Zona Bananera|15|3
+32|ciudad_hecho|Chigorodó|4|7
+32|ciudad_hecho|Ibagué|1|3
+32|ciudad_hecho|Pivijay|4|2
+32|ciudad_hecho|San Jacinto|10|0
+32|ciudad_hecho|Puerto Leguízamo|12|0
+32|ciudad_hecho|Agustín Codazzi|7|0
+32|ciudad_hecho|Solita|1|0
+32|ciudad_hecho|Palermo|6|0
+32|ciudad_hecho|San José Del Fragua|2|0
+32|ciudad_hecho|Ocaña|1|1
+32|ciudad_hecho|Caracas|1|0
+32|ciudad_hecho|San Martín De Loba|1|0
+32|ciudad_hecho|Barranco De Loba|1|0
+32|ciudad_hecho|Jamundí|1|0
+32|ciudad_hecho|Palmira|8|2
+32|ciudad_hecho|Fundación|3|3
+32|ciudad_hecho|Santa Rosa|1|0
+32|ciudad_hecho|Pasto|0|4
+32|ciudad_hecho|Yumbo|1|4
+32|ciudad_hecho|Olaya Herrera|4|0
+32|ciudad_hecho|Bucarasica|0|2
+32|ciudad_hecho|Colombia|1|0
+32|ciudad_hecho|Tarqui|0|1
+32|ciudad_hecho|Yondó|1|0
+32|ciudad_hecho|Manaure Balcón Del Cesar|2|1
+32|ciudad_hecho|Aguachica|4|0
+32|ciudad_hecho|Puerto Wilches|3|1
+32|ciudad_hecho|Barranco Minas|1|0
+32|ciudad_hecho|Anserma|2|0
+32|ciudad_hecho|Barranquilla|0|2
+32|ciudad_hecho|Simacota|1|0
+32|ciudad_hecho|Puerto Caicedo|6|4
+32|ciudad_hecho|Landázuri|3|0
+32|ciudad_hecho|Nueva Granada|1|0
+32|ciudad_hecho|Gigante|3|0
+32|ciudad_hecho|Hato Corozal|1|0
+32|ciudad_hecho|Floridablanca|0|4
+32|ciudad_hecho|Lebrija|1|0
+32|ciudad_hecho|Malambo|0|1
+32|ciudad_hecho|Soledad|2|1
+32|ciudad_hecho|Sitionuevo|8|0
+32|ciudad_hecho|Salamina|1|1
+32|ciudad_hecho|Plato|8|12
+32|ciudad_hecho|Tarazá|4|1
+32|ciudad_hecho|San Pedro De Urabá|18|0
+32|ciudad_hecho|Arjona|3|0
+32|ciudad_hecho|Caloto|1|0
+32|ciudad_hecho|Algarrobo|1|0
+32|ciudad_hecho|Toledo|1|0
+32|ciudad_hecho|Sabana De Torres|1|0
+32|ciudad_hecho|Sucumbíos|3|0
+32|ciudad_hecho|Necoclí|3|0
+32|ciudad_hecho|Milán|6|0
+32|ciudad_hecho|Zarzal|0|1
+32|ciudad_hecho|Dagua|16|0
+32|ciudad_hecho|Santiago|12|1
+32|ciudad_hecho|San Luis De Palenque|1|1
+32|ciudad_hecho|Timbío|5|0
+32|ciudad_hecho|Piamonte|0|1
+32|ciudad_hecho|Urrao|7|5
+32|ciudad_hecho|Bugalagrande|4|1
+32|ciudad_hecho|Ovejas|1|0
+32|ciudad_hecho|Orito|5|1
+32|ciudad_hecho|Maní|1|1
+32|ciudad_hecho|Cuenca|1|0
+32|ciudad_hecho|Ituango|7|0
+32|ciudad_hecho|El Paujíl|2|0
+32|ciudad_hecho|Florida|0|1
+32|ciudad_hecho|Astrea|1|0
+32|ciudad_hecho|Pitalito|2|2
+32|ciudad_hecho|Medio Atrato|1|0
+32|ciudad_hecho|Lago Agrio|0|1
+32|ciudad_hecho|Corinto|1|0
+32|ciudad_hecho|Carmen Del Darién|1|0
+32|ciudad_hecho|Puerto Boyacá|1|0
+32|ciudad_hecho|Bello|1|0
+32|ciudad_hecho|San Carlos|2|0
+32|ciudad_hecho|Belén De Los Andaquíes|3|0
+32|ciudad_hecho|Puerto Parra|1|0
+32|ciudad_hecho|El Bagre|10|1
+32|ciudad_hecho|Remedios|2|0
+32|ciudad_hecho|Rioblanco|2|0
+32|ciudad_hecho|El Carmen|0|1
+32|ciudad_hecho|Teorama|8|0
+32|ciudad_hecho|González|4|0
+32|ciudad_hecho|Caucasia|1|1
+32|ciudad_hecho|Alejandría|0|1
+32|ciudad_hecho|San Martín|1|1
+32|ciudad_hecho|Salgar|1|0
+32|ciudad_hecho|Páez|14|0
+32|ciudad_hecho|Nechí|3|0
+32|ciudad_hecho|Calarcá|1|0
+32|ciudad_hecho|Bolívar|3|0
+32|ciudad_hecho|Valle Del Guamuez|4|1
+32|ciudad_hecho|Leticia|3|0
+32|ciudad_hecho|Paris|0|1
+32|ciudad_hecho|Los Santos|1|0
+32|ciudad_hecho|Albania|1|0
+32|ciudad_hecho|Timaná|1|0
+32|ciudad_hecho|Tello|1|0
+32|ciudad_hecho|Maicao|1|0
+32|ciudad_hecho|Puerto Libertador|4|0
+32|ciudad_hecho|La Gloria|9|0
+32|ciudad_hecho|Acandí|3|0
+32|ciudad_hecho|Valdivia|1|0
+32|ciudad_hecho|Acevedo|1|0
+32|ciudad_hecho|Arboletes|2|0
+32|ciudad_hecho|Algeciras|6|1
+32|ciudad_hecho|Colón|2|0
+32|ciudad_hecho|Sibundoy|1|0
+32|ciudad_hecho|Nariño|1|1
+32|ciudad_hecho|Balboa|1|0
+32|ciudad_hecho|El Retorno|2|0
+32|ciudad_hecho|San Juan De Urabá|2|0
+32|ciudad_hecho|Cáceres|1|1
+32|ciudad_hecho|Bosconia|1|0
+32|ciudad_hecho|Envigado|0|1
+32|ciudad_hecho|Cartagena De Indias|0|2
+32|ciudad_hecho|El Peñón|2|1
+32|ciudad_hecho|Peñol|1|0
+32|ciudad_hecho|Tungurahua|0|1
+32|ciudad_hecho|Aguazul|0|1
+32|ciudad_hecho|Caldono|1|0
+32|ciudad_hecho|Paime|2|0
+32|ciudad_hecho|Mercaderes|1|0
+32|ciudad_hecho|Duitama|2|0
+32|ciudad_hecho|La Argentina|7|0
+32|ciudad_hecho|El Molino|3|0
+32|ciudad_hecho|El Charco|2|0
+32|ciudad_hecho|Tame|4|0
+32|ciudad_hecho|Mistrató|2|0
+32|ciudad_hecho|La Playa|1|0
+32|ciudad_hecho|Taminango|1|1
+32|ciudad_hecho|Pailitas|1|1
+32|ciudad_hecho|Paz De Ariporo|0|1
+32|ciudad_hecho|Morales|4|0
+32|ciudad_hecho|Nunchía|3|2
+32|ciudad_hecho|Támara|10|2
+32|ciudad_hecho|Cáchira|4|0
+32|ciudad_hecho|La Esperanza|3|0
+32|ciudad_hecho|Ciudad De Mexico|0|3
+32|ciudad_hecho|Betulia|3|0
+32|ciudad_hecho|El Tarra|1|0
+32|ciudad_hecho|Los Patios|0|1
+32|ciudad_hecho|El Rosario|18|1
+32|ciudad_hecho|La Palma|4|0
+32|ciudad_hecho|Villarrica|1|0
+32|ciudad_hecho|La Plata|1|0
+32|ciudad_hecho|La Vega|1|0
+32|ciudad_hecho|Santiago De Chile|1|0
+32|ciudad_hecho|Arauca|1|1
+32|ciudad_hecho|Anzoátegui|3|0
+32|ciudad_hecho|Cajibío|1|0
+32|ciudad_hecho|Medio Baudó|2|0
+32|ciudad_hecho|Yopal|3|1
+32|ciudad_hecho|Cumaribo|2|0
+32|ciudad_hecho|Victoria|1|0
+32|ciudad_hecho|Baraya|1|0
+32|ciudad_hecho|Cantagallo|1|0
+32|ciudad_hecho|Acacías|2|0
+32|ciudad_hecho|Manizales|2|2
+32|ciudad_hecho|La Pedrera|1|0
+32|ciudad_hecho|Suárez|1|1
+32|ciudad_hecho|Tenjo|1|0
+32|ciudad_hecho|Puerto Carreño|1|0
+32|ciudad_hecho|Mirití - Paraná|1|0
+32|ciudad_hecho|Piedecuesta|0|1
+32|ciudad_hecho|Chaparral|1|0
+32|ciudad_hecho|Cumbitara|6|7
+32|ciudad_hecho|Quibdó|0|2
+32|ciudad_hecho|Cimitarra|7|0
+32|ciudad_hecho|Campohermoso|5|0
+32|ciudad_hecho|Magüí|1|0
+32|ciudad_hecho|Pueblo Bello|2|0
+32|ciudad_hecho|Castilla La Nueva|1|0
+32|ciudad_hecho|Santa Isabel|1|0
+32|ciudad_hecho|Carepa|1|0
+32|ciudad_hecho|La Llanada|1|0
+32|ciudad_hecho|Sogamoso|2|0
+32|ciudad_hecho|San Luis De Gaceno|5|0
+32|ciudad_hecho|La Mesa|1|0
+32|ciudad_hecho|Calamar|2|0
+32|ciudad_hecho|San Eduardo|3|0
+32|ciudad_hecho|Mesetas|2|0
+32|ciudad_hecho|Aguada|2|0
+32|ciudad_hecho|Yarumal|3|0
+32|ciudad_hecho|Campamento|1|0
+32|ciudad_hecho|Pisba|6|0
+32|ciudad_hecho|San Sebastián|1|0
+32|ciudad_hecho|Socotá|1|0
+32|ciudad_hecho|Sucumbios|1|0
+32|ciudad_hecho|La Unión|1|0
+32|ciudad_hecho|Paya|0|1
+32|ciudad_hecho|Santa Rosalía|1|0
+32|ciudad_hecho|Orocué|0|1
+32|ciudad_hecho|Monterrey|1|0
+32|lugar_zona|Urbana|0|395
+32|lugar_zona|Rural|1101|0
+32|lugar_zona|Sin Especificar|2|2
+32|anio_inicio|1987|13|3
+32|anio_inicio|2006|28|13
+32|anio_inicio|2008|44|10
+32|anio_inicio|1981|7|1
+32|anio_inicio|1995|40|12
+32|anio_inicio|2010|16|8
+32|anio_inicio|2017|12|9
+32|anio_inicio|2002|83|19
+32|anio_inicio|2000|100|19
+32|anio_inicio|1977|1|2
+32|anio_inicio|1999|58|13
+32|anio_inicio|1990|17|5
+32|anio_inicio|2005|34|25
+32|anio_inicio|1992|19|4
+32|anio_inicio|2014|14|11
+32|anio_inicio|2004|40|24
+32|anio_inicio|1997|54|10
+32|anio_inicio|2015|12|11
+32|anio_inicio|2016|10|14
+32|anio_inicio|2018|14|22
+32|anio_inicio|1996|42|10
+32|anio_inicio|1985|13|5
+32|anio_inicio|1988|13|5
+32|anio_inicio|2001|70|16
+32|anio_inicio|2019|19|16
+32|anio_inicio|2009|16|10
+32|anio_inicio|1982|4|2
+32|anio_inicio|1989|22|4
+32|anio_inicio|1991|18|2
+32|anio_inicio|1994|20|6
+32|anio_inicio|2003|42|19
+32|anio_inicio|2012|14|8
+32|anio_inicio|1986|10|1
+32|anio_inicio|1979|6|2
+32|anio_inicio|1963|2|0
+32|anio_inicio|1967|2|0
+32|anio_inicio|1983|5|0
+32|anio_inicio|2007|27|9
+32|anio_inicio|1998|61|16
+32|anio_inicio|1975|5|0
+32|anio_inicio|1980|4|1
+32|anio_inicio|2011|21|9
+32|anio_inicio|2013|14|11
+32|anio_inicio|1984|2|2
+32|anio_inicio|1993|21|4
+32|anio_inicio|1961|3|0
+32|anio_inicio|1960|1|0
+32|anio_inicio|1971|1|0
+32|anio_inicio|1978|1|3
+32|anio_inicio|1968|0|1
+32|anio_inicio|1962|1|0
+32|anio_inicio|1974|1|0
+32|anio_inicio|1965|1|0
+32|anio_inicio|1959|1|0
+32|anio_inicio|1958|1|0
+32|anio_inicio|1976|2|0
+32|anio_inicio|1954|1|0
+32|anio_fin|-9999.0|908|309
+32|anio_fin|2016.0|4|3
+32|anio_fin|2017.0|4|5
+32|anio_fin|1990.0|3|1
+32|anio_fin|2002.0|11|2
+32|anio_fin|1991.0|4|0
+32|anio_fin|2006.0|11|2
+32|anio_fin|1988.0|2|2
+32|anio_fin|1982.0|2|2
+32|anio_fin|1989.0|3|2
+32|anio_fin|2010.0|0|4
+32|anio_fin|2011.0|3|2
+32|anio_fin|2001.0|11|4
+32|anio_fin|2005.0|9|6
+32|anio_fin|2019.0|7|8
+32|anio_fin|1995.0|6|1
+32|anio_fin|2007.0|6|3
+32|anio_fin|2000.0|14|4
+32|anio_fin|1984.0|1|1
+32|anio_fin|2015.0|4|2
+32|anio_fin|2013.0|8|1
+32|anio_fin|2004.0|5|6
+32|anio_fin|2003.0|12|3
+32|anio_fin|1994.0|4|0
+32|anio_fin|1998.0|11|3
+32|anio_fin|1996.0|2|1
+32|anio_fin|1985.0|1|1
+32|anio_fin|1981.0|2|1
+32|anio_fin|1999.0|8|3
+32|anio_fin|2018.0|8|4
+32|anio_fin|1986.0|1|0
+32|anio_fin|1997.0|5|2
+32|anio_fin|2008.0|11|2
+32|anio_fin|2009.0|0|1
+32|anio_fin|1968.0|0|1
+32|anio_fin|2012.0|2|2
+32|anio_fin|1992.0|2|0
+32|anio_fin|1993.0|2|2
+32|anio_fin|1987.0|1|0
+32|anio_fin|1978.0|1|1
+32|anio_fin|1979.0|3|0
+32|anio_fin|1975.0|1|0
+32|hechos_continuan|0|1029|361
+32|hechos_continuan|1|74|36
+32|victimas_identificadas|0_a_1|862|302
+32|victimas_identificadas|1_a_2|114|33
+32|victimas_identificadas|5_a_6|13|6
+32|victimas_identificadas|2_a_3|43|29
+32|victimas_identificadas|3_a_4|36|15
+32|victimas_identificadas|4_a_5|17|3
+32|victimas_identificadas|-9999_a_0|3|3
+32|victimas_identificadas|6_a_7|8|5
+32|victimas_identificadas|9_a_10|2|0
+32|victimas_identificadas|8_a_9|3|0
+32|victimas_identificadas|7_a_8|2|0
+32|victimas_identificadas|11_a_12|0|1
+32|victimas_total|3_a_5|97|44
+32|victimas_total|0_a_1|759|259
+32|victimas_total|5_a_7|42|21
+32|victimas_total|1_a_3|146|61
+32|victimas_total|27_a_29|17|3
+32|victimas_total|7_a_9|16|1
+32|victimas_total|13_a_15|3|3
+32|victimas_total|19_a_21|7|1
+32|victimas_total|17_a_19|2|1
+32|victimas_total|11_a_13|4|0
+32|victimas_total|9_a_11|6|3
+32|victimas_total|23_a_25|4|0
+32|responsables_identificados|-9999_a_0|862|285
+32|responsables_identificados|0_a_1|176|92
+32|responsables_identificados|1_a_2|41|9
+32|responsables_identificados|2_a_3|15|6
+32|responsables_identificados|3_a_4|7|4
+32|responsables_identificados|7_a_8|1|0
+32|responsables_identificados|4_a_5|1|0
+32|responsables_identificados|5_a_6|0|1
+32|cluster|1|0|397
+32|cluster|0|1103|0

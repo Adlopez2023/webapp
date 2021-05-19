@@ -1,0 +1,77 @@
+{% extends 'base.html' %} {% load static%}
+<link rel="stylesheet" href="{% static 'css/createModel.css' %}" />
+
+{% block content %}
+<div>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="{% url 'listar_modelos' %}">Modelos</a>
+      </li>
+      <li class="breadcrumb-item active" aria-current="page">
+        Entrenamiento modelo {{ modelo.nombre_modelo }}
+      </li>
+    </ol>
+  </nav>
+</div>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-3"></div>
+      <div class="col-6">
+        <div class="row">
+          <div class="mt-4 mb-4 col-12">
+            <h2 class="text-center">Entrenando modelo - {{ modelo.nombre_modelo }}</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <form method="post">
+              {% csrf_token %}
+              <h4>Fuente de datos:</h4> <p> {{ modelo.nombre_archivo }} </p>
+              <h4> Caracteristicas: </h4> <p>  {{ modelo.caracteristicas }} </p>
+              
+              <h4>Procedimiento:</h4>
+              <ul>
+                <li>data_preparation</li>
+                <li>select best K</li>
+                <li>apply_Kmeans</li>
+                <li>create_elbow</li>
+                <li>distance_clusters</li>
+                <li>GetFeaturesList</li>
+              </ul>
+              <div class="row">
+                <div class="col-6">
+                  <a
+                    class="btn btn-danger"
+                    href="{% url 'eliminar_modelosR'  modelo.id_modelo %} "
+                    >Cancelar ejecución</a
+                  >
+                </div>
+                <div class="col-6">
+                  {% if estado == 1 %}
+
+                  <script> 
+                    <!--
+                    window.location.replace("{% url 'entrenando_modelos'  modelo.id_modelo %} "); 
+                    //-->
+                    </script>
+
+                  {% endif %}
+                  {% if estado == 0 %}
+                  <a class="btn btn-secondary" href="{% url 'resultados'  modelo.id_modelo %}"
+                    >Ver Resultados</a>
+                  {% endif %}
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="col-3"></div>
+    </div>
+  </div>
+</section>
+
+{% endblock %}

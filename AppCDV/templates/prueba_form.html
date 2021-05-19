@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+
+
+<body>
+{% block header %}
+<h1>Modelamiento</h1>
+{% endblock %}
+
+<div class="container">
+
+
+</div>
+
+{% block content %}
+<h2>Modelos :  </h2>
+
+{% if lista_modelos %}
+<ul>
+    {% for d_modelos in lista_modelos %}
+        <li>  {{ d_modelos.nombre_modelo}} </li>
+    {% endfor %}
+
+</ul>
+
+{% endif %}
+
+<h2>Fuentes :  </h2>
+{% if lista_fuentes %}
+<ul>
+    {% for d_fuentes in lista_fuentes %}
+        <br> <li> <strong> {{ d_fuentes.fuente}} </strong> </li>
+
+         {% for d_atributo in lista_atributos %}
+
+
+                {% if d_atributo.fuente == d_fuentes.fuente  %}
+                    {{d_atributo.atributo}} <br>
+                {% endif %}
+
+         {% endfor %}
+
+    {% endfor %}
+
+</ul>
+
+{% endif %}
+{% endblock %}
+</body>
+</html>
